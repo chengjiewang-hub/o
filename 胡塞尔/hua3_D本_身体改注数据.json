@@ -1,0 +1,1890 @@
+{
+  "scope": "Hua III/2 pp.479–517, PDF pp.10–48, before ANHANG; D marginal annotations only. Two selected inserted sheets are separately reviewed below, not an exhaustive inserted-sheet search.",
+  "sources": [
+    {
+      "path": "/Users/wangchengjie/Library/Mobile Documents/iCloud~md~obsidian/Documents/博论参考文献 /博论参考文献/胡塞尔原著/胡塞尔全集1-28/hua3 Schuhmann 1.pdf",
+      "sha256": "7baa7742aa7e5161bb14314d512d10aa48c04223a2d7f35411f7773d1ef667ba"
+    },
+    {
+      "path": "/Users/wangchengjie/Library/Mobile Documents/iCloud~md~obsidian/Documents/博论参考文献 /博论参考文献/胡塞尔原著/胡塞尔全集1-28/hua3 Schuhmann 2.pdf",
+      "sha256": "19f931e69116d1e24bbfca588d8d957793f47584b00028a46594c1e18c03a384"
+    }
+  ],
+  "date": "2026-10-08",
+  "counts": {
+    "extracted_all_exemplar_blocks": 352,
+    "extracted_D_blocks": 125,
+    "D_keyword_blocks": 5,
+    "selected_D_page_blocks": 8
+  },
+  "D_blocks_raw": [
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 4 d. Neuausg.",
+      "pdf_pages": [
+        10
+      ],
+      "raw": "2ff. Rb. Psychologie und Phanomenologie",
+      "text": "2ff. Rb. Psychologie und Phanomenologie",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 5 d. Neuausg.",
+      "pdf_pages": [
+        10
+      ],
+      "raw": "6 mit dem ,,Bewußtsein\"] mit dem Ich und Bewußtsein 29/. Bewußt-\nsein] Ichbewußtsein",
+      "text": "6 mit dem ,,Bewußtsein\"] mit dem Ich und Bewußtsein 29/. Bewußtsein] Ichbewußtsein",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 6 d. Neuausg.",
+      "pdf_pages": [
+        10
+      ],
+      "raw": "2iff. Rb. Im voraus Scheidung der Reduktionen in eidetische und\nspezifisch phänomenologische 27 Rb. Die Ausdrucksweise ist gefährlich.",
+      "text": "2iff. Rb. Im voraus Scheidung der Reduktionen in eidetische und spezifisch phänomenologische 27 Rb. Die Ausdrucksweise ist gefährlich.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 7 d. Neuausg.",
+      "pdf_pages": [
+        10
+      ],
+      "raw": "5/. Rb. Erst im zweiten <Buch> reales und zeitliches Sein unterschieden\n12-18 zu Eben bis können zweimal Rb. m. Blaust. NB 25/. Rb. Nur ein\nBruchstück ist wirklich gegeben.",
+      "text": "5/. Rb. Erst im zweiten <Buch> reales und zeitliches Sein unterschieden 12-18 zu Eben bis können zweimal Rb. m. Blaust. NB 25/. Rb. Nur ein Bruchstück ist wirklich gegeben.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 8 d. Neuausg.",
+      "pdf_pages": [
+        10
+      ],
+      "raw": "iff. Rb. Phanomenologie als erste Philosophie 6 zu Metaphysik Rb.\nalso auch für Metaphysik",
+      "text": "iff. Rb. Phanomenologie als erste Philosophie 6 zu Metaphysik Rb. also auch für Metaphysik",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 10 d. Neuausg.",
+      "pdf_pages": [
+        10
+      ],
+      "raw": "10 zu theoretischen Einstellung Rb. Und die natürliche praktische Ein-\nstellung ?",
+      "text": "10 zu theoretischen Einstellung Rb. Und die natürliche praktische Einstellung ?",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 11 d. Neuausg.",
+      "pdf_pages": [
+        10
+      ],
+      "raw": "yf. zu in dem gewöhnlichen Sinne Rb. im gewöhnlichen Sinn, wo von\nRechtsausweisung ohne theoretische Erfahrung die Rede ist",
+      "text": "yf. zu in dem gewöhnlichen Sinne Rb. im gewöhnlichen Sinn, wo von Rechtsausweisung ohne theoretische Erfahrung die Rede ist",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 12 d. Neuausg.",
+      "pdf_pages": [
+        10
+      ],
+      "raw": "2 Erfahrungswissenschaften F. im gewöhnlichen Sinn",
+      "text": "2 Erfahrungswissenschaften F. im gewöhnlichen Sinn",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 13 d. Neuausg.",
+      "pdf_pages": [
+        11
+      ],
+      "raw": "2 relative] zufällige; dies als besser und als zur Übersetzung bemerkt\nbezeichnet",
+      "text": "2 relative] zufällige; dies als besser und als zur Übersetzung bemerkt bezeichnet",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 16 d. Neuausg.",
+      "pdf_pages": [
+        11
+      ],
+      "raw": "3-5 Rb. Existenz und Essenz",
+      "text": "3-5 Rb. Existenz und Essenz",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. ig d. Neuausg.",
+      "pdf_pages": [
+        11
+      ],
+      "raw": "20 bei heißt Rb. Apodiktisch cf. <S.> 285 „heißt...\" sowie Rb. Apodik-\ntizität <S.> 15 <und> 285; muß wohl gebessert werden.",
+      "text": "20 bei heißt Rb. Apodiktisch cf. <S.> 285 „heißt...\" sowie Rb. Apodiktizität <S.> 15 <und> 285; muß wohl gebessert werden.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 21 d. Neuausg.",
+      "pdf_pages": [
+        11
+      ],
+      "raw": "36 exakter] „exakter\", dazu Rb. Aber es zeigt sich, daß dieses ma-\nthematische Ideal nicht überall gültig sein kann, so nicht für die Phäno-\nmenologie.",
+      "text": "36 exakter] „exakter\", dazu Rb. Aber es zeigt sich, daß dieses mathematische Ideal nicht überall gültig sein kann, so nicht für die Phänomenologie.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 22 d. Neuausg.",
+      "pdf_pages": [
+        11
+      ],
+      "raw": "10 Disziplinen, F. die deduktiven,",
+      "text": "10 Disziplinen, F. die deduktiven,",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 23 d. Neuausg.",
+      "pdf_pages": [
+        11
+      ],
+      "raw": "18 Rb. Ontologie",
+      "text": "18 Rb. Ontologie",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 2j d. Neuausg,",
+      "pdf_pages": [
+        12
+      ],
+      "raw": "6f. Rb. m. Blaust. Definition der logischen Kategorie i6f. Rb. m.\nBlaust, analytische Kategorien",
+      "text": "6f. Rb. m. Blaust. Definition der logischen Kategorie i6f. Rb. m. Blaust, analytische Kategorien",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 2Q d. Neuausg.",
+      "pdf_pages": [
+        12
+      ],
+      "raw": "36 F. der Anm. m. Blaust. Philosophie der Arithmetik",
+      "text": "36 F. der Anm. m. Blaust. Philosophie der Arithmetik",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 30 d. Neuausg.",
+      "pdf_pages": [
+        12
+      ],
+      "raw": "34f. Rb. m. Blaust, cf. Formale und transzendentale Logik dazu m.\nBietst. Verweis auf die neue Schrift Formale und transzendentale Logik\ngefordert",
+      "text": "34f. Rb. m. Blaust, cf. Formale und transzendentale Logik dazu m. Bietst. Verweis auf die neue Schrift Formale und transzendentale Logik gefordert",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 32 d. Neuausg.",
+      "pdf_pages": [
+        12
+      ],
+      "raw": "11 Bedeutung] Syntagma und Rb. Bedeutung, Bedeutungskategorien:\ndas bedarf besserer Präzisierung. 38 einen eidetischen] einen sach-\nhaltig eidetischen",
+      "text": "11 Bedeutung] Syntagma und Rb. Bedeutung, Bedeutungskategorien: das bedarf besserer Präzisierung. 38 einen eidetischen] einen sachhaltig eidetischen",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 3$ d. Neuausg.",
+      "pdf_pages": [
+        12
+      ],
+      "raw": "18 Rb. Individuum als Urgegenstand ig das logisch] das rein logisch",
+      "text": "18 Rb. Individuum als Urgegenstand ig das logisch] das rein logisch",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 39 d. Neuausg.",
+      "pdf_pages": [
+        13
+      ],
+      "raw": "6f. zu wesentliche Grundlagen für unseren Aufbau der Idee einer reinen\nPhanomenologie Rb. m. Blaust. NB? 32J. zu philosophische εποχή Rb.\nm. Blaust, nicht zu verwechseln mit derjenigen, die Philosophie selbst als\nMethode gestaltet; cf. phänomenologische Reduktion",
+      "text": "6f. zu wesentliche Grundlagen für unseren Aufbau der Idee einer reinen Phanomenologie Rb. m. Blaust. NB? 32J. zu philosophische εποχή Rb. m. Blaust, nicht zu verwechseln mit derjenigen, die Philosophie selbst als Methode gestaltet; cf. phänomenologische Reduktion",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 42 d. Neuausg.",
+      "pdf_pages": [
+        13
+      ],
+      "raw": "10 zu Erfahrung Rb. m. Blaust. Erfahrung = Naturerfahrung",
+      "text": "10 zu Erfahrung Rb. m. Blaust. Erfahrung = Naturerfahrung",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 46 d. Neuausg.",
+      "pdf_pages": [
+        13
+      ],
+      "raw": "7 zu ganz so Rb. m. Blaust. Das darf nicht mißdeutet werden. 52/.\nSachverhaltsintuition F. m. Blaust, als „kategorialer Anschauung\"",
+      "text": "7 zu ganz so Rb. m. Blaust. Das darf nicht mißdeutet werden. 52/. Sachverhaltsintuition F. m. Blaust, als „kategorialer Anschauung\"",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 53 d. Neuausg.",
+      "pdf_pages": [
+        14
+      ],
+      "raw": "7//. Rb. m. Blaust. Die Meinung ist reine, unbedingte Allgemeinheit,\nderen Ausweisung in sehender Wesensintuition läge. Mag auch sein, daß\ndie Mathematik voreilig Wesensallgemeinheit antizipiert, die sich nur\nbeschränkt einlösen läßt.",
+      "text": "7//. Rb. m. Blaust. Die Meinung ist reine, unbedingte Allgemeinheit, deren Ausweisung in sehender Wesensintuition läge. Mag auch sein, daß die Mathematik voreilig Wesensallgemeinheit antizipiert, die sich nur beschränkt einlösen läßt.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 56 d. Neuausg.",
+      "pdf_pages": [
+        14
+      ],
+      "raw": "I4ff. Rb. m. Blaust. Vorhandenheit des Weltlichen 30 zu Wahr-\nnehmungsfelde Rb. m. Blaust. Wahrnehmung in einem erweiterten\nSinn; derart, daß gewahrende, erfassende Wahrnehmung ein besonderer\nVollzugsmodus ist",
+      "text": "I4ff. Rb. m. Blaust. Vorhandenheit des Weltlichen 30 zu Wahrnehmungsfelde Rb. m. Blaust. Wahrnehmung in einem erweiterten Sinn; derart, daß gewahrende, erfassende Wahrnehmung ein besonderer Vollzugsmodus ist",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. $y d. Neuausg.",
+      "pdf_pages": [
+        14
+      ],
+      "raw": "12 zu in ein klares Anschauen Rb. m. Blaust, in ein, Wahrnehmen im\nerfassenden Sinn ebenso betätigendes Erfahren 34 unendlich. Der] un-\nendlich, d.h. der",
+      "text": "12 zu in ein klares Anschauen Rb. m. Blaust, in ein, Wahrnehmen im erfassenden Sinn ebenso betätigendes Erfahren 34 unendlich. Der] unendlich, d.h. der",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 58 d. Neuausg.",
+      "pdf_pages": [
+        14
+      ],
+      "raw": "2jff. Rb. m. Blaust. Ich und Menschen überhaupt sind also vorhanden,\nals Weltlichkeiten.",
+      "text": "2jff. Rb. m. Blaust. Ich und Menschen überhaupt sind also vorhanden, als Weltlichkeiten.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. $g d. Neuausg.",
+      "pdf_pages": [
+        15
+      ],
+      "raw": "iy bis /.5., 9 Immerfort bis kann eingeklammert 32 bin; F. ich habe\nvon ihr nicht immer Erfahrung und Miterfahrung wie von der realen Welt.",
+      "text": "iy bis /.5., 9 Immerfort bis kann eingeklammert 32 bin; F. ich habe von ihr nicht immer Erfahrung und Miterfahrung wie von der realen Welt.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 60 d. Neuausg.",
+      "pdf_pages": [
+        15
+      ],
+      "raw": "8 Ichbeziehung F. und davon, daß die arithmetische Welt Wrelt der\narithmetischen Forschung etc, ist,",
+      "text": "8 Ichbeziehung F. und davon, daß die arithmetische Welt Wrelt der arithmetischen Forschung etc, ist,",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 61 d. Neuausg.",
+      "pdf_pages": [
+        15
+      ],
+      "raw": "7 zu bisher kaum gesehene Rb. Heidegger sagt das Gegenteil. 3if. zu\nWissenschaften der natürlichen Einstellung Rb, = positiven\nWissenschaften",
+      "text": "7 zu bisher kaum gesehene Rb. Heidegger sagt das Gegenteil. 3if. zu Wissenschaften der natürlichen Einstellung Rb, = positiven Wissenschaften",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 65 d. Neuausg.",
+      "pdf_pages": [
+        16
+      ],
+      "raw": "J phänomenologische] transzendental-phänomenologische 25 übe die]\nübe eine im eigentümlichen Sinn 26f. die mir jedes Urteil über\nräumlich-zeitliches Dasein völlig verschließt gestr.; zu ersetzen\ndurch eine Einlage <=Beilage 3$> 31 ich aus] ich damit aus",
+      "text": "J phänomenologische] transzendental-phänomenologische 25 übe die] übe eine im eigentümlichen Sinn 26f. die mir jedes Urteil über räumlich-zeitliches Dasein völlig verschließt gestr.; zu ersetzen durch eine Einlage <=Beilage 3$> 31 ich aus] ich damit aus",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 66 d. Neuausg.",
+      "pdf_pages": [
+        16
+      ],
+      "raw": "1 habe F. in Konsequenz davon, daß ich schon jedwede natürliche\nErfahrung, auf die als Dasein ausweisende alle wissenschaftliche Begrün-\ndung letztlich zurückweist, der Modifikation der Einklammerung unter-\nworfen habe. 2 Urteilsausschaltung m. Blaust, verbessert in Urteilsein-\nklammerung 18 Erfahrungen F. unter Ausmerzung von Scheinen i8f.\ngilt uns jetzt nichts] sei hinfort „außer Geltung gesetzt\" 29-55 inwiefern\nmit der im Vorstehenden gegebenen Begrenzung der Gesamtsphäre der\nεποχή wirklich eine Einschränkung ihrer Universalität gegeben sei. Was\nkann denn übrig bleiben, wenn die ganze Welt, eingerechnet\nuns selbst mit allem cogitare, ausgeschaltet ist ?] inwiefern mit\nder im Vorstehenden gegebenen Zeichnung des Umfangs der εποχή eine\nEinschränkung der universalen Sphäre erfahrbaren Seins und möglicher\nUrteile gegeben sei. Kann nach Ausschaltung des universalen Bodens der\nnatürlichen Erfahrung, der Erfahrung im gewöhnlichen Sinn, überhaupt\nnoch eine mögliche Erfahrung und ein Erfahrungsboden übrig sein, und\ndamit ein Seinsboden für eine mögliche Wissenschaft? Was kann denn\nübrig bleiben, wenn die ganze Welt ,,ausgeschaltet\" ist? 32\nuns selbst] uns Menschen selbst",
+      "text": "1 habe F. in Konsequenz davon, daß ich schon jedwede natürliche Erfahrung, auf die als Dasein ausweisende alle wissenschaftliche Begründung letztlich zurückweist, der Modifikation der Einklammerung unterworfen habe. 2 Urteilsausschaltung m. Blaust, verbessert in Urteilseinklammerung 18 Erfahrungen F. unter Ausmerzung von Scheinen i8f. gilt uns jetzt nichts] sei hinfort „außer Geltung gesetzt\" 29-55 inwiefern mit der im Vorstehenden gegebenen Begrenzung der Gesamtsphäre der εποχή wirklich eine Einschränkung ihrer Universalität gegeben sei. Was kann denn übrig bleiben, wenn die ganze Welt, eingerechnet uns selbst mit allem cogitare, ausgeschaltet ist ?] inwiefern mit der im Vorstehenden gegebenen Zeichnung des Umfangs der εποχή eine Einschränkung der universalen Sphäre erfahrbaren Seins und möglicher Urteile gegeben sei. Kann nach Ausschaltung des universalen Bodens der natürlichen Erfahrung, der Erfahrung im gewöhnlichen Sinn, überhaupt noch eine mögliche Erfahrung und ein Erfahrungsboden übrig sein, und damit ein Seinsboden für eine mögliche Wissenschaft? Was kann denn übrig bleiben, wenn die ganze Welt ,,ausgeschaltet\" ist? 32 uns selbst] uns Menschen selbst",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu 5. 6y d. Neuausg.",
+      "pdf_pages": [
+        17
+      ],
+      "raw": "iof. nicht abgegrenzten] nie aufgewiesenen 12 Seins ist, F.\nursprünglich zugänglich in einer ihr zugeordneten Erfahrungsart. 75/.\naus wesentlichen Gründen] in einem besonderen Sinne jrp/.gegeben\nF. und aus ihr in Reinheit zu schöpfen 25/. übrigen Erlebnisse] übrigen\nrein psychischen Erlebnisse 30 alle Erlebnisse] alle diese Erlebnisse 33\nder psychologischen Reflexion] (und das charakterisiert sie auch in der\npsychologischen Reflexion)",
+      "text": "iof. nicht abgegrenzten] nie aufgewiesenen 12 Seins ist, F. ursprünglich zugänglich in einer ihr zugeordneten Erfahrungsart. 75/. aus wesentlichen Gründen] in einem besonderen Sinne jrp/.gegeben F. und aus ihr in Reinheit zu schöpfen 25/. übrigen Erlebnisse] übrigen rein psychischen Erlebnisse 30 alle Erlebnisse] alle diese Erlebnisse 33 der psychologischen Reflexion] (und das charakterisiert sie auch in der psychologischen Reflexion)",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu 5. 68 d. Neuausg.",
+      "pdf_pages": [
+        17
+      ],
+      "raw": "7 ohne die] ohne jene eigenartigen 10-12 Einsicht in das Wesen des\nBewußtseins überhaupt und ganz besonders auch des Bewußtseins,]\nEinsicht in das aus rein „innerer Erfahrung\" bzw. rein innerer Anschauung\nüberhaupt zu schöpfende Wesen des Bewußtseins überhaupt. Ganz\nbesonders interessiert uns dieses Bewußtsein, 15-18 von in sich bis es\nals, dann auch nochmals bis 20 eigenartige eingeklammert; am Rand Delea-\nturzeichen und Rb. Einlage < ^vielleicht Beilage 3J oder Beilage 36 bzw.\nBeilage j5> 20 einer neuen] einer prinizpiell neuen 22-26 vonRrstbis\nmacht eingeklammert und gestr. 22 ,,phänomenologische\"] transzenden-\ntale 24 die notwendige] die unbedingt notwendige 24/. das ,,reine\"]\ndas transzendental „reine\" 33/. phänomenologische Welt] transzenden-\ntale Seinssphäre 34 ja kaum] und höchstens 36 Problematik i7. der\nNeuzeit 57/. von dem soviel die Rede sein wird] das wir dem psycho-\nlogisch-reinen gegenüberstellen 3g Operation] Methode",
+      "text": "7 ohne die] ohne jene eigenartigen 10-12 Einsicht in das Wesen des Bewußtseins überhaupt und ganz besonders auch des Bewußtseins,] Einsicht in das aus rein „innerer Erfahrung\" bzw. rein innerer Anschauung überhaupt zu schöpfende Wesen des Bewußtseins überhaupt. Ganz besonders interessiert uns dieses Bewußtsein, 15-18 von in sich bis es als, dann auch nochmals bis 20 eigenartige eingeklammert; am Rand Deleaturzeichen und Rb. Einlage < ^vielleicht Beilage 3J oder Beilage 36 bzw. Beilage j5> 20 einer neuen] einer prinizpiell neuen 22-26 vonRrstbis macht eingeklammert und gestr. 22 ,,phänomenologische\"] transzendentale 24 die notwendige] die unbedingt notwendige 24/. das ,,reine\"] das transzendental „reine\" 33/. phänomenologische Welt] transzendentale Seinssphäre 34 ja kaum] und höchstens 36 Problematik i7. der Neuzeit 57/. von dem soviel die Rede sein wird] das wir dem psychologisch-reinen gegenüberstellen 3g Operation] Methode",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 6g d. Neuausg.",
+      "pdf_pages": [
+        18
+      ],
+      "raw": "1 gewonnen wird, F. gegenüber ihrer psychologischen Parallele, der rein\npsychologischen, 2 Operation F. (wie auch ihre Parallele) 5/. Rb. klären\n< ?> Vgl. auch Beilage 81 und 82 j-10 von der bis unsere gestr. und [ab 8\nalso) eingeklammert. Deleaturzeichen am Rand und Rb. verbessert in b\n< = Schlußabsatz der Beilage j8> 11 werden F. müssen, 14 als Thema] als\npsychologisch-phänomenologisches Thema 14//. Rb. cf. auch „Funktion\"\nS. 176 15 Wir beginnen F. die näheren Ausführungen 26 phänomeno-\nlogischcn] transzendentalen iy „Außenwelt\"] reale Welt i8f. psycho-\nlogische] rein psychologische 18f. psychologische Reflexion] psycho-\nlogische Reflexion; dazu m. Blaust, bemerkt: und die radierte Stelle\n<=eine an dieser Stelle radierte Bemerkung>: der phänomenologischen\nReflexion. Ausdrücklich betonen, daß hier eine psychologische Unter-\nsuchung eigener Art — eine rein intentionale — durchgeführt wird, die\nvielleicht für eine echte Psychologie eine grundlegende Reform andeutet.\n20 neuen] transzendentalen 2if. des „Bewußtseins] des reinen Be-\nwußtseins 22 Daseins von F. menschlichen Gemeinschaften, 24 sind.\nF. Wir sind in der Einstellung der beschriebenen phänomenologisch-\npsychologischen Reduktion, in der alles das reine Bewußtsein der Be-\nwußtseinssubjektivität Transzendierende auf Seiten des jeweilig im Be-\nwußtsein Bewußten und nach Seiten des Ich ausgeschaltet bleibe. || Wir\nfolgen F. zugleich 29 u. dgl. F. schon rein gefaßt 36 klarer F. und\nreiner 36/. fixieren wir F. (frei variierend und im reinen Überhaupt das\nInvariante, das <?> verbleibende Allgemeine herausschauend). Vgl. auch\nBeilage 83",
+      "text": "1 gewonnen wird, F. gegenüber ihrer psychologischen Parallele, der rein psychologischen, 2 Operation F. (wie auch ihre Parallele) 5/. Rb. klären < ?> Vgl. auch Beilage 81 und 82 j-10 von der bis unsere gestr. und [ab 8 also) eingeklammert. Deleaturzeichen am Rand und Rb. verbessert in b < = Schlußabsatz der Beilage j8> 11 werden F. müssen, 14 als Thema] als psychologisch-phänomenologisches Thema 14//. Rb. cf. auch „Funktion\" S. 176 15 Wir beginnen F. die näheren Ausführungen 26 phänomenologischcn] transzendentalen iy „Außenwelt\"] reale Welt i8f. psychologische] rein psychologische 18f. psychologische Reflexion] psychologische Reflexion; dazu m. Blaust, bemerkt: und die radierte Stelle <=eine an dieser Stelle radierte Bemerkung>: der phänomenologischen Reflexion. Ausdrücklich betonen, daß hier eine psychologische Untersuchung eigener Art — eine rein intentionale — durchgeführt wird, die vielleicht für eine echte Psychologie eine grundlegende Reform andeutet. 20 neuen] transzendentalen 2if. des „Bewußtseins] des reinen Bewußtseins 22 Daseins von F. menschlichen Gemeinschaften, 24 sind. F. Wir sind in der Einstellung der beschriebenen phänomenologischpsychologischen Reduktion, in der alles das reine Bewußtsein der Bewußtseinssubjektivität Transzendierende auf Seiten des jeweilig im Bewußtsein Bewußten und nach Seiten des Ich ausgeschaltet bleibe. || Wir folgen F. zugleich 29 u. dgl. F. schon rein gefaßt 36 klarer F. und reiner 36/. fixieren wir F. (frei variierend und im reinen Überhaupt das Invariante, das <?> verbleibende Allgemeine herausschauend). Vgl. auch Beilage 83",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. yo d. Neuausg.",
+      "pdf_pages": [
+        18,
+        19
+      ],
+      "raw": "3 Forschung] Erschauung 6 Sinne, auf] Umfang 7 es zum Glück\nnicht ankommt] uns notwendig noch fehlt ig zunächst F. ganz und gar\n20 Sinne, F. in dem es der rein psychologischen Sphäre verbleibt. ]| Später-\nhin F. (in den späteren Teilen des Werkes) 2of. Späterhin wird es uns\nnoch gründlich beschäftigen eingeklammert; außerdem Rb. m. Blaust. NB\n21 der Analyse] der rein psychologischen Analyse 26 Die Bewußtseins-\nerlebnisse] Die reinen Bewußtseinserlebnisse || ganzen F. noch aufzu-\nweisenden 27 in ihrem] für jedes Ich in der Totalität eines 29 Wesen\nF. kontinuierlich 30 wird dann] ist |j des Stromes gestr. 34]': ab in (und\nnochmals ab zu) bis und eingeklammert 35 charakterisieren F. bzw. We-\nsensarten, reine Typen von cogitationes zu unterscheiden 37//. Rb. m.\nBlaust. NB",
+      "text": "3 Forschung] Erschauung 6 Sinne, auf] Umfang 7 es zum Glück nicht ankommt] uns notwendig noch fehlt ig zunächst F. ganz und gar 20 Sinne, F. in dem es der rein psychologischen Sphäre verbleibt. ]| Späterhin F. (in den späteren Teilen des Werkes) 2of. Späterhin wird es uns noch gründlich beschäftigen eingeklammert; außerdem Rb. m. Blaust. NB 21 der Analyse] der rein psychologischen Analyse 26 Die Bewußtseinserlebnisse] Die reinen Bewußtseinserlebnisse || ganzen F. noch aufzuweisenden 27 in ihrem] für jedes Ich in der Totalität eines 29 Wesen F. kontinuierlich 30 wird dann] ist |j des Stromes gestr. 34]': ab in (und nochmals ab zu) bis und eingeklammert 35 charakterisieren F. bzw. Wesensarten, reine Typen von cogitationes zu unterscheiden 37//. Rb. m. Blaust. NB",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. yi d. Neuausg.",
+      "pdf_pages": [
+        19
+      ],
+      "raw": "2 sein können; F. und dabei einsichtig zu machen, daß eine reine Be-\nwußtseinserfahrung derart möglich ist, daß sie, von reinem Erlebnis zu\nreinem fortschreitend, nie Anderes berührt und mit aufnimmt als wieder\nBewußtsein — wohin alle Bewußtseinssynthesen gehören. Also mit ande-\nren Worten, ein universales Feld reinen Bewußtseins, zunächst meines in\npsychologischem Sinn reinen Bewußtseins, soll als ein in sich geschlossenes\nlreld möglicher Erfahrung und Erfahrungsausweisung herausgestellt wer-\nden; als solches ein Feld zu vollziehender reiner Ideation. 13 heißt, F.\ndas, wie ich gewiss bin, real existiert, || sondern] obschon 18 Papier, F.\nwenn es ist, ig Seinsart, F. im Erlebnis als real seiend bewußt, aber\nnicht als reales Bestandstück darin enthalten. So verfällt es mit allem\nihm Eigenen der phänomenologischen Epoche. Danach bemerkt Fortset-\nzung <siehe> Beilage <=Beilage 84> 21 Rb. tn. Blaust, „eigentliches\nWahrnehmen\" = Gewahren 55 Rb. m. Blaust. Hintergrund 36 „ob-\njektiv\"] überhaupt real",
+      "text": "2 sein können; F. und dabei einsichtig zu machen, daß eine reine Bewußtseinserfahrung derart möglich ist, daß sie, von reinem Erlebnis zu reinem fortschreitend, nie Anderes berührt und mit aufnimmt als wieder Bewußtsein — wohin alle Bewußtseinssynthesen gehören. Also mit anderen Worten, ein universales Feld reinen Bewußtseins, zunächst meines in psychologischem Sinn reinen Bewußtseins, soll als ein in sich geschlossenes lreld möglicher Erfahrung und Erfahrungsausweisung herausgestellt werden; als solches ein Feld zu vollziehender reiner Ideation. 13 heißt, F. das, wie ich gewiss bin, real existiert, || sondern] obschon 18 Papier, F. wenn es ist, ig Seinsart, F. im Erlebnis als real seiend bewußt, aber nicht als reales Bestandstück darin enthalten. So verfällt es mit allem ihm Eigenen der phänomenologischen Epoche. Danach bemerkt Fortsetzung <siehe> Beilage <=Beilage 84> 21 Rb. tn. Blaust, „eigentliches Wahrnehmen\" = Gewahren 55 Rb. m. Blaust. Hintergrund 36 „objektiv\"] überhaupt real",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 72 d. Neuausg.",
+      "pdf_pages": [
+        20
+      ],
+      "raw": "5/. zum Wesen] zum reinen Wesen 5 Wahrnehmung F. bzw. zum\nWahrgenommenen als solchem 7 möglich sind] mir möglich, die mir\n(im „ich kann\") frei erzeugbar sind; dazu m. Blaust, als andere Umarbei-\ntungsmöglichkeit vermerkt ichlich möglich, von mir „gekonnt\" <sind> 18\n„dunkler\" F. „leerer\", „unanschaulicher\" ig fingierte F. Dinge 23\nbewußten, F. in ihnen als Wirklichkeit oder Fiktion geltenden 25 sind.\nF. Darin verfällt wieder das Gelten als Wirklich- oder Nichtigkeit der\nReduktion, während überall doch eine jede in ihrer Weise Bewußtsein\nvon ist, in ihrer Weise „meinend\", Vermeintes als solches in sich tragend,\nals untrennbar zugehörig zu ihrem reinen Eigenwesen. 33 bereits er-\nscheinen m. Blaust, geändert in bereits anschaulich erscheinen oder un-\nanschaulich irgendwie vorstellig sein 36 in besonderem Sinne] in irgend-\neinem besonderen Sinne betrachtend, urteilend, gefühlsmäßig bewertend,\nhandelnd",
+      "text": "5/. zum Wesen] zum reinen Wesen 5 Wahrnehmung F. bzw. zum Wahrgenommenen als solchem 7 möglich sind] mir möglich, die mir (im „ich kann\") frei erzeugbar sind; dazu m. Blaust, als andere Umarbeitungsmöglichkeit vermerkt ichlich möglich, von mir „gekonnt\" <sind> 18 „dunkler\" F. „leerer\", „unanschaulicher\" ig fingierte F. Dinge 23 bewußten, F. in ihnen als Wirklichkeit oder Fiktion geltenden 25 sind. F. Darin verfällt wieder das Gelten als Wirklich- oder Nichtigkeit der Reduktion, während überall doch eine jede in ihrer Weise Bewußtsein von ist, in ihrer Weise „meinend\", Vermeintes als solches in sich tragend, als untrennbar zugehörig zu ihrem reinen Eigenwesen. 33 bereits erscheinen m. Blaust, geändert in bereits anschaulich erscheinen oder unanschaulich irgendwie vorstellig sein 36 in besonderem Sinne] in irgendeinem besonderen Sinne betrachtend, urteilend, gefühlsmäßig bewertend, handelnd",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 73 d. Neuausg.",
+      "pdf_pages": [
+        20
+      ],
+      "raw": "nf. Rb, m. Blaust, prägnanter Sinn von Akt 11 Sinn des Ausdrucks]\nSinn des Ausdrucks 13 festen Begriff] Aktbegriff ly anzeigen. F.\nIn diesem ausgezeichneten Sinn haben wir erfahrende Akte, Gefühlsakte,\nWillensakte, ausdrückliche und nicht ausdrückliche. i8ff. Rb. Es schei-\ndet sich dann waches Ich im engeren Sinne der Positionalität und wach-\nströmendes Ich.",
+      "text": "nf. Rb, m. Blaust, prägnanter Sinn von Akt 11 Sinn des Ausdrucks] Sinn des Ausdrucks 13 festen Begriff] Aktbegriff ly anzeigen. F. In diesem ausgezeichneten Sinn haben wir erfahrende Akte, Gefühlsakte, Willensakte, ausdrückliche und nicht ausdrückliche. i8ff. Rb. Es scheidet sich dann waches Ich im engeren Sinne der Positionalität und wachströmendes Ich.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. J4 d. Neuausg.",
+      "pdf_pages": [
+        20,
+        21
+      ],
+      "raw": "11 psychologischen] psychophysischen und sonstwie realen 13\nVielmehr ist von Erlebnissen rein ihrem Wesen nach] Vielmehr ist hier\nund überall von phänomenologisch reinen Erlebnissen 14 reinen] ihrem\n|| den] ihrem ig ,wirklichen] ,.daseienden\" 20-23 das geht nicht bis\nerfaßte Wesen.] das geht das reine Erlebnis in seinem Eigenwesen an.\nAlso wesensmäßig — d.h. in der Ideation: die Wahrnehmung überhaupt,\nPhantasie überhaupt; in formalster Allgemeinheit: Intentionales über-\nhaupt — ergibt, findet es sich <als> invarianter Bestand der erschauten\nallgemeinen Wesen. Dasselbe gilt bis zu der niedersten Konkretionsstufe.\n22 pure Idee] pures Eidos 23 Wesen des] Wesen jedes 24/. in welchem\nbestimmten oder unbestimmten Sinne es das ist.] in welchem Inhalte,\nSinne es das ist, wobei freilich zu berücksichtigen ist, wie jeweils der ihm\nuntrennbar zugehörige Horizontsinn mitbestimmend ist. Danach bemerkt\nDazu evtl. Beilage <=Beilage 3Q> 25 Somit] So 31 alles und jedes im\nErlebnisstrom Vorfindliche; also gestr.",
+      "text": "11 psychologischen] psychophysischen und sonstwie realen 13 Vielmehr ist von Erlebnissen rein ihrem Wesen nach] Vielmehr ist hier und überall von phänomenologisch reinen Erlebnissen 14 reinen] ihrem || den] ihrem ig ,wirklichen] ,.daseienden\" 20-23 das geht nicht bis erfaßte Wesen.] das geht das reine Erlebnis in seinem Eigenwesen an. Also wesensmäßig — d.h. in der Ideation: die Wahrnehmung überhaupt, Phantasie überhaupt; in formalster Allgemeinheit: Intentionales überhaupt — ergibt, findet es sich <als> invarianter Bestand der erschauten allgemeinen Wesen. Dasselbe gilt bis zu der niedersten Konkretionsstufe. 22 pure Idee] pures Eidos 23 Wesen des] Wesen jedes 24/. in welchem bestimmten oder unbestimmten Sinne es das ist.] in welchem Inhalte, Sinne es das ist, wobei freilich zu berücksichtigen ist, wie jeweils der ihm untrennbar zugehörige Horizontsinn mitbestimmend ist. Danach bemerkt Dazu evtl. Beilage <=Beilage 3Q> 25 Somit] So 31 alles und jedes im Erlebnisstrom Vorfindliche; also gestr.",
+      "body_forms": [],
+      "psychophysical_forms": [
+        "psychophysischen"
+      ],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. J5 d. Neuausg.",
+      "pdf_pages": [
+        21
+      ],
+      "raw": "5 Blickwendung F. und in phänomenologischer Reduktion auf das rein\nPsychische 8 darstellender] „darstellender\" 13 beschreibende F. psy-\nchologische ig Subjekt F. (das,,Ich\") 22 Ichblick auf etwas] Ichblick\nauf etwas 25 des Aktes] des spezifischen Aktes 30 daß F. (wie schon\nS. 64 berührt worden ist) 33/. des Objektes (des Gegenstandes über-\nhaupt)] des Bewußtseinsobjektes (des intentionalen Gegenstandes)",
+      "text": "5 Blickwendung F. und in phänomenologischer Reduktion auf das rein Psychische 8 darstellender] „darstellender\" 13 beschreibende F. psychologische ig Subjekt F. (das,,Ich\") 22 Ichblick auf etwas] Ichblick auf etwas 25 des Aktes] des spezifischen Aktes 30 daß F. (wie schon S. 64 berührt worden ist) 33/. des Objektes (des Gegenstandes überhaupt)] des Bewußtseinsobjektes (des intentionalen Gegenstandes)",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. y6 d. Neuausg.",
+      "pdf_pages": [
+        21
+      ],
+      "raw": "23 volle m. Blaust, gestr. 25 Wert F. und was ihm zugehört 33 ein\nzwiefaches Zugewendetsein.] und eventuell ein zwiefaches Zugewendet-\nsein, in der Einheit eines cogito intentional verflochten ein doppeltes\ncogito. 37/. umschließende F. und für es mitfungierende 38 Aktuali-\ntät. F. Offenbar hat das achtende Sachvorstellen, wenn es ein wertend\nZugewendetsein fundiert, einen anderen Modus der Achtsamkeit (des den\nGegenstand erfassenden Vorstellens), als wenn es nicht solche dienende\nFunktion hat.",
+      "text": "23 volle m. Blaust, gestr. 25 Wert F. und was ihm zugehört 33 ein zwiefaches Zugewendetsein.] und eventuell ein zwiefaches Zugewendetsein, in der Einheit eines cogito intentional verflochten ein doppeltes cogito. 37/. umschließende F. und für es mitfungierende 38 Aktualität. F. Offenbar hat das achtende Sachvorstellen, wenn es ein wertend Zugewendetsein fundiert, einen anderen Modus der Achtsamkeit (des den Gegenstand erfassenden Vorstellens), als wenn es nicht solche dienende Funktion hat.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu 5. yy d. Neuausg.",
+      "pdf_pages": [
+        21,
+        22
+      ],
+      "raw": "6 erfahren F. oder erfahren können. 8 Akt F. im prägnanten Sinn ig\nObjektivation] ,,Objektivation\" 2off. Rb. m. Blaust. NB 24 nach\nusw. einzufügen eine Beilage < = Beilage 40> 28 nicht bewußt] nicht ak-\ntuell bewußt 30 „reflektiven\" Blickwendung] reflektiven Blick-\nwendung 36 wirklichen] lebendig gegenwärtig verlaufenden 3? bis f.S.,\n6 Rb. Reflexion „in\" modifizierten Akten",
+      "text": "6 erfahren F. oder erfahren können. 8 Akt F. im prägnanten Sinn ig Objektivation] ,,Objektivation\" 2off. Rb. m. Blaust. NB 24 nach usw. einzufügen eine Beilage < = Beilage 40> 28 nicht bewußt] nicht aktuell bewußt 30 „reflektiven\" Blickwendung] reflektiven Blickwendung 36 wirklichen] lebendig gegenwärtig verlaufenden 3? bis f.S., 6 Rb. Reflexion „in\" modifizierten Akten",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. j8 d. Neuausg.",
+      "pdf_pages": [
+        22
+      ],
+      "raw": "3 Erinnerung, F. in der Phantasie, in der 6 Modifikationen. F. Eine\ngenauere Erörterung würde tiefliegende Analysen erfordern. I2ff. Rb. 1)\nRein psychisch gerichtete Akte; rein Psychisches, in seiner Intentionalität\nauf rein Psychisches gerichtet; 2) Akte, die das rein Psychische (<der>\nrein phänomenologischen Sphäre) transzendieren. Die ersteren zerfallen\nin egologische Akte und in Akte, die wir rein intersubjektive nennen. 28\nWahrnehmung] Erfahrung 29 Wahrnehmung und Wahrgenom-\nmenes] Erfahrung und Erfahrenes 33 unselbständiges F. Moment",
+      "text": "3 Erinnerung, F. in der Phantasie, in der 6 Modifikationen. F. Eine genauere Erörterung würde tiefliegende Analysen erfordern. I2ff. Rb. 1) Rein psychisch gerichtete Akte; rein Psychisches, in seiner Intentionalität auf rein Psychisches gerichtet; 2) Akte, die das rein Psychische (<der> rein phänomenologischen Sphäre) transzendieren. Die ersteren zerfallen in egologische Akte und in Akte, die wir rein intersubjektive nennen. 28 Wahrnehmung] Erfahrung 29 Wahrnehmung und Wahrgenommenes] Erfahrung und Erfahrenes 33 unselbständiges F. Moment",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. J9 d. Neuausg.",
+      "pdf_pages": [
+        22
+      ],
+      "raw": "2-4 zu auszeichnendes bis Stellungnahmen Rb. nicht unterstrei-\nchen! 4 Fällen F. immanenter Erfahrung und 5 Erlebnissen F. über-\nhaupt 14-ig Ganz bis vorausgesetzt eingeklammert und gestr. 20 eige-\nnen F. singularen 25 fundiert] „fundiert\" 2$f. an Klarheit zunehmen\nund gestr. 2g von Erlebnis] von reinem Erlebnis 30 notwendige] auf\ndem eingeschlagenen Wege über die Herausarbeitung der „rein psychi-\nschen\" Erfahrungssphäre — wir können sagen, als Anfang einer „reinen\nPsychologie\" — 32 Wesens jenes „reinen\"] Sinn jenes „transzenden-\ntalen\" 36 gehörten <... > an] gehörten immer noch mit zu",
+      "text": "2-4 zu auszeichnendes bis Stellungnahmen Rb. nicht unterstreichen! 4 Fällen F. immanenter Erfahrung und 5 Erlebnissen F. überhaupt 14-ig Ganz bis vorausgesetzt eingeklammert und gestr. 20 eigenen F. singularen 25 fundiert] „fundiert\" 2$f. an Klarheit zunehmen und gestr. 2g von Erlebnis] von reinem Erlebnis 30 notwendige] auf dem eingeschlagenen Wege über die Herausarbeitung der „rein psychischen\" Erfahrungssphäre — wir können sagen, als Anfang einer „reinen Psychologie\" — 32 Wesens jenes „reinen\"] Sinn jenes „transzendentalen\" 36 gehörten <... > an] gehörten immer noch mit zu",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 8i d. Neuausg.",
+      "pdf_pages": [
+        23
+      ],
+      "raw": "13 ist ein] trägt in sich 75 da] ,,da\" || nun aus] nun uns ursprünglich\nerfahrungsmäßig aus ij in sich, F. und immer wieder bestätigen 30\nDas Wahrnehmen] Das ich-nehme-wahr 31 wie] fast wie 32 Wesenloses\nersatzlos gestr. 33 berührt, F. es selbst unmittelbar erfaßt, bei ihm selbst\nist.",
+      "text": "13 ist ein] trägt in sich 75 da] ,,da\" || nun aus] nun uns ursprünglich erfahrungsmäßig aus ij in sich, F. und immer wieder bestätigen 30 Das Wahrnehmen] Das ich-nehme-wahr 31 wie] fast wie 32 Wesenloses ersatzlos gestr. 33 berührt, F. es selbst unmittelbar erfaßt, bei ihm selbst ist.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 82 d. Neuausg.",
+      "pdf_pages": [
+        23
+      ],
+      "raw": "28 ist F. dann in der hier leitenden Auffassung",
+      "text": "28 ist F. dann in der hier leitenden Auffassung",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 83 d. Neuausg.",
+      "pdf_pages": [
+        23
+      ],
+      "raw": "2 das gegeben] das direkt gegeben 4 gibt, F. wäre also zu sagen, 8\nobjektiven] objektiv-physikalischen 30/. Verweis auf S. 181, 201f. 33\ntranszendent gegenüber] transzendent sogar gegenüber",
+      "text": "2 das gegeben] das direkt gegeben 4 gibt, F. wäre also zu sagen, 8 objektiven] objektiv-physikalischen 30/. Verweis auf S. 181, 201f. 33 transzendent gegenüber] transzendent sogar gegenüber",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 8$ d. Neuausg.",
+      "pdf_pages": [
+        24
+      ],
+      "raw": "ig in denen, F. wenn sie aktuell gelten, 22 Momente sich F. im\nBewußtsein der Identität",
+      "text": "ig in denen, F. wenn sie aktuell gelten, 22 Momente sich F. im Bewußtsein der Identität",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 8y d. Neuausg.",
+      "pdf_pages": [
+        24
+      ],
+      "raw": "34f. Darin bekundet sich eben die prinzipielle Unterschiedenheit der\nSeinsweisen] Darin kündigt sich mit der prinzipiellen Unterschiedenheit\nder Bewußtseinsweisen schon auch <die> der Seins<weisen an>",
+      "text": "34f. Darin bekundet sich eben die prinzipielle Unterschiedenheit der Seinsweisen] Darin kündigt sich mit der prinzipiellen Unterschiedenheit der Bewußtseinsweisen schon auch <die> der Seins<weisen an>",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu 5. 88 d. Neuausg.",
+      "pdf_pages": [
+        24
+      ],
+      "raw": "2 zu Realität Anm. Doch wir sind noch nicht so weit, ihn schon rein\nfassen zu können. Auf dem natürlichen Boden, auf dem wir uns bewegen,\nist ja mein Bewußtsein, mein Bewußtseinsstrom, auch rein immanent\ngefaßt, und mein ihm zugehöriges reines Ich noch weltliche Bestimmung\ndes realen Menschen. 3 diesem] diesem J6 sich F. in dieser Art (näm-\nlich durch Empfindungsdaten sich darstellend) 20 Abschattungen] Emp-\nfindungsabschattungen 23 durch Abschattung] durch sinnliche Ab-\nschattung 27 durch Abschattung] durch immanente sinnliche Abschat-\ntung 55 kann nur F. anschaulich sein,",
+      "text": "2 zu Realität Anm. Doch wir sind noch nicht so weit, ihn schon rein fassen zu können. Auf dem natürlichen Boden, auf dem wir uns bewegen, ist ja mein Bewußtsein, mein Bewußtseinsstrom, auch rein immanent gefaßt, und mein ihm zugehöriges reines Ich noch weltliche Bestimmung des realen Menschen. 3 diesem] diesem J6 sich F. in dieser Art (nämlich durch Empfindungsdaten sich darstellend) 20 Abschattungen] Empfindungsabschattungen 23 durch Abschattung] durch sinnliche Abschattung 27 durch Abschattung] durch immanente sinnliche Abschattung 55 kann nur F. anschaulich sein,",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 8g d. Neuausg.",
+      "pdf_pages": [
+        25
+      ],
+      "raw": "6 Wahrnehmungen F. (wesensmäßig verflochten in ihrer Funktion mit\nsonstigen, stilmäßig zugehörigen Intentionalitäten und , »transzendenten'*\nontischen Korrelaten)",
+      "text": "6 Wahrnehmungen F. (wesensmäßig verflochten in ihrer Funktion mit sonstigen, stilmäßig zugehörigen Intentionalitäten und , »transzendenten'* ontischen Korrelaten)",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. g2 d. Neuausg,",
+      "pdf_pages": [
+        25,
+        26
+      ],
+      "raw": "3 Ding] „Ding\" 20 durch Erscheinungen] durch sinnlich abschattende\nErscheinungen 25 durch Erscheinung] durch sinnliche Erscheinung 31\netwas, das F. in seiner Gegenwart, in jedem Punkte seines Jetzt 33\ndurch Abschattung] durch gegenwärtige Empfindungsdaten als absch<at-\ntende> 34ff. Rb. bessern dazu der Hinweis das Absolut besagt zugleich:\nSeitengegebenheit ist nur vorbehaltlich, es ist immer offen, ob andere\nSeitendarstellungen einstimmig ,,Dasein\" geben. Anders beim Immanen-\nten. Dazu Rb. Das wird aber <S.> 85 aufgewiesen! Vgl· Beilage 43 37 habe\nich F. für jeden Punkt seiner kontinuierlichen Gegenwart",
+      "text": "3 Ding] „Ding\" 20 durch Erscheinungen] durch sinnlich abschattende Erscheinungen 25 durch Erscheinung] durch sinnliche Erscheinung 31 etwas, das F. in seiner Gegenwart, in jedem Punkte seines Jetzt 33 durch Abschattung] durch gegenwärtige Empfindungsdaten als absch<attende> 34ff. Rb. bessern dazu der Hinweis das Absolut besagt zugleich: Seitengegebenheit ist nur vorbehaltlich, es ist immer offen, ob andere Seitendarstellungen einstimmig ,,Dasein\" geben. Anders beim Immanenten. Dazu Rb. Das wird aber <S.> 85 aufgewiesen! Vgl· Beilage 43 37 habe ich F. für jeden Punkt seiner kontinuierlichen Gegenwart",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. g3 d. Neuausg.",
+      "pdf_pages": [
+        26
+      ],
+      "raw": "25 gibt F. und somit undurchstreichbar, vorbehaltlos 27 kann F. und\nso als absolut, selbst undurchstreichbar <erscheint>. Dazu Rb. Das wird\n<S.> 85 besonders erörtert. 31 sind; F. und daß, während das Sein des\nWahrnehmungsdings als Schein durchstreichbar ist, sie selbst in ihrem\nabsolut Sein unfraglich sind.",
+      "text": "25 gibt F. und somit undurchstreichbar, vorbehaltlos 27 kann F. und so als absolut, selbst undurchstreichbar <erscheint>. Dazu Rb. Das wird <S.> 85 besonders erörtert. 31 sind; F. und daß, während das Sein des Wahrnehmungsdings als Schein durchstreichbar ist, sie selbst in ihrem absolut Sein unfraglich sind.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. g$ d. Neuausg.",
+      "pdf_pages": [
+        26
+      ],
+      "raw": "15 vorhanden ersatzlos gestr. 23 Blickfeld] ,,Blickfeld\" 55 selbstver-\nständlich. F. Worin es wesensmäßig gründet, daß <der> aufmerkende\nBlick sich auf dies oder jenes aus dem hintergründlichen Blickfeld richtet\n(„Affektion\" und Wesensbedingungen der Affektion), ist eine besondere,\nhier nicht zu erörternde Frage.",
+      "text": "15 vorhanden ersatzlos gestr. 23 Blickfeld] ,,Blickfeld\" 55 selbstverständlich. F. Worin es wesensmäßig gründet, daß <der> aufmerkende Blick sich auf dies oder jenes aus dem hintergründlichen Blickfeld richtet („Affektion\" und Wesensbedingungen der Affektion), ist eine besondere, hier nicht zu erörternde Frage.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. g6 d. Neuausg.",
+      "pdf_pages": [
+        26
+      ],
+      "raw": "25 der Erlebnisse.] der mir jeweils gegenwärtigen und höchstens unab-\ngehobenen und unbeachteten Erlebnisse. 35 Denkenden] „Denkenden\"",
+      "text": "25 der Erlebnisse.] der mir jeweils gegenwärtigen und höchstens unabgehobenen und unbeachteten Erlebnisse. 35 Denkenden] „Denkenden\"",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. gy d. Neuausg.",
+      "pdf_pages": [
+        26,
+        27
+      ],
+      "raw": "1 hinblicke F. und es rein als es selbst nehme 21 ist F. als strömende\nGegenwart 25 geben. F. Nichts darf ich dabei aber meinen Erlebnissen\nzumuten, was ich nicht absolut erfasse, was sie nicht selbst in ihrer Eigen-\nwesentlichkeit ausmacht — Daß sie Bestandstücke des realen Menschen\nsind, psychophysisch eins mit seinem Leib, daß die Empfindungsdaten\nnatural, physisch und psychophysisch kausiert sind u.dgl. sind, das gehört\nnicht selbst zu den Erlebnissen in ihrem eigenen absoluten Wesen; und\nwenn ich davon ein Wissen habe, wenn ich meine Erlebnisse so als zum\nMenschen (ich als Mensch) gehörig ,,auffasse\", darüber noch so sichere\nMeinungen habe, so sind eben diese Auffassungen, Meinungen neue Er-\nlebnismomente, die ich als Erlebnisdaten aufweisen kann, und dann ab-\nsolut, während ich die reale Welt und darunter all mein Menschliches\nselbst nur transzendent erfahre und nicht apodiktisch. — Diese Darstel-\nlung treibt zwar weiter, und sie ist nicht wirklich zulänglich, aber man\nnehme, was hier geltend gemacht ist, nicht leicht. Es mag zum Sein der\nErlebnisse Identifizierbarkeit und somit ein wieder Zurückgehenkönnen\ngehören, es mag sein, daß die Absolutheit von Beständen der Wieder-\nerinnerung und ein apodiktischer Gehalt vorausgesetzt ist, und vor allem\nauch, wenn ich von meinem Leben, meinem Erlebnisstrom, meinem iden-\ntisch Ichsein in eigenwesentlicher Reinheit sprechen soll: Aber man sieht\nvoraus, daß hier eine Antwort möglich sein kann und daß ein Gehalt, und\nein in sich absoluter, konkreter, geschlossen einheitlicher, in sich undurch-\nstreichbarer seiend ist als der, in dem ich Welt und mein Menschsein als\nweltlich reales überhaupt erfahren, wissen, handelnd voraussetzen kann,\nund so ein reines, eigenwesentliches Sein vor dem der Welt.",
+      "text": "1 hinblicke F. und es rein als es selbst nehme 21 ist F. als strömende Gegenwart 25 geben. F. Nichts darf ich dabei aber meinen Erlebnissen zumuten, was ich nicht absolut erfasse, was sie nicht selbst in ihrer Eigenwesentlichkeit ausmacht — Daß sie Bestandstücke des realen Menschen sind, psychophysisch eins mit seinem Leib, daß die Empfindungsdaten natural, physisch und psychophysisch kausiert sind u.dgl. sind, das gehört nicht selbst zu den Erlebnissen in ihrem eigenen absoluten Wesen; und wenn ich davon ein Wissen habe, wenn ich meine Erlebnisse so als zum Menschen (ich als Mensch) gehörig ,,auffasse\", darüber noch so sichere Meinungen habe, so sind eben diese Auffassungen, Meinungen neue Erlebnismomente, die ich als Erlebnisdaten aufweisen kann, und dann absolut, während ich die reale Welt und darunter all mein Menschliches selbst nur transzendent erfahre und nicht apodiktisch. — Diese Darstellung treibt zwar weiter, und sie ist nicht wirklich zulänglich, aber man nehme, was hier geltend gemacht ist, nicht leicht. Es mag zum Sein der Erlebnisse Identifizierbarkeit und somit ein wieder Zurückgehenkönnen gehören, es mag sein, daß die Absolutheit von Beständen der Wiedererinnerung und ein apodiktischer Gehalt vorausgesetzt ist, und vor allem auch, wenn ich von meinem Leben, meinem Erlebnisstrom, meinem identisch Ichsein in eigenwesentlicher Reinheit sprechen soll: Aber man sieht voraus, daß hier eine Antwort möglich sein kann und daß ein Gehalt, und ein in sich absoluter, konkreter, geschlossen einheitlicher, in sich undurchstreichbarer seiend ist als der, in dem ich Welt und mein Menschsein als weltlich reales überhaupt erfahren, wissen, handelnd voraussetzen kann, und so ein reines, eigenwesentliches Sein vor dem der Welt.",
+      "body_forms": [
+        "Leib"
+      ],
+      "psychophysical_forms": [
+        "psychophysisch"
+      ],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. g8 d. Neuausg.",
+      "pdf_pages": [
+        27
+      ],
+      "raw": "6 Sphäre F. lebendiger, immanenter Gegenwart 9 Dingwelt F. in der\nKealitätenwelt überhaupt, 11 f. (unter Ausschluß dessen, was ,,νοη mir\"\nder Dingwelt zurechnet)] unter Ausschluß all der Realitätsauffassungen,\nrichtigen und falschen Meinungen, in denen ich im natürlichen Leben mir\nden Sinn Mensch in der realen Welt zuspreche 18 kann F. trotz dieser\nleibhaften Gegebenheit 27 eines Erlebnisses] eines reinen Erlebnisses",
+      "text": "6 Sphäre F. lebendiger, immanenter Gegenwart 9 Dingwelt F. in der Kealitätenwelt überhaupt, 11 f. (unter Ausschluß dessen, was ,,νοη mir\" der Dingwelt zurechnet)] unter Ausschluß all der Realitätsauffassungen, richtigen und falschen Meinungen, in denen ich im natürlichen Leben mir den Sinn Mensch in der realen Welt zuspreche 18 kann F. trotz dieser leibhaften Gegebenheit 27 eines Erlebnisses] eines reinen Erlebnisses",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": [
+        "leibhaften"
+      ]
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. gg d. Neuausg.",
+      "pdf_pages": [
+        27
+      ],
+      "raw": "21 Verweis auf eine Beilage <= Beilage 4$>",
+      "text": "21 Verweis auf eine Beilage <= Beilage 4$>",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu 5. 100 d. Neuausg.",
+      "pdf_pages": [
+        28
+      ],
+      "raw": "16 Einheiten. F. So in mir und in den Erscheinungsmannigfaltigkeiten\nder in mir sich zunächst für mich ausweisenden Anderen, sich ausweisend\nals reine Subjekte reiner, für mich ,,einfühlungsmäßig\", also in Vergegen-\nwärtigungen eigener Art sich bietender Erscheinungsmannigfaltigkeiten.",
+      "text": "16 Einheiten. F. So in mir und in den Erscheinungsmannigfaltigkeiten der in mir sich zunächst für mich ausweisenden Anderen, sich ausweisend als reine Subjekte reiner, für mich ,,einfühlungsmäßig\", also in Vergegenwärtigungen eigener Art sich bietender Erscheinungsmannigfaltigkeiten.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. ιοί d. Neuausg.",
+      "pdf_pages": [
+        28
+      ],
+      "raw": "18 der „Motivation\"] der rein immanenten Motivation",
+      "text": "18 der „Motivation\"] der rein immanenten Motivation",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 102 d. Neuausg.",
+      "pdf_pages": [
+        28
+      ],
+      "raw": "iy formaler] analytisch-formaler 23 wir, daß es notwendig erfahr-\nbar] wir, oder deutlicher, erkenne ich, das jeweils reine Reflexion übende\nIch, dass es notwendig für mich er fahr bar 2g ein] mein josein muß,\ni7. von dem ich überhaupt soll reden, das für mich überhaupt als anderes\nund ebenso als eines „der\" offenen Vielheit Anderer soll Sinn und mög-\nliches Sein haben können. Aus mir selbst schöpft auch der ,,Andere\" seine\nErfahrungs- und Rechtsquelle, in mir vollzieht sich seine Ausweisung\n(nicht etwa zunächst zu verstehen als irgendein logischer actus). Und\nwenn ich dann, wie bei mir, das natürliche menschliche Sein auf das\nEigenwesentliche von Ich und Leben reduziere, so sehe ich dann, daß ich\nes ebenso bei jedem für mich sich auswei<se>nden anderen Menschen tun\nkann und so die reine Ich Vielheit gewinne.",
+      "text": "iy formaler] analytisch-formaler 23 wir, daß es notwendig erfahrbar] wir, oder deutlicher, erkenne ich, das jeweils reine Reflexion übende Ich, dass es notwendig für mich er fahr bar 2g ein] mein josein muß, i7. von dem ich überhaupt soll reden, das für mich überhaupt als anderes und ebenso als eines „der\" offenen Vielheit Anderer soll Sinn und mögliches Sein haben können. Aus mir selbst schöpft auch der ,,Andere\" seine Erfahrungs- und Rechtsquelle, in mir vollzieht sich seine Ausweisung (nicht etwa zunächst zu verstehen als irgendein logischer actus). Und wenn ich dann, wie bei mir, das natürliche menschliche Sein auf das Eigenwesentliche von Ich und Leben reduziere, so sehe ich dann, daß ich es ebenso bei jedem für mich sich auswei<se>nden anderen Menschen tun kann und so die reine Ich Vielheit gewinne.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 103 d. Neuausg.",
+      "pdf_pages": [
+        28,
+        29
+      ],
+      "raw": "3 der Menschengemeinschaft] der auf das reine Bewußtseinsleben und\nreines Ich reduzierten Menschengemeinschaft 8 jeden Ich] jeden in mir\nselbst sich ausweisendes reines Ich 20 Erfahrungen F. in mir und in\nmeiner Intersubjektivität 26 de facto, F. d.i. wie es die Empirie in ihrer\nArt (also nicht etwa apodiktisch) zweifellos macht, 32 Dingsetzungen\nF. jemals",
+      "text": "3 der Menschengemeinschaft] der auf das reine Bewußtseinsleben und reines Ich reduzierten Menschengemeinschaft 8 jeden Ich] jeden in mir selbst sich ausweisendes reines Ich 20 Erfahrungen F. in mir und in meiner Intersubjektivität 26 de facto, F. d.i. wie es die Empirie in ihrer Art (also nicht etwa apodiktisch) zweifellos macht, 32 Dingsetzungen F. jemals",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 104 d. Neuausg.",
+      "pdf_pages": [
+        29
+      ],
+      "raw": "8ff. Rb. Man wird einwenden, das sei ein leichtsinniger Schluß. Es ist\nmöglich, daß meine Erfahrungen Ausweisungen für eine Erfahrungswelt,\ndie die meine ist, unmöglich machen. Aber darum kann doch sehr wohl\neine mir unzugängliche Welt möglich sein und die Welt, die wirklich ist,\nnur daß ich verrückt bin — nichts weiter. Indessen, wenn ich das an-\nerkennen soll, muß ich die Möglichkeit einer Welt einsehen können. Und\nwie soll diese Einsicht selbst, die doch eine Anschauung solcher Welt\nfordert, aussehen ? Eine anschauliche Vorstellung (gegenüber meinen kon-\nsequent unstimmigen Wahrnehmungen und Erfahrungen überhaupt)\nkönnte die Stilgestalt einer einstimmigen Mannigfaltigkeit von Phantasien\nhaben, in denen eine Phantasiewelt erschiene als eine vorstellbare Mög-\nlichkeit. Aber was liegt in solchen Phantasien ? Es sind Wahrnehmungen\nals ob, Fiktionen von Wahrnehmungen, von darin synthetisch zusam-\nmenhängenden Abschattungen, Erscheinungen — von, bezogen also auf ei-\nnen phantasiemäßig mitphantasierten korrelativen Erlebnisstrom eines\nreinen Ich. Die mögliche Welt ist untrennbar bezogen auf ein mögliches\nIch und Icherleben; und soll sie eine real mögliche sein, eine mögliche, die\nsich als eine mögliche Tatsache je soll ausweisen können, so muß in einem\nwirklichen Ich und Ichleben sich die reale Möglichkeit wirklich ausweisen\nkönnen, d.i. es muß das wirkliche Leben dieses wirklichen Ich einen wirk-\nlichen Zusammenhang der Intentionalität bilden, in dem die eventuelle\n„Verrücktheit\" als eine besondere Art des Scheines sich ausweist, der\nsein wirkliches Sein hinter sich hat. Entweder ich bin es selbst, der in\nseinem reinen Eigenwesen diese Möglichkeit erkennen kann, oder es <ist>\nein anderes Ich etc. Dieses andere kann nicht für mich leere Möglichkeit\nsein, es müßte selbst in meinem Erleben begründet und begründbar sein.\n— Beweist auch irgendein verrückter Erfahrungsstil im Momente nichts\nfür <das> Nichtsein der Welt, so doch ein Universalstil, der überhaupt\nkeine reale Möglichkeit einstimmiger Bewährung in sich hätte. 3g theo-\nretischen gestr.",
+      "text": "8ff. Rb. Man wird einwenden, das sei ein leichtsinniger Schluß. Es ist möglich, daß meine Erfahrungen Ausweisungen für eine Erfahrungswelt, die die meine ist, unmöglich machen. Aber darum kann doch sehr wohl eine mir unzugängliche Welt möglich sein und die Welt, die wirklich ist, nur daß ich verrückt bin — nichts weiter. Indessen, wenn ich das anerkennen soll, muß ich die Möglichkeit einer Welt einsehen können. Und wie soll diese Einsicht selbst, die doch eine Anschauung solcher Welt fordert, aussehen ? Eine anschauliche Vorstellung (gegenüber meinen konsequent unstimmigen Wahrnehmungen und Erfahrungen überhaupt) könnte die Stilgestalt einer einstimmigen Mannigfaltigkeit von Phantasien haben, in denen eine Phantasiewelt erschiene als eine vorstellbare Möglichkeit. Aber was liegt in solchen Phantasien ? Es sind Wahrnehmungen als ob, Fiktionen von Wahrnehmungen, von darin synthetisch zusammenhängenden Abschattungen, Erscheinungen — von, bezogen also auf einen phantasiemäßig mitphantasierten korrelativen Erlebnisstrom eines reinen Ich. Die mögliche Welt ist untrennbar bezogen auf ein mögliches Ich und Icherleben; und soll sie eine real mögliche sein, eine mögliche, die sich als eine mögliche Tatsache je soll ausweisen können, so muß in einem wirklichen Ich und Ichleben sich die reale Möglichkeit wirklich ausweisen können, d.i. es muß das wirkliche Leben dieses wirklichen Ich einen wirklichen Zusammenhang der Intentionalität bilden, in dem die eventuelle „Verrücktheit\" als eine besondere Art des Scheines sich ausweist, der sein wirkliches Sein hinter sich hat. Entweder ich bin es selbst, der in seinem reinen Eigenwesen diese Möglichkeit erkennen kann, oder es <ist> ein anderes Ich etc. Dieses andere kann nicht für mich leere Möglichkeit sein, es müßte selbst in meinem Erleben begründet und begründbar sein. — Beweist auch irgendein verrückter Erfahrungsstil im Momente nichts für <das> Nichtsein der Welt, so doch ein Universalstil, der überhaupt keine reale Möglichkeit einstimmiger Bewährung in sich hätte. 3g theoretischen gestr.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. J05 d. Neuausg.",
+      "pdf_pages": [
+        30
+      ],
+      "raw": "1-3 (wobei wir den Sukkurs der Wechselverständigung mit anderen Ich\nund Erlebnisströmen mit in Rechnung zu ziehen hätten)] (es ist dabei zu\nbeachten, daß wir in die in infinitum fortzuführende Einstimmigkeit der\nWahrnehmungen, der Erfahrungen auch diejenigen mit einbeziehen, in\ndenen sich andere Menschen, Wechselverständigung mit ihnen, mögliche\nReduktion derselben auf reine Iche und Erlebniszusammenhänge für uns\nausweist) 36 keinem Dinge] keinem als absolut gedachten, ihm voran-\ngehenden Seienden",
+      "text": "1-3 (wobei wir den Sukkurs der Wechselverständigung mit anderen Ich und Erlebnisströmen mit in Rechnung zu ziehen hätten)] (es ist dabei zu beachten, daß wir in die in infinitum fortzuführende Einstimmigkeit der Wahrnehmungen, der Erfahrungen auch diejenigen mit einbeziehen, in denen sich andere Menschen, Wechselverständigung mit ihnen, mögliche Reduktion derselben auf reine Iche und Erlebniszusammenhänge für uns ausweist) 36 keinem Dinge] keinem als absolut gedachten, ihm vorangehenden Seienden",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu 5. 106 d. Neuausg.",
+      "pdf_pages": [
+        30
+      ],
+      "raw": "5 für ein] für 6 in seinen Erfahrungen setzt, das prinzipiell] im Modus\ndes selbst-da, selbst gewesen, selbst kommend erfährt und in mannigfalti-\ngen Bewußtseinsakten als selbiges bewußt hat, und so, daß dieses Be-\nwußthaben zurückleitet auf Mannigfaltigkeiten möglicher selbstgebender\nErfahrung, und das prinzipiell 8 ein Nichts] ein Widersinn 75 idearum]\n„idearum\" 22 Vorstelliges, Erscheinendes ist.] als in dem reinen Ich\nmotivierte Aktualität und Potentialität ist, bzw. Vorstellbares, in mög-\nlichen Erscheinungen zu Verwirklichendes. 26 natürlichen F. erfahren-\nden und 33 Akte, F. die wirklichen oder in vorgezeichneter Potentialität\nmöglichen und zu verwirklichenden, 37 Thesen, F. die aktuellen und im\nvoraus die potentiellen,",
+      "text": "5 für ein] für 6 in seinen Erfahrungen setzt, das prinzipiell] im Modus des selbst-da, selbst gewesen, selbst kommend erfährt und in mannigfaltigen Bewußtseinsakten als selbiges bewußt hat, und so, daß dieses Bewußthaben zurückleitet auf Mannigfaltigkeiten möglicher selbstgebender Erfahrung, und das prinzipiell 8 ein Nichts] ein Widersinn 75 idearum] „idearum\" 22 Vorstelliges, Erscheinendes ist.] als in dem reinen Ich motivierte Aktualität und Potentialität ist, bzw. Vorstellbares, in möglichen Erscheinungen zu Verwirklichendes. 26 natürlichen F. erfahrenden und 33 Akte, F. die wirklichen oder in vorgezeichneter Potentialität möglichen und zu verwirklichenden, 37 Thesen, F. die aktuellen und im voraus die potentiellen,",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. ioy d. Neuausg.",
+      "pdf_pages": [
+        30
+      ],
+      "raw": "6 „ausgeschaltet\" F. oder besser eingeklammert 8 Transzendenzen F.\nals intentionales Korrelat der ideell zu verwirklichenden und einstimmig\nfortzuführenden Akte habitueller Geltung 12 Dingeinheiten F. und Rea-\nlitäten jeder Art 25 sind F. und mit allem, was in ihnen und von ihrem\nEigensein unabtrennbar Vermeintes als solches, z.B. Erfahrenes als sol-\nches, ist. 34ff- Rb. Diese Betrachtungen motivierten mich, als vernunft-\nkritische, einzusehen, daß eine transzendentale Epoche vollziehbar ist,\ndie eine wohlbegründete und independente Transzendentalphilosophie\nermöglicht. 55 bei sind also notwendig Frage- und Ausrufezeichen, dazu\nals V. dieses gestr. Textes führen uns erst dazu 36 Feld reinen] Feld\ntranszendental reinen 37 kann, F. ein Bewußtsein,",
+      "text": "6 „ausgeschaltet\" F. oder besser eingeklammert 8 Transzendenzen F. als intentionales Korrelat der ideell zu verwirklichenden und einstimmig fortzuführenden Akte habitueller Geltung 12 Dingeinheiten F. und Realitäten jeder Art 25 sind F. und mit allem, was in ihnen und von ihrem Eigensein unabtrennbar Vermeintes als solches, z.B. Erfahrenes als solches, ist. 34ff- Rb. Diese Betrachtungen motivierten mich, als vernunftkritische, einzusehen, daß eine transzendentale Epoche vollziehbar ist, die eine wohlbegründete und independente Transzendentalphilosophie ermöglicht. 55 bei sind also notwendig Frage- und Ausrufezeichen, dazu als V. dieses gestr. Textes führen uns erst dazu 36 Feld reinen] Feld transzendental reinen 37 kann, F. ein Bewußtsein,",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 108 d. Neuausg.",
+      "pdf_pages": [
+        31
+      ],
+      "raw": "J Natur, F. der realen Welt 3 sind notwendig] schaffen Motivationen\n11 Naturforschung, F. Geistesforschung als Weltforschung 14 sind not-\nwendig, um zu] lassen uns 23 Natürliches, F. überhaupt Weltliches 26\nSeins, F. also nicht auf das im psychologischen Sinn reine Bewußtsein. 33\nPsychologischen, JF. und abstrahiert eine zu begründende rein intentionale\nPsychologie vom Psychophysischen. 35 „Natur\"] Realwelt 36 Natur-\nwissenschaft, F. alle Weltwissenschaften, die Psychologie, Geisteswissen-\nschaften jedes natürlichen Sinnes eingeschlossen.",
+      "text": "J Natur, F. der realen Welt 3 sind notwendig] schaffen Motivationen 11 Naturforschung, F. Geistesforschung als Weltforschung 14 sind notwendig, um zu] lassen uns 23 Natürliches, F. überhaupt Weltliches 26 Seins, F. also nicht auf das im psychologischen Sinn reine Bewußtsein. 33 Psychologischen, JF. und abstrahiert eine zu begründende rein intentionale Psychologie vom Psychophysischen. 35 „Natur\"] Realwelt 36 Naturwissenschaft, F. alle Weltwissenschaften, die Psychologie, Geisteswissenschaften jedes natürlichen Sinnes eingeschlossen.",
+      "body_forms": [],
+      "psychophysical_forms": [
+        "Psychophysischen"
+      ],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 10g d. Neuausg.",
+      "pdf_pages": [
+        31
+      ],
+      "raw": "35 Naturbegriffs F. und Weltbegriffs",
+      "text": "35 Naturbegriffs F. und Weltbegriffs",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 110 d. Neuausg.",
+      "pdf_pages": [
+        31
+      ],
+      "raw": "9 nach hauptsächlich einzuschalten eine Beilage < = Beilage 46 > 28\nFremden, und F. wenn nicht das, so jedenfalls",
+      "text": "9 nach hauptsächlich einzuschalten eine Beilage < = Beilage 46 > 28 Fremden, und F. wenn nicht das, so jedenfalls",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. in d. Neuausg.",
+      "pdf_pages": [
+        31
+      ],
+      "raw": "n-2g Es bis auszuführen m. Blaust, eingeklammert, dazu Rb. tn. Blaust.\nDiesen Absatz streichen, dafür Einlage <= Beilage 47 > J5 logische Mög-\nlichkeit] formallogische Möglichkeit (Widerspruchslosigkeit) ly Des wei-\nteren] Insbesondere ly Wahrnehmung F. jener Ursache-Realitäten",
+      "text": "n-2g Es bis auszuführen m. Blaust, eingeklammert, dazu Rb. tn. Blaust. Diesen Absatz streichen, dafür Einlage <= Beilage 47 > J5 logische Möglichkeit] formallogische Möglichkeit (Widerspruchslosigkeit) ly Des weiteren] Insbesondere ly Wahrnehmung F. jener Ursache-Realitäten",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 113 d. Neuausg.",
+      "pdf_pages": [
+        31
+      ],
+      "raw": "38 vor gewisse und 3g nach Konstruktionen Trennungsstriche sowie am\nRand ein senkrechter Strich. Vgl. Beilage 48",
+      "text": "38 vor gewisse und 3g nach Konstruktionen Trennungsstriche sowie am Rand ein senkrechter Strich. Vgl. Beilage 48",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 116 d. Neuausg.",
+      "pdf_pages": [
+        32
+      ],
+      "raw": "3-8 Dieser Absatz durch horizontalen Trennungsstrich vom vorhergehenden\nText abgetrennt; dazu Rb. Das kann hier noch nicht kommen. 3 Es bedarf\nkeiner besonderen Ausführung] Es ist im voraus verständlich 4 Natur-\nobjektivitäten F. (der relativen Wirklichkeiten, wie sie in aller gewöhn-\nlichen Praxis Seinsgeltung haben, und der idealen, logifizierten der exak-\nten Physik) y-8 Und bis überhaupt gestr. 10 Schranken] Schranken\n13 in den ersatzlos gestr. sowie nach ij psychophysische ein Trennungs-\nstrich angebracht; beides verbessert in Beilage 48 3$f. die Verknüpfung\nvon Bewußtsein und Leib zu einer naturalen] die Erfahrung einer Ver-\nknüpfung von Bewußtsein und körperlichem Leib zu einer im weiteren\nSinne naturalen, einer weltlich-realen",
+      "text": "3-8 Dieser Absatz durch horizontalen Trennungsstrich vom vorhergehenden Text abgetrennt; dazu Rb. Das kann hier noch nicht kommen. 3 Es bedarf keiner besonderen Ausführung] Es ist im voraus verständlich 4 Naturobjektivitäten F. (der relativen Wirklichkeiten, wie sie in aller gewöhnlichen Praxis Seinsgeltung haben, und der idealen, logifizierten der exakten Physik) y-8 Und bis überhaupt gestr. 10 Schranken] Schranken 13 in den ersatzlos gestr. sowie nach ij psychophysische ein Trennungsstrich angebracht; beides verbessert in Beilage 48 3$f. die Verknüpfung von Bewußtsein und Leib zu einer naturalen] die Erfahrung einer Verknüpfung von Bewußtsein und körperlichem Leib zu einer im weiteren Sinne naturalen, einer weltlich-realen",
+      "body_forms": [
+        "Leib",
+        "körperlichem"
+      ],
+      "psychophysical_forms": [
+        "psychophysische"
+      ],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. ny d. Neuausg.",
+      "pdf_pages": [
+        32
+      ],
+      "raw": "1 daß nur] daß ich nur 13 wäre. F. Was es wirklich annimmt, ist eine\nneue Bewußtseinsschichte. 26 Ichsubjektes] Menschensubjektes 31\nRb. Ergänzungen nötig hinsichtlich der Einigkeit! 37 auf das reine] auf\nsie selbst, das reine",
+      "text": "1 daß nur] daß ich nur 13 wäre. F. Was es wirklich annimmt, ist eine neue Bewußtseinsschichte. 26 Ichsubjektes] Menschensubjektes 31 Rb. Ergänzungen nötig hinsichtlich der Einigkeit! 37 auf das reine] auf sie selbst, das reine",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 118 d. Neuausg.",
+      "pdf_pages": [
+        32
+      ],
+      "raw": "3 die als Wesensmöglichkeit mitverflochtene] als Wesensmöglichkeit\ndie 5 Setzungen ausschaltend] Setzungen nicht mitmachend (und in die-\nsem Sinne „ausschaltend\") 12 Erlebnis F. jenes Gefühls 16 an. F. Im\nreinen Bewußtsein besagt diese Änderung, daß statt des schlichten Ge-\nfühls das, was wir hier <als?> Auffassen des Gefühls als das eines Menschen\nbezeichneten, <gegeben ist?>. 25 ungültige, F. im Gang weiterer Er-\nfahrung durchstrichene: 34 persönlichen] menschlichen 55 persönliche]\nmenschlich-seelische",
+      "text": "3 die als Wesensmöglichkeit mitverflochtene] als Wesensmöglichkeit die 5 Setzungen ausschaltend] Setzungen nicht mitmachend (und in diesem Sinne „ausschaltend\") 12 Erlebnis F. jenes Gefühls 16 an. F. Im reinen Bewußtsein besagt diese Änderung, daß statt des schlichten Gefühls das, was wir hier <als?> Auffassen des Gefühls als das eines Menschen bezeichneten, <gegeben ist?>. 25 ungültige, F. im Gang weiterer Erfahrung durchstrichene: 34 persönlichen] menschlichen 55 persönliche] menschlich-seelische",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 11g d. Neuausg.",
+      "pdf_pages": [
+        32,
+        33
+      ],
+      "raw": "1-3 auflösen, die intentionalen Formen, die sie konstituieren, abtun\nund auf die reinen Erlebnisse reduzieren.] ihrer Seinsgültigkeit beraubt\ndenken; dann bleiben sie mit da als reine Erlebnisse. Reduzieren wir von\nvornherein auf das transzendental Reine, so bleiben uns auch im Normal-\nfall der Gültigkeit die konstituierenden Mannigfaltigkeiten. 8 personales]\nmenschliche Leiblichkeit beseelendes 12 einer Person] einer objektiv\nrealen Person 16 Erlebniszusammenhänge, F. genauer: Zusammen-\nhänge wirklicher und als mögliche motivierter Erlebnisse iyf. alle sind]\nalle empirische Einheiten sind 23 dem empirischen Erlebnis] dem realen\npsychologischen Erlebnis, dem des Menschen in der Welt 31 Zustände\nF. reale, also im angegebenen Sinn",
+      "text": "1-3 auflösen, die intentionalen Formen, die sie konstituieren, abtun und auf die reinen Erlebnisse reduzieren.] ihrer Seinsgültigkeit beraubt denken; dann bleiben sie mit da als reine Erlebnisse. Reduzieren wir von vornherein auf das transzendental Reine, so bleiben uns auch im Normalfall der Gültigkeit die konstituierenden Mannigfaltigkeiten. 8 personales] menschliche Leiblichkeit beseelendes 12 einer Person] einer objektiv realen Person 16 Erlebniszusammenhänge, F. genauer: Zusammenhänge wirklicher und als mögliche motivierter Erlebnisse iyf. alle sind] alle empirische Einheiten sind 23 dem empirischen Erlebnis] dem realen psychologischen Erlebnis, dem des Menschen in der Welt 31 Zustände F. reale, also im angegebenen Sinn",
+      "body_forms": [
+        "Leiblichkeit"
+      ],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 120 d. Neuausg.",
+      "pdf_pages": [
+        33
+      ],
+      "raw": "35 Generalthesis, F. d.i. der einheitlichen Seinsgewißheit, die zum be-\nständig fortlaufenden Strom der Erfahrung als in ihm motivierte Einheit\ngehört; eine Einheit der vorsprachlichen, an derartigen Schichten, Sonder-\ngehalten, ,,Dingen\", Eigenschaften etc. auftretenden Gewißheit des Ist\nund aller in den Hintergründen implizierten Seinsgeltung: der Geltung\nim Modus der Fortgeltung, der immanenten Tradition sozusagen, aus\nQuellen früherer Erfahrung und Assoziation.",
+      "text": "35 Generalthesis, F. d.i. der einheitlichen Seinsgewißheit, die zum beständig fortlaufenden Strom der Erfahrung als in ihm motivierte Einheit gehört; eine Einheit der vorsprachlichen, an derartigen Schichten, Sondergehalten, ,,Dingen\", Eigenschaften etc. auftretenden Gewißheit des Ist und aller in den Hintergründen implizierten Seinsgeltung: der Geltung im Modus der Fortgeltung, der immanenten Tradition sozusagen, aus Quellen früherer Erfahrung und Assoziation.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 121 d. Neuausg.",
+      "pdf_pages": [
+        33
+      ],
+      "raw": "26/. uns die] uns nicht nur die leicht zu gewinnende 29 und] sondern",
+      "text": "26/. uns die] uns nicht nur die leicht zu gewinnende 29 und] sondern",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 124 d. Neuausg.",
+      "pdf_pages": [
+        33
+      ],
+      "raw": "5 bei nicht konstituierte Fragezeichen am Rand",
+      "text": "5 bei nicht konstituierte Fragezeichen am Rand",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. i$6 d. Neuausg.",
+      "pdf_pages": [
+        35
+      ],
+      "raw": "uff. Rb. Das ist zu beschränkt. 12 Erlebnisse. F. Gegen das metho-\ndische Vorurteil der exakten Wissenschaft.",
+      "text": "uff. Rb. Das ist zu beschränkt. 12 Erlebnisse. F. Gegen das methodische Vorurteil der exakten Wissenschaft.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 158 d. Neuausg.",
+      "pdf_pages": [
+        35
+      ],
+      "raw": "22f. durchaus F. idealisierende",
+      "text": "22f. durchaus F. idealisierende",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu 5. 163 d. Neuausg.",
+      "pdf_pages": [
+        35
+      ],
+      "raw": "35 phänomenologische F. und eidetische",
+      "text": "35 phänomenologische F. und eidetische",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. i6y d. Neuausg.",
+      "pdf_pages": [
+        36
+      ],
+      "raw": "9 Rb. Konstitution der Zeitlichkeit aller Erlebnisse",
+      "text": "9 Rb. Konstitution der Zeitlichkeit aller Erlebnisse",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. ijg d. Neuausg.",
+      "pdf_pages": [
+        36
+      ],
+      "raw": "i6f. was nicht notwendig mit dabei sein muß gestr.t am Rand Deleatur-\nzeichen 34ff. Frage- und Ausrufezeichen am Rand",
+      "text": "i6f. was nicht notwendig mit dabei sein muß gestr.t am Rand Deleaturzeichen 34ff. Frage- und Ausrufezeichen am Rand",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 180 d. Neuausg.",
+      "pdf_pages": [
+        36
+      ],
+      "raw": "8f. subjektiv-orientierte] ichlich-orientierte",
+      "text": "8f. subjektiv-orientierte] ichlich-orientierte",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 182 d. Neuausg.",
+      "pdf_pages": [
+        36
+      ],
+      "raw": "30 seines reinen Ich] seines reinen Ich",
+      "text": "30 seines reinen Ich] seines reinen Ich",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 195 d. Neuausg,",
+      "pdf_pages": [
+        37
+      ],
+      "raw": "30 empirisch] objektiv real",
+      "text": "30 empirisch] objektiv real",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 196 d. Neuausg.",
+      "pdf_pages": [
+        37
+      ],
+      "raw": "37 Sensualismus, F. aber auch der feinere Sensualismus der Intentio-\nnalität",
+      "text": "37 Sensualismus, F. aber auch der feinere Sensualismus der Intentionalität",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. igy d. Neuausg.",
+      "pdf_pages": [
+        37
+      ],
+      "raw": "6 so ziemlich gestr. 15 Rb, Verhüllung, implizit 23 zu Objektiven Rb.\nauch Erweiterung",
+      "text": "6 so ziemlich gestr. 15 Rb, Verhüllung, implizit 23 zu Objektiven Rb. auch Erweiterung",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 198 d. Neuausg.",
+      "pdf_pages": [
+        37
+      ],
+      "raw": "11 Wissenschaft F. und aller Kultur. 13 Verschmelzungen gestr. 31\nUnterklassen F. und naturalistisch als Unterlage für Erklärungen",
+      "text": "11 Wissenschaft F. und aller Kultur. 13 Verschmelzungen gestr. 31 Unterklassen F. und naturalistisch als Unterlage für Erklärungen",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 199 d. Neuausg.",
+      "pdf_pages": [
+        37
+      ],
+      "raw": "2 Rb. Der Begriff der formalen Phänomenologie — die Kontingenz des\nHyletischen müßte hier erörtert werden.",
+      "text": "2 Rb. Der Begriff der formalen Phänomenologie — die Kontingenz des Hyletischen müßte hier erörtert werden.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 202 d. Neuausg.",
+      "pdf_pages": [
+        37
+      ],
+      "raw": "8 eigentlichen Komponenten] reellen Komponenten",
+      "text": "8 eigentlichen Komponenten] reellen Komponenten",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 20$ d. Neuausg,",
+      "pdf_pages": [
+        38
+      ],
+      "raw": "10 Sphäre. F. m. Rotst. Psychologisch-phänomenoiogische Reduktion.\n33f. aller Psychologie ersatzlos gestr.",
+      "text": "10 Sphäre. F. m. Rotst. Psychologisch-phänomenoiogische Reduktion. 33f. aller Psychologie ersatzlos gestr.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 206 d. Neuausg.",
+      "pdf_pages": [
+        38
+      ],
+      "raw": "5 dem psychologischen] dem rein psychologischen",
+      "text": "5 dem psychologischen] dem rein psychologischen",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 210 d. Neuausg.",
+      "pdf_pages": [
+        38
+      ],
+      "raw": "9 zu Sinn Rb. gegenständlicher Sinn 36 Rb. Kern und Sinn werden\nspäter geschieden! <S.> 273ff., vorher 197, 247ff.",
+      "text": "9 zu Sinn Rb. gegenständlicher Sinn 36 Rb. Kern und Sinn werden später geschieden! <S.> 273ff., vorher 197, 247ff.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 215 d. Neuausg.",
+      "pdf_pages": [
+        39
+      ],
+      "raw": "iy zu Noesen höherer Stufe Rb, Nicht Noesen, sondern Akte höherer\nStufe",
+      "text": "iy zu Noesen höherer Stufe Rb, Nicht Noesen, sondern Akte höherer Stufe",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 217 d. Neuausg.",
+      "pdf_pages": [
+        39
+      ],
+      "raw": "3 Rb. m. Rotst. Sinn iy als Wesen gestr.; am Rand Fragezeichen und Rb.\nVerbesserung!",
+      "text": "3 Rb. m. Rotst. Sinn iy als Wesen gestr.; am Rand Fragezeichen und Rb. Verbesserung!",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 21g d. Neuausg.",
+      "pdf_pages": [
+        39
+      ],
+      "raw": "8 Rb. cf. <S.> 189, 273, 247ff.",
+      "text": "8 Rb. cf. <S.> 189, 273, 247ff.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 225 d. Neuausg,",
+      "pdf_pages": [
+        40
+      ],
+      "raw": "uff. Fragezeichen am Rand",
+      "text": "uff. Fragezeichen am Rand",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 22J d. Neuausg.",
+      "pdf_pages": [
+        40
+      ],
+      "raw": "iyff· Rb. Ja, relativ. Das hyletische Datum ist ja selbst Einheit, aber\nfreilich immanente, subjektiv-reelle — andererseits dahinter ein Subjek-\ntives höherer Stufe, das diese Einheit Konstituierende.",
+      "text": "iyff· Rb. Ja, relativ. Das hyletische Datum ist ja selbst Einheit, aber freilich immanente, subjektiv-reelle — andererseits dahinter ein Subjektives höherer Stufe, das diese Einheit Konstituierende.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 22g d. Neuausg.",
+      "pdf_pages": [
+        40
+      ],
+      "raw": "9 Frage- und Ausrufezeichen am Rand",
+      "text": "9 Frage- und Ausrufezeichen am Rand",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 232 d. Neuausg.",
+      "pdf_pages": [
+        40
+      ],
+      "raw": "4ff. Rb. NB?",
+      "text": "4ff. Rb. NB?",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 233 d. Neuausg.",
+      "pdf_pages": [
+        40
+      ],
+      "raw": "3 bei „gegenständlichen Sinn\" verwiesen auf S. 270",
+      "text": "3 bei „gegenständlichen Sinn\" verwiesen auf S. 270",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 234 d. Neuausg,",
+      "pdf_pages": [
+        40
+      ],
+      "raw": "13 Rb. leicht mißzuverstehen",
+      "text": "13 Rb. leicht mißzuverstehen",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 237 d. Neuausg.",
+      "pdf_pages": [
+        41
+      ],
+      "raw": "21 oder wir reflektieren stufenweise auf die Noesen usw. eingeklammert,\nam Rand Fragezeichen",
+      "text": "21 oder wir reflektieren stufenweise auf die Noesen usw. eingeklammert, am Rand Fragezeichen",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 261 d. Neuausg.",
+      "pdf_pages": [
+        42
+      ],
+      "raw": "28f. Rb. Aber die Position als Fiktum ?",
+      "text": "28f. Rb. Aber die Position als Fiktum ?",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 263 d. Neuausg.",
+      "pdf_pages": [
+        42
+      ],
+      "raw": "2i deutlicher F. vom Ich her",
+      "text": "2i deutlicher F. vom Ich her",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 273 d. Neuausg.",
+      "pdf_pages": [
+        43
+      ],
+      "raw": "gff. Rb. Zeitsynthese",
+      "text": "gff. Rb. Zeitsynthese",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 2J4 d. Neuausg.",
+      "pdf_pages": [
+        43
+      ],
+      "raw": "J5 Rb. Synthese wird im Weiteren meist gleichgesetzt mit Poly-\nthese.",
+      "text": "J5 Rb. Synthese wird im Weiteren meist gleichgesetzt mit Polythese.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 2y6 d. Neuausg.",
+      "pdf_pages": [
+        43
+      ],
+      "raw": "38 Verweis auf Logische Untersuchungen, III. Band, <S.> 160.",
+      "text": "38 Verweis auf Logische Untersuchungen, III. Band, <S.> 160.",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 288 d. Neuausg.",
+      "pdf_pages": [
+        44
+      ],
+      "raw": "31 Rb. m. Rotst. § 67, Idee <der> Methode",
+      "text": "31 Rb. m. Rotst. § 67, Idee <der> Methode",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 297 d. Neuausg.",
+      "pdf_pages": [
+        44
+      ],
+      "raw": "5 wirklich] „wirklich\" 75 zu „Kerns\" Rb. = gegenständlicher Sinn\nsowie m. Rotst. verwiesen auf S. 187ff., 208ff., 197",
+      "text": "5 wirklich] „wirklich\" 75 zu „Kerns\" Rb. = gegenständlicher Sinn sowie m. Rotst. verwiesen auf S. 187ff., 208ff., 197",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 298 d. Neuausg.",
+      "pdf_pages": [
+        44
+      ],
+      "raw": "xy Rb. Logische Untersuchungen III — {keine Seitenzahl angegeben)",
+      "text": "xy Rb. Logische Untersuchungen III — {keine Seitenzahl angegeben)",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 2gg d. Neuausg.",
+      "pdf_pages": [
+        45
+      ],
+      "raw": "23 Kern F. im gegenständlichen Sinn 36 zu „noematischer Sinn\" Rb.\nin den Vorlesungen: gegenständlicher Sinn",
+      "text": "23 Kern F. im gegenständlichen Sinn 36 zu „noematischer Sinn\" Rb. in den Vorlesungen: gegenständlicher Sinn",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 300 d. Neuausg.",
+      "pdf_pages": [
+        45
+      ],
+      "raw": "26 „erinnerungsmäßig\" gestr. 26ff. Rb. ausführlicher <auf S.> 209",
+      "text": "26 „erinnerungsmäßig\" gestr. 26ff. Rb. ausführlicher <auf S.> 209",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 302 d. Neuausg.",
+      "pdf_pages": [
+        45
+      ],
+      "raw": "23 „Akt\", F. nicht nur eine unselbständige Aktphase 27 Kerne, F.\ngegenständliche Sinne dazu Rb. aber Kern und Sinn wird später ge-\nschieden, <vgl. S.> 273",
+      "text": "23 „Akt\", F. nicht nur eine unselbständige Aktphase 27 Kerne, F. gegenständliche Sinne dazu Rb. aber Kern und Sinn wird später geschieden, <vgl. S.> 273",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 303 d. Neuausg.",
+      "pdf_pages": [
+        45
+      ],
+      "raw": "ρ „Sinn\" F. (gegenständlicher Sinn)",
+      "text": "ρ „Sinn\" F. (gegenständlicher Sinn)",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 304 d. Neuausg.",
+      "pdf_pages": [
+        45
+      ],
+      "raw": "4 synthetischen evsatzlos gestr. 6f. Rb. Das ist neu zu überlegen.\nJ5 — /. 5., 2 § 132 bis Fülle eingeklammert; dazu Rb. Das wird nicht so\nbleiben können und (zu „Sinn\"?) Dieser Begriff, so gefaßt, ist nicht halt-\nbar. 16 Der Sinn] Der gegenständliche Sinn",
+      "text": "4 synthetischen evsatzlos gestr. 6f. Rb. Das ist neu zu überlegen. J5 — /. 5., 2 § 132 bis Fülle eingeklammert; dazu Rb. Das wird nicht so bleiben können und (zu „Sinn\"?) Dieser Begriff, so gefaßt, ist nicht haltbar. 16 Der Sinn] Der gegenständliche Sinn",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 30$ d. Neuausg.",
+      "pdf_pages": [
+        45
+      ],
+      "raw": "3 Thetische und synthetische] Monothetische und polythetische 18\nsynthetische] polythetische",
+      "text": "3 Thetische und synthetische] Monothetische und polythetische 18 synthetische] polythetische",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 306 d. Neuausg.",
+      "pdf_pages": [
+        45
+      ],
+      "raw": "i2f. zu Erscheinung Rb. Apparenz 34 Sätze F. und der Apparenzen\nund der „Gegenstände selbst\" in Anführungszeichen",
+      "text": "i2f. zu Erscheinung Rb. Apparenz 34 Sätze F. und der Apparenzen und der „Gegenstände selbst\" in Anführungszeichen",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 30J d. Neuausg.",
+      "pdf_pages": [
+        46
+      ],
+      "raw": "4 eingehenden F. variablen i6ff. Rb. Logische Untersuchungen IV\n32f. synthetischen] polythetischen",
+      "text": "4 eingehenden F. variablen i6ff. Rb. Logische Untersuchungen IV 32f. synthetischen] polythetischen",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 308 d. Neuausg.",
+      "pdf_pages": [
+        46
+      ],
+      "raw": "4 synthetischen] polythetischen",
+      "text": "4 synthetischen] polythetischen",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 310 d. Neuausg.",
+      "pdf_pages": [
+        46
+      ],
+      "raw": "31 Rb. Apparenzen 32'ff, Rb. intersubjektive Konstitution",
+      "text": "31 Rb. Apparenzen 32'ff, Rb. intersubjektive Konstitution",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 311 d. Neuausg.",
+      "pdf_pages": [
+        46
+      ],
+      "raw": "6 entsprechen jedem Ding] entsprechen jedem Ding",
+      "text": "6 entsprechen jedem Ding] entsprechen jedem Ding",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 313 d. Neuausg.",
+      "pdf_pages": [
+        46
+      ],
+      "raw": "2jf. zu die noematisch „vermeinte\" Identität des X „wirkliche\" Identi-\ntät Rb. nicht ganz korrekt und V. das noematisch „vermeinte\" Identische\ndes X „Wirkliches\"",
+      "text": "2jf. zu die noematisch „vermeinte\" Identität des X „wirkliche\" Identität Rb. nicht ganz korrekt und V. das noematisch „vermeinte\" Identische des X „Wirkliches\"",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 318 d. Neuausg.",
+      "pdf_pages": [
+        47
+      ],
+      "raw": "2ff. Rb. cf. S. 15",
+      "text": "2ff. Rb. cf. S. 15",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    }
+  ],
+  "keyword_blocks": [
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. J4 d. Neuausg.",
+      "pdf_pages": [
+        20,
+        21
+      ],
+      "raw": "11 psychologischen] psychophysischen und sonstwie realen 13\nVielmehr ist von Erlebnissen rein ihrem Wesen nach] Vielmehr ist hier\nund überall von phänomenologisch reinen Erlebnissen 14 reinen] ihrem\n|| den] ihrem ig ,wirklichen] ,.daseienden\" 20-23 das geht nicht bis\nerfaßte Wesen.] das geht das reine Erlebnis in seinem Eigenwesen an.\nAlso wesensmäßig — d.h. in der Ideation: die Wahrnehmung überhaupt,\nPhantasie überhaupt; in formalster Allgemeinheit: Intentionales über-\nhaupt — ergibt, findet es sich <als> invarianter Bestand der erschauten\nallgemeinen Wesen. Dasselbe gilt bis zu der niedersten Konkretionsstufe.\n22 pure Idee] pures Eidos 23 Wesen des] Wesen jedes 24/. in welchem\nbestimmten oder unbestimmten Sinne es das ist.] in welchem Inhalte,\nSinne es das ist, wobei freilich zu berücksichtigen ist, wie jeweils der ihm\nuntrennbar zugehörige Horizontsinn mitbestimmend ist. Danach bemerkt\nDazu evtl. Beilage <=Beilage 3Q> 25 Somit] So 31 alles und jedes im\nErlebnisstrom Vorfindliche; also gestr.",
+      "text": "11 psychologischen] psychophysischen und sonstwie realen 13 Vielmehr ist von Erlebnissen rein ihrem Wesen nach] Vielmehr ist hier und überall von phänomenologisch reinen Erlebnissen 14 reinen] ihrem || den] ihrem ig ,wirklichen] ,.daseienden\" 20-23 das geht nicht bis erfaßte Wesen.] das geht das reine Erlebnis in seinem Eigenwesen an. Also wesensmäßig — d.h. in der Ideation: die Wahrnehmung überhaupt, Phantasie überhaupt; in formalster Allgemeinheit: Intentionales überhaupt — ergibt, findet es sich <als> invarianter Bestand der erschauten allgemeinen Wesen. Dasselbe gilt bis zu der niedersten Konkretionsstufe. 22 pure Idee] pures Eidos 23 Wesen des] Wesen jedes 24/. in welchem bestimmten oder unbestimmten Sinne es das ist.] in welchem Inhalte, Sinne es das ist, wobei freilich zu berücksichtigen ist, wie jeweils der ihm untrennbar zugehörige Horizontsinn mitbestimmend ist. Danach bemerkt Dazu evtl. Beilage <=Beilage 3Q> 25 Somit] So 31 alles und jedes im Erlebnisstrom Vorfindliche; also gestr.",
+      "body_forms": [],
+      "psychophysical_forms": [
+        "psychophysischen"
+      ],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. gy d. Neuausg.",
+      "pdf_pages": [
+        26,
+        27
+      ],
+      "raw": "1 hinblicke F. und es rein als es selbst nehme 21 ist F. als strömende\nGegenwart 25 geben. F. Nichts darf ich dabei aber meinen Erlebnissen\nzumuten, was ich nicht absolut erfasse, was sie nicht selbst in ihrer Eigen-\nwesentlichkeit ausmacht — Daß sie Bestandstücke des realen Menschen\nsind, psychophysisch eins mit seinem Leib, daß die Empfindungsdaten\nnatural, physisch und psychophysisch kausiert sind u.dgl. sind, das gehört\nnicht selbst zu den Erlebnissen in ihrem eigenen absoluten Wesen; und\nwenn ich davon ein Wissen habe, wenn ich meine Erlebnisse so als zum\nMenschen (ich als Mensch) gehörig ,,auffasse\", darüber noch so sichere\nMeinungen habe, so sind eben diese Auffassungen, Meinungen neue Er-\nlebnismomente, die ich als Erlebnisdaten aufweisen kann, und dann ab-\nsolut, während ich die reale Welt und darunter all mein Menschliches\nselbst nur transzendent erfahre und nicht apodiktisch. — Diese Darstel-\nlung treibt zwar weiter, und sie ist nicht wirklich zulänglich, aber man\nnehme, was hier geltend gemacht ist, nicht leicht. Es mag zum Sein der\nErlebnisse Identifizierbarkeit und somit ein wieder Zurückgehenkönnen\ngehören, es mag sein, daß die Absolutheit von Beständen der Wieder-\nerinnerung und ein apodiktischer Gehalt vorausgesetzt ist, und vor allem\nauch, wenn ich von meinem Leben, meinem Erlebnisstrom, meinem iden-\ntisch Ichsein in eigenwesentlicher Reinheit sprechen soll: Aber man sieht\nvoraus, daß hier eine Antwort möglich sein kann und daß ein Gehalt, und\nein in sich absoluter, konkreter, geschlossen einheitlicher, in sich undurch-\nstreichbarer seiend ist als der, in dem ich Welt und mein Menschsein als\nweltlich reales überhaupt erfahren, wissen, handelnd voraussetzen kann,\nund so ein reines, eigenwesentliches Sein vor dem der Welt.",
+      "text": "1 hinblicke F. und es rein als es selbst nehme 21 ist F. als strömende Gegenwart 25 geben. F. Nichts darf ich dabei aber meinen Erlebnissen zumuten, was ich nicht absolut erfasse, was sie nicht selbst in ihrer Eigenwesentlichkeit ausmacht — Daß sie Bestandstücke des realen Menschen sind, psychophysisch eins mit seinem Leib, daß die Empfindungsdaten natural, physisch und psychophysisch kausiert sind u.dgl. sind, das gehört nicht selbst zu den Erlebnissen in ihrem eigenen absoluten Wesen; und wenn ich davon ein Wissen habe, wenn ich meine Erlebnisse so als zum Menschen (ich als Mensch) gehörig ,,auffasse\", darüber noch so sichere Meinungen habe, so sind eben diese Auffassungen, Meinungen neue Erlebnismomente, die ich als Erlebnisdaten aufweisen kann, und dann absolut, während ich die reale Welt und darunter all mein Menschliches selbst nur transzendent erfahre und nicht apodiktisch. — Diese Darstellung treibt zwar weiter, und sie ist nicht wirklich zulänglich, aber man nehme, was hier geltend gemacht ist, nicht leicht. Es mag zum Sein der Erlebnisse Identifizierbarkeit und somit ein wieder Zurückgehenkönnen gehören, es mag sein, daß die Absolutheit von Beständen der Wiedererinnerung und ein apodiktischer Gehalt vorausgesetzt ist, und vor allem auch, wenn ich von meinem Leben, meinem Erlebnisstrom, meinem identisch Ichsein in eigenwesentlicher Reinheit sprechen soll: Aber man sieht voraus, daß hier eine Antwort möglich sein kann und daß ein Gehalt, und ein in sich absoluter, konkreter, geschlossen einheitlicher, in sich undurchstreichbarer seiend ist als der, in dem ich Welt und mein Menschsein als weltlich reales überhaupt erfahren, wissen, handelnd voraussetzen kann, und so ein reines, eigenwesentliches Sein vor dem der Welt.",
+      "body_forms": [
+        "Leib"
+      ],
+      "psychophysical_forms": [
+        "psychophysisch"
+      ],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 108 d. Neuausg.",
+      "pdf_pages": [
+        31
+      ],
+      "raw": "J Natur, F. der realen Welt 3 sind notwendig] schaffen Motivationen\n11 Naturforschung, F. Geistesforschung als Weltforschung 14 sind not-\nwendig, um zu] lassen uns 23 Natürliches, F. überhaupt Weltliches 26\nSeins, F. also nicht auf das im psychologischen Sinn reine Bewußtsein. 33\nPsychologischen, JF. und abstrahiert eine zu begründende rein intentionale\nPsychologie vom Psychophysischen. 35 „Natur\"] Realwelt 36 Natur-\nwissenschaft, F. alle Weltwissenschaften, die Psychologie, Geisteswissen-\nschaften jedes natürlichen Sinnes eingeschlossen.",
+      "text": "J Natur, F. der realen Welt 3 sind notwendig] schaffen Motivationen 11 Naturforschung, F. Geistesforschung als Weltforschung 14 sind notwendig, um zu] lassen uns 23 Natürliches, F. überhaupt Weltliches 26 Seins, F. also nicht auf das im psychologischen Sinn reine Bewußtsein. 33 Psychologischen, JF. und abstrahiert eine zu begründende rein intentionale Psychologie vom Psychophysischen. 35 „Natur\"] Realwelt 36 Naturwissenschaft, F. alle Weltwissenschaften, die Psychologie, Geisteswissenschaften jedes natürlichen Sinnes eingeschlossen.",
+      "body_forms": [],
+      "psychophysical_forms": [
+        "Psychophysischen"
+      ],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 116 d. Neuausg.",
+      "pdf_pages": [
+        32
+      ],
+      "raw": "3-8 Dieser Absatz durch horizontalen Trennungsstrich vom vorhergehenden\nText abgetrennt; dazu Rb. Das kann hier noch nicht kommen. 3 Es bedarf\nkeiner besonderen Ausführung] Es ist im voraus verständlich 4 Natur-\nobjektivitäten F. (der relativen Wirklichkeiten, wie sie in aller gewöhn-\nlichen Praxis Seinsgeltung haben, und der idealen, logifizierten der exak-\nten Physik) y-8 Und bis überhaupt gestr. 10 Schranken] Schranken\n13 in den ersatzlos gestr. sowie nach ij psychophysische ein Trennungs-\nstrich angebracht; beides verbessert in Beilage 48 3$f. die Verknüpfung\nvon Bewußtsein und Leib zu einer naturalen] die Erfahrung einer Ver-\nknüpfung von Bewußtsein und körperlichem Leib zu einer im weiteren\nSinne naturalen, einer weltlich-realen",
+      "text": "3-8 Dieser Absatz durch horizontalen Trennungsstrich vom vorhergehenden Text abgetrennt; dazu Rb. Das kann hier noch nicht kommen. 3 Es bedarf keiner besonderen Ausführung] Es ist im voraus verständlich 4 Naturobjektivitäten F. (der relativen Wirklichkeiten, wie sie in aller gewöhnlichen Praxis Seinsgeltung haben, und der idealen, logifizierten der exakten Physik) y-8 Und bis überhaupt gestr. 10 Schranken] Schranken 13 in den ersatzlos gestr. sowie nach ij psychophysische ein Trennungsstrich angebracht; beides verbessert in Beilage 48 3$f. die Verknüpfung von Bewußtsein und Leib zu einer naturalen] die Erfahrung einer Verknüpfung von Bewußtsein und körperlichem Leib zu einer im weiteren Sinne naturalen, einer weltlich-realen",
+      "body_forms": [
+        "Leib",
+        "körperlichem"
+      ],
+      "psychophysical_forms": [
+        "psychophysische"
+      ],
+      "excluded_givenness_forms": []
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 11g d. Neuausg.",
+      "pdf_pages": [
+        32,
+        33
+      ],
+      "raw": "1-3 auflösen, die intentionalen Formen, die sie konstituieren, abtun\nund auf die reinen Erlebnisse reduzieren.] ihrer Seinsgültigkeit beraubt\ndenken; dann bleiben sie mit da als reine Erlebnisse. Reduzieren wir von\nvornherein auf das transzendental Reine, so bleiben uns auch im Normal-\nfall der Gültigkeit die konstituierenden Mannigfaltigkeiten. 8 personales]\nmenschliche Leiblichkeit beseelendes 12 einer Person] einer objektiv\nrealen Person 16 Erlebniszusammenhänge, F. genauer: Zusammen-\nhänge wirklicher und als mögliche motivierter Erlebnisse iyf. alle sind]\nalle empirische Einheiten sind 23 dem empirischen Erlebnis] dem realen\npsychologischen Erlebnis, dem des Menschen in der Welt 31 Zustände\nF. reale, also im angegebenen Sinn",
+      "text": "1-3 auflösen, die intentionalen Formen, die sie konstituieren, abtun und auf die reinen Erlebnisse reduzieren.] ihrer Seinsgültigkeit beraubt denken; dann bleiben sie mit da als reine Erlebnisse. Reduzieren wir von vornherein auf das transzendental Reine, so bleiben uns auch im Normalfall der Gültigkeit die konstituierenden Mannigfaltigkeiten. 8 personales] menschliche Leiblichkeit beseelendes 12 einer Person] einer objektiv realen Person 16 Erlebniszusammenhänge, F. genauer: Zusammenhänge wirklicher und als mögliche motivierter Erlebnisse iyf. alle sind] alle empirische Einheiten sind 23 dem empirischen Erlebnis] dem realen psychologischen Erlebnis, dem des Menschen in der Welt 31 Zustände F. reale, also im angegebenen Sinn",
+      "body_forms": [
+        "Leiblichkeit"
+      ],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": []
+    }
+  ],
+  "reviewed_page_blocks": [
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. J4 d. Neuausg.",
+      "pdf_pages": [
+        20,
+        21
+      ],
+      "raw": "11 psychologischen] psychophysischen und sonstwie realen 13\nVielmehr ist von Erlebnissen rein ihrem Wesen nach] Vielmehr ist hier\nund überall von phänomenologisch reinen Erlebnissen 14 reinen] ihrem\n|| den] ihrem ig ,wirklichen] ,.daseienden\" 20-23 das geht nicht bis\nerfaßte Wesen.] das geht das reine Erlebnis in seinem Eigenwesen an.\nAlso wesensmäßig — d.h. in der Ideation: die Wahrnehmung überhaupt,\nPhantasie überhaupt; in formalster Allgemeinheit: Intentionales über-\nhaupt — ergibt, findet es sich <als> invarianter Bestand der erschauten\nallgemeinen Wesen. Dasselbe gilt bis zu der niedersten Konkretionsstufe.\n22 pure Idee] pures Eidos 23 Wesen des] Wesen jedes 24/. in welchem\nbestimmten oder unbestimmten Sinne es das ist.] in welchem Inhalte,\nSinne es das ist, wobei freilich zu berücksichtigen ist, wie jeweils der ihm\nuntrennbar zugehörige Horizontsinn mitbestimmend ist. Danach bemerkt\nDazu evtl. Beilage <=Beilage 3Q> 25 Somit] So 31 alles und jedes im\nErlebnisstrom Vorfindliche; also gestr.",
+      "text": "11 psychologischen] psychophysischen und sonstwie realen 13 Vielmehr ist von Erlebnissen rein ihrem Wesen nach] Vielmehr ist hier und überall von phänomenologisch reinen Erlebnissen 14 reinen] ihrem || den] ihrem ig ,wirklichen] ,.daseienden\" 20-23 das geht nicht bis erfaßte Wesen.] das geht das reine Erlebnis in seinem Eigenwesen an. Also wesensmäßig — d.h. in der Ideation: die Wahrnehmung überhaupt, Phantasie überhaupt; in formalster Allgemeinheit: Intentionales überhaupt — ergibt, findet es sich <als> invarianter Bestand der erschauten allgemeinen Wesen. Dasselbe gilt bis zu der niedersten Konkretionsstufe. 22 pure Idee] pures Eidos 23 Wesen des] Wesen jedes 24/. in welchem bestimmten oder unbestimmten Sinne es das ist.] in welchem Inhalte, Sinne es das ist, wobei freilich zu berücksichtigen ist, wie jeweils der ihm untrennbar zugehörige Horizontsinn mitbestimmend ist. Danach bemerkt Dazu evtl. Beilage <=Beilage 3Q> 25 Somit] So 31 alles und jedes im Erlebnisstrom Vorfindliche; also gestr.",
+      "body_forms": [],
+      "psychophysical_forms": [
+        "psychophysischen"
+      ],
+      "excluded_givenness_forms": [],
+      "main_printed_page": 74,
+      "main_pdf_page": 131,
+      "category": "身心相关词",
+      "anchor": "§36；第11行",
+      "before_reviewed": "psychologischen",
+      "after_reviewed": "psychophysischen und sonstwie realen",
+      "interpretation_zh": "将世界内的实在联结与意向关系区别开。这里修改的是 Verknüpfung 的限定语。",
+      "edition_printed_pages": [
+        489,
+        490
+      ],
+      "verification": "Key excerpts and page anchors checked against critical-edition page images; autograph not inspected."
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. gy d. Neuausg.",
+      "pdf_pages": [
+        26,
+        27
+      ],
+      "raw": "1 hinblicke F. und es rein als es selbst nehme 21 ist F. als strömende\nGegenwart 25 geben. F. Nichts darf ich dabei aber meinen Erlebnissen\nzumuten, was ich nicht absolut erfasse, was sie nicht selbst in ihrer Eigen-\nwesentlichkeit ausmacht — Daß sie Bestandstücke des realen Menschen\nsind, psychophysisch eins mit seinem Leib, daß die Empfindungsdaten\nnatural, physisch und psychophysisch kausiert sind u.dgl. sind, das gehört\nnicht selbst zu den Erlebnissen in ihrem eigenen absoluten Wesen; und\nwenn ich davon ein Wissen habe, wenn ich meine Erlebnisse so als zum\nMenschen (ich als Mensch) gehörig ,,auffasse\", darüber noch so sichere\nMeinungen habe, so sind eben diese Auffassungen, Meinungen neue Er-\nlebnismomente, die ich als Erlebnisdaten aufweisen kann, und dann ab-\nsolut, während ich die reale Welt und darunter all mein Menschliches\nselbst nur transzendent erfahre und nicht apodiktisch. — Diese Darstel-\nlung treibt zwar weiter, und sie ist nicht wirklich zulänglich, aber man\nnehme, was hier geltend gemacht ist, nicht leicht. Es mag zum Sein der\nErlebnisse Identifizierbarkeit und somit ein wieder Zurückgehenkönnen\ngehören, es mag sein, daß die Absolutheit von Beständen der Wieder-\nerinnerung und ein apodiktischer Gehalt vorausgesetzt ist, und vor allem\nauch, wenn ich von meinem Leben, meinem Erlebnisstrom, meinem iden-\ntisch Ichsein in eigenwesentlicher Reinheit sprechen soll: Aber man sieht\nvoraus, daß hier eine Antwort möglich sein kann und daß ein Gehalt, und\nein in sich absoluter, konkreter, geschlossen einheitlicher, in sich undurch-\nstreichbarer seiend ist als der, in dem ich Welt und mein Menschsein als\nweltlich reales überhaupt erfahren, wissen, handelnd voraussetzen kann,\nund so ein reines, eigenwesentliches Sein vor dem der Welt.",
+      "text": "1 hinblicke F. und es rein als es selbst nehme 21 ist F. als strömende Gegenwart 25 geben. F. Nichts darf ich dabei aber meinen Erlebnissen zumuten, was ich nicht absolut erfasse, was sie nicht selbst in ihrer Eigenwesentlichkeit ausmacht — Daß sie Bestandstücke des realen Menschen sind, psychophysisch eins mit seinem Leib, daß die Empfindungsdaten natural, physisch und psychophysisch kausiert sind u.dgl. sind, das gehört nicht selbst zu den Erlebnissen in ihrem eigenen absoluten Wesen; und wenn ich davon ein Wissen habe, wenn ich meine Erlebnisse so als zum Menschen (ich als Mensch) gehörig ,,auffasse\", darüber noch so sichere Meinungen habe, so sind eben diese Auffassungen, Meinungen neue Erlebnismomente, die ich als Erlebnisdaten aufweisen kann, und dann absolut, während ich die reale Welt und darunter all mein Menschliches selbst nur transzendent erfahre und nicht apodiktisch. — Diese Darstellung treibt zwar weiter, und sie ist nicht wirklich zulänglich, aber man nehme, was hier geltend gemacht ist, nicht leicht. Es mag zum Sein der Erlebnisse Identifizierbarkeit und somit ein wieder Zurückgehenkönnen gehören, es mag sein, daß die Absolutheit von Beständen der Wiedererinnerung und ein apodiktischer Gehalt vorausgesetzt ist, und vor allem auch, wenn ich von meinem Leben, meinem Erlebnisstrom, meinem identisch Ichsein in eigenwesentlicher Reinheit sprechen soll: Aber man sieht voraus, daß hier eine Antwort möglich sein kann und daß ein Gehalt, und ein in sich absoluter, konkreter, geschlossen einheitlicher, in sich undurchstreichbarer seiend ist als der, in dem ich Welt und mein Menschsein als weltlich reales überhaupt erfahren, wissen, handelnd voraussetzen kann, und so ein reines, eigenwesentliches Sein vor dem der Welt.",
+      "body_forms": [
+        "Leib"
+      ],
+      "psychophysical_forms": [
+        "psychophysisch"
+      ],
+      "excluded_givenness_forms": [],
+      "main_printed_page": 97,
+      "main_pdf_page": 154,
+      "category": "直接身体词",
+      "anchor": "§46；第25行后续写",
+      "before_reviewed": null,
+      "after_reviewed": "Daß sie Bestandstücke des realen Menschen sind, psychophysisch eins mit seinem Leib, daß die Empfindungsdaten natural, physisch und psychophysisch kausiert sind u.dgl. sind, das gehört nicht selbst zu den Erlebnissen in ihrem eigenen absoluten Wesen",
+      "interpretation_zh": "体验属于现实的人、与其身体身心一体以及感觉资料具有自然因果来源，这些世界内规定不属于体验自身的绝对本质；但赋予体验这些规定的领会和意见本身又是可分析的体验。",
+      "edition_printed_pages": [
+        495,
+        496
+      ],
+      "verification": "Key excerpts and page anchors checked against critical-edition page images; autograph not inspected."
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. g8 d. Neuausg.",
+      "pdf_pages": [
+        27
+      ],
+      "raw": "6 Sphäre F. lebendiger, immanenter Gegenwart 9 Dingwelt F. in der\nKealitätenwelt überhaupt, 11 f. (unter Ausschluß dessen, was ,,νοη mir\"\nder Dingwelt zurechnet)] unter Ausschluß all der Realitätsauffassungen,\nrichtigen und falschen Meinungen, in denen ich im natürlichen Leben mir\nden Sinn Mensch in der realen Welt zuspreche 18 kann F. trotz dieser\nleibhaften Gegebenheit 27 eines Erlebnisses] eines reinen Erlebnisses",
+      "text": "6 Sphäre F. lebendiger, immanenter Gegenwart 9 Dingwelt F. in der Kealitätenwelt überhaupt, 11 f. (unter Ausschluß dessen, was ,,νοη mir\" der Dingwelt zurechnet)] unter Ausschluß all der Realitätsauffassungen, richtigen und falschen Meinungen, in denen ich im natürlichen Leben mir den Sinn Mensch in der realen Welt zuspreche 18 kann F. trotz dieser leibhaften Gegebenheit 27 eines Erlebnisses] eines reinen Erlebnisses",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": [
+        "leibhaften"
+      ],
+      "main_printed_page": 98,
+      "main_pdf_page": 155,
+      "category": "相邻自我与还原",
+      "anchor": "§46；第11—12行",
+      "before_reviewed": "(unter Ausschluß dessen, was „von mir“ der Dingwelt zurechnet)",
+      "after_reviewed": "unter Ausschluß all der Realitätsauffassungen, richtigen und falschen Meinungen, in denen ich im natürlichen Leben mir den Sinn Mensch in der realen Welt zuspreche",
+      "interpretation_zh": "把从物世界中排除某些“我的”成分，改写为排除我在自然生活中赋予自己“现实世界中的人”这一意义的实在领会。该批注另有 leibhaften Gegebenheit，不能据此算作身体词命中。",
+      "edition_printed_pages": [
+        496
+      ],
+      "verification": "Key excerpts and page anchors checked against critical-edition page images; autograph not inspected."
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 108 d. Neuausg.",
+      "pdf_pages": [
+        31
+      ],
+      "raw": "J Natur, F. der realen Welt 3 sind notwendig] schaffen Motivationen\n11 Naturforschung, F. Geistesforschung als Weltforschung 14 sind not-\nwendig, um zu] lassen uns 23 Natürliches, F. überhaupt Weltliches 26\nSeins, F. also nicht auf das im psychologischen Sinn reine Bewußtsein. 33\nPsychologischen, JF. und abstrahiert eine zu begründende rein intentionale\nPsychologie vom Psychophysischen. 35 „Natur\"] Realwelt 36 Natur-\nwissenschaft, F. alle Weltwissenschaften, die Psychologie, Geisteswissen-\nschaften jedes natürlichen Sinnes eingeschlossen.",
+      "text": "J Natur, F. der realen Welt 3 sind notwendig] schaffen Motivationen 11 Naturforschung, F. Geistesforschung als Weltforschung 14 sind notwendig, um zu] lassen uns 23 Natürliches, F. überhaupt Weltliches 26 Seins, F. also nicht auf das im psychologischen Sinn reine Bewußtsein. 33 Psychologischen, JF. und abstrahiert eine zu begründende rein intentionale Psychologie vom Psychophysischen. 35 „Natur\"] Realwelt 36 Naturwissenschaft, F. alle Weltwissenschaften, die Psychologie, Geisteswissenschaften jedes natürlichen Sinnes eingeschlossen.",
+      "body_forms": [],
+      "psychophysical_forms": [
+        "Psychophysischen"
+      ],
+      "excluded_givenness_forms": [],
+      "main_printed_page": 108,
+      "main_pdf_page": 165,
+      "category": "身心相关词",
+      "anchor": "§51；第26、33、35行",
+      "before_reviewed": "„Natur“",
+      "after_reviewed": "Realwelt",
+      "interpretation_zh": "第33行后续写：und abstrahiert eine zu begründende rein intentionale Psychologie vom Psychophysischen. 第26行后又限定这种抽象不达到心理学意义上的纯粹意识。不能把这里的 abstrahiert 直接等同于已充分实行的现象学心理学还原。",
+      "edition_printed_pages": [
+        500
+      ],
+      "verification": "Key excerpts and page anchors checked against critical-edition page images; autograph not inspected."
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 116 d. Neuausg.",
+      "pdf_pages": [
+        32
+      ],
+      "raw": "3-8 Dieser Absatz durch horizontalen Trennungsstrich vom vorhergehenden\nText abgetrennt; dazu Rb. Das kann hier noch nicht kommen. 3 Es bedarf\nkeiner besonderen Ausführung] Es ist im voraus verständlich 4 Natur-\nobjektivitäten F. (der relativen Wirklichkeiten, wie sie in aller gewöhn-\nlichen Praxis Seinsgeltung haben, und der idealen, logifizierten der exak-\nten Physik) y-8 Und bis überhaupt gestr. 10 Schranken] Schranken\n13 in den ersatzlos gestr. sowie nach ij psychophysische ein Trennungs-\nstrich angebracht; beides verbessert in Beilage 48 3$f. die Verknüpfung\nvon Bewußtsein und Leib zu einer naturalen] die Erfahrung einer Ver-\nknüpfung von Bewußtsein und körperlichem Leib zu einer im weiteren\nSinne naturalen, einer weltlich-realen",
+      "text": "3-8 Dieser Absatz durch horizontalen Trennungsstrich vom vorhergehenden Text abgetrennt; dazu Rb. Das kann hier noch nicht kommen. 3 Es bedarf keiner besonderen Ausführung] Es ist im voraus verständlich 4 Naturobjektivitäten F. (der relativen Wirklichkeiten, wie sie in aller gewöhnlichen Praxis Seinsgeltung haben, und der idealen, logifizierten der exakten Physik) y-8 Und bis überhaupt gestr. 10 Schranken] Schranken 13 in den ersatzlos gestr. sowie nach ij psychophysische ein Trennungsstrich angebracht; beides verbessert in Beilage 48 3$f. die Verknüpfung von Bewußtsein und Leib zu einer naturalen] die Erfahrung einer Verknüpfung von Bewußtsein und körperlichem Leib zu einer im weiteren Sinne naturalen, einer weltlich-realen",
+      "body_forms": [
+        "Leib",
+        "körperlichem"
+      ],
+      "psychophysical_forms": [
+        "psychophysische"
+      ],
+      "excluded_givenness_forms": [],
+      "main_printed_page": 116,
+      "main_pdf_page": 173,
+      "category": "直接身体词",
+      "anchor": "§53；第35—36行",
+      "before_reviewed": "die Verknüpfung von Bewußtsein und Leib zu einer naturalen",
+      "after_reviewed": "die Erfahrung einer Verknüpfung von Bewußtsein und körperlichem Leib zu einer im weiteren Sinne naturalen, einer weltlich-realen",
+      "interpretation_zh": "同时修改联结的经验、身体的物体性限定和世界实在性限定。身体在这里是意识被统觉为世界内身心统一体时的关联项。此条本身不证明身体的一切构成功能都被取消。",
+      "edition_printed_pages": [
+        501
+      ],
+      "verification": "Key excerpts and page anchors checked against critical-edition page images; autograph not inspected."
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. ny d. Neuausg.",
+      "pdf_pages": [
+        32
+      ],
+      "raw": "1 daß nur] daß ich nur 13 wäre. F. Was es wirklich annimmt, ist eine\nneue Bewußtseinsschichte. 26 Ichsubjektes] Menschensubjektes 31\nRb. Ergänzungen nötig hinsichtlich der Einigkeit! 37 auf das reine] auf\nsie selbst, das reine",
+      "text": "1 daß nur] daß ich nur 13 wäre. F. Was es wirklich annimmt, ist eine neue Bewußtseinsschichte. 26 Ichsubjektes] Menschensubjektes 31 Rb. Ergänzungen nötig hinsichtlich der Einigkeit! 37 auf das reine] auf sie selbst, das reine",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": [],
+      "main_printed_page": 117,
+      "main_pdf_page": 174,
+      "category": "相邻自我与还原",
+      "anchor": "§53；第26行",
+      "before_reviewed": "Ichsubjektes",
+      "after_reviewed": "Menschensubjektes",
+      "interpretation_zh": "把这里的实在自我主体明确成“人的主体”。第13行后续写一层新的意识层；第31行边注要求补充统一性问题。三条须分别记录。",
+      "edition_printed_pages": [
+        501
+      ],
+      "verification": "Key excerpts and page anchors checked against critical-edition page images; autograph not inspected."
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 118 d. Neuausg.",
+      "pdf_pages": [
+        32
+      ],
+      "raw": "3 die als Wesensmöglichkeit mitverflochtene] als Wesensmöglichkeit\ndie 5 Setzungen ausschaltend] Setzungen nicht mitmachend (und in die-\nsem Sinne „ausschaltend\") 12 Erlebnis F. jenes Gefühls 16 an. F. Im\nreinen Bewußtsein besagt diese Änderung, daß statt des schlichten Ge-\nfühls das, was wir hier <als?> Auffassen des Gefühls als das eines Menschen\nbezeichneten, <gegeben ist?>. 25 ungültige, F. im Gang weiterer Er-\nfahrung durchstrichene: 34 persönlichen] menschlichen 55 persönliche]\nmenschlich-seelische",
+      "text": "3 die als Wesensmöglichkeit mitverflochtene] als Wesensmöglichkeit die 5 Setzungen ausschaltend] Setzungen nicht mitmachend (und in diesem Sinne „ausschaltend\") 12 Erlebnis F. jenes Gefühls 16 an. F. Im reinen Bewußtsein besagt diese Änderung, daß statt des schlichten Gefühls das, was wir hier <als?> Auffassen des Gefühls als das eines Menschen bezeichneten, <gegeben ist?>. 25 ungültige, F. im Gang weiterer Erfahrung durchstrichene: 34 persönlichen] menschlichen 55 persönliche] menschlich-seelische",
+      "body_forms": [],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": [],
+      "main_printed_page": 118,
+      "main_pdf_page": 175,
+      "category": "相邻自我与还原",
+      "anchor": "§53—54；第5、34、35行",
+      "before_reviewed": "Setzungen ausschaltend",
+      "after_reviewed": "Setzungen nicht mitmachend (und in diesem Sinne „ausschaltend“)",
+      "interpretation_zh": "“排除设定”被解释为“不参与设定”。第34行 persönlichen 改为 menschlichen，第35行 persönliche 改为 menschlich-seelische。第16行后续写则保留“把感情领会为一个人的感情”这一领会作为纯粹意识中的体验。",
+      "edition_printed_pages": [
+        501
+      ],
+      "verification": "Key excerpts and page anchors checked against critical-edition page images; autograph not inspected."
+    },
+    {
+      "exemplar": "D",
+      "locus_raw": "Zu S. 11g d. Neuausg.",
+      "pdf_pages": [
+        32,
+        33
+      ],
+      "raw": "1-3 auflösen, die intentionalen Formen, die sie konstituieren, abtun\nund auf die reinen Erlebnisse reduzieren.] ihrer Seinsgültigkeit beraubt\ndenken; dann bleiben sie mit da als reine Erlebnisse. Reduzieren wir von\nvornherein auf das transzendental Reine, so bleiben uns auch im Normal-\nfall der Gültigkeit die konstituierenden Mannigfaltigkeiten. 8 personales]\nmenschliche Leiblichkeit beseelendes 12 einer Person] einer objektiv\nrealen Person 16 Erlebniszusammenhänge, F. genauer: Zusammen-\nhänge wirklicher und als mögliche motivierter Erlebnisse iyf. alle sind]\nalle empirische Einheiten sind 23 dem empirischen Erlebnis] dem realen\npsychologischen Erlebnis, dem des Menschen in der Welt 31 Zustände\nF. reale, also im angegebenen Sinn",
+      "text": "1-3 auflösen, die intentionalen Formen, die sie konstituieren, abtun und auf die reinen Erlebnisse reduzieren.] ihrer Seinsgültigkeit beraubt denken; dann bleiben sie mit da als reine Erlebnisse. Reduzieren wir von vornherein auf das transzendental Reine, so bleiben uns auch im Normalfall der Gültigkeit die konstituierenden Mannigfaltigkeiten. 8 personales] menschliche Leiblichkeit beseelendes 12 einer Person] einer objektiv realen Person 16 Erlebniszusammenhänge, F. genauer: Zusammenhänge wirklicher und als mögliche motivierter Erlebnisse iyf. alle sind] alle empirische Einheiten sind 23 dem empirischen Erlebnis] dem realen psychologischen Erlebnis, dem des Menschen in der Welt 31 Zustände F. reale, also im angegebenen Sinn",
+      "body_forms": [
+        "Leiblichkeit"
+      ],
+      "psychophysical_forms": [],
+      "excluded_givenness_forms": [],
+      "main_printed_page": 119,
+      "main_pdf_page": 176,
+      "category": "直接身体词",
+      "anchor": "§54；第1—3、8、12、23行",
+      "before_reviewed": "personales",
+      "after_reviewed": "menschliche Leiblichkeit beseelendes",
+      "interpretation_zh": "必须保留第8行之前的 nicht。整句由“无灵魂的、非人格的意识可以设想”改成“无灵魂的、不赋予人的身体性以生命的意识可以设想”。这限制了所否定的“人格性”的意义，并不等于否定任何自我极。第1—3行又将除掉意向形式的表述改为悬置存在有效性而保留纯粹体验和构成多样体。",
+      "edition_printed_pages": [
+        501,
+        502
+      ],
+      "verification": "Key excerpts and page anchors checked against critical-edition page images; autograph not inspected."
+    }
+  ],
+  "inserted_sheet_case_studies": [
+    {
+      "beilage": 46,
+      "text_printed_pages": [
+        601
+      ],
+      "text_pdf_pages": [
+        132
+      ],
+      "apparatus_printed_pages": [
+        690,
+        691
+      ],
+      "apparatus_pdf_pages": [
+        221,
+        222
+      ],
+      "original_insertion_pages": [
+        96,
+        97
+      ],
+      "exemplar": "D",
+      "editorial_date": "Herbst 1929",
+      "before": "Leiber",
+      "after": "körperliche Leiber",
+      "apparatus": "601,23 körperliche Leiber V. für Leiber",
+      "printed_context": "Mensch und Tier, die ja materiell-körperliche Leiber, aber nicht bloße Leiber <sind; bei> Sprache, Kunst, Staat usw.",
+      "status": "Text and alteration image-checked; provenance read in critical apparatus."
+    },
+    {
+      "beilage": 49,
+      "text_printed_pages": [
+        604,
+        605
+      ],
+      "text_pdf_pages": [
+        135,
+        136
+      ],
+      "apparatus_printed_pages": [
+        692
+      ],
+      "apparatus_pdf_pages": [
+        223
+      ],
+      "original_insertion_pages": [
+        102,
+        103
+      ],
+      "exemplar": "D",
+      "editorial_date": "Herbst 1929",
+      "topic": "How consciousness prior to the world acquires the sense of a worldly real consciousness; full world includes psychophysical and cultural reality.",
+      "status": "Text and provenance image-checked; no explicit claim of a direct cross-reference from p.116 lines35–36."
+    }
+  ]
+}
