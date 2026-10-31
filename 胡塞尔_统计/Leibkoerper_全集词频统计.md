@@ -1,6 +1,6 @@
 # 胡塞尔著作中 Leibkörper 及相似表达的出现频次（全语料）
 
-统计对象：仓库分支 `claude/magical-johnson-pejc60` 中 `胡塞尔/` 目录下全部 `*_volltext.md`，以及本分支 `胡塞尔_语料/` 中后补的 Hua XXXII、XXXVI（PDF 文字层 + OCR 转录）。脚本：`scripts/leibkoerper_count.py`、`scripts/leibkoerper_report.py`。
+统计对象：仓库分支 `claude/magical-johnson-pejc60` 中 `胡塞尔/` 目录下全部 `*_volltext.md`，以及本分支 `胡塞尔_语料/` 中后补的 Hua XXIX、XXXII、XXXVI 与 Fink《第六笛卡尔式沉思》（单列）（PDF 文字层 + OCR 转录）。脚本：`scripts/leibkoerper_count.py`、`scripts/leibkoerper_report.py`。
 
 ## 统计口径
 
@@ -43,6 +43,7 @@
 | Hua XXVI | Vorlesungen über Bedeutungslehre | 0 | 0 | 0 | 0 | 0 | **0** | 0 | **0** | 0.000 | 0.000 | 0 |
 | Hua XXVII | Aufsätze und Vorträge 1922–1937 | 0 | 0 | 0 | 0 | 0 | **0** | 1 | **1** | 0.000 | 0.083 | 0 |
 | Hua XXVIII | Vorlesungen über Ethik und Wertlehre | 0 | 0 | 0 | 0 | 0 | **0** | 0 | **0** | 0.000 | 0.000 | 0 |
+| Hua XXIX | Krisis-Ergänzungsband (1934–1937) | 0 | 0 | 1 | 0 | 0 | **1** | 11 | **12** | 0.048 | 0.582 | 0 |
 | Hua XXXII | Natur und Geist (Vorlesungen SS 1927) | 1 | 0 | 0 | 0 | 0 | **1** | 0 | **1** | 0.077 | 0.077 | 0 |
 | Hua XXXIII | Bernauer Manuskripte | 0 | 0 | 0 | 0 | 0 | **0** | 0 | **0** | 0.000 | 0.000 | 0 |
 | Hua XXXIV | Zur phänomenologischen Reduktion | 7 | 0 | 1 | 0 | 0 | **8** | 9 | **17** | 0.362 | 0.769 | 0 |
@@ -51,15 +52,17 @@
 | Hua XLII | Grenzprobleme der Phänomenologie | 2 | 0 | 0 | 0 | 0 | **2** | 8 | **10** | 0.073 | 0.365 | 0 |
 | Mat VIII | Späte Texte über Zeitkonstitution (C-Mss.) | 7 | 0 | 0 | 0 | 0 | **7** | 13 | **20** | 0.443 | 1.266 | 0 |
 | Mat XI | Manuskripte zur Konstitution von Raumdingen (D-Mss.) | 4 | 0 | 1 | 0 | 0 | **5** | 5 | **10** | 0.550 | 1.101 | 1 |
-| **德文合计（34 种，去重）** | | 556 | 3 | 24 | 12 | 1 | **596** | 249 | **845** | 1.016 | 1.441 | 4 |
+| Fink VI. CM 1（单列，不计入合计） | Fink, VI. Cartesianische Meditation, Teil 1 (Hua Dok II/1) | 1 | 0 | 0 | 0 | 0 | **1** | 2 | **3** | 0.125 | 0.376 | 0 |
+| Fink VI. CM 2（单列，不计入合计） | Fink, VI. CM, Teil 2: Ergänzungsband (Hua Dok II/2) | 2 | 0 | 0 | 0 | 0 | **2** | 0 | **2** | 0.186 | 0.186 | 0 |
+| **德文合计（35 种，去重）** | | 556 | 3 | 25 | 12 | 1 | **597** | 260 | **857** | 0.983 | 1.412 | 4 |
 
-德文合计分词数约 5,865,190。Hua X* 为 Meiner 哲学丛书版《内时间意识现象学》（Bernet 编），非 Husserliana X 原卷。
+德文合计分词数约 6,071,537。Hua X* 为 Meiner 哲学丛书版《内时间意识现象学》（Bernet 编），非 Husserliana X 原卷。
 
 ## 二、按复合词次数排序（德文，去重后）
 
 | 排名 | 卷 | A 复合词 | 占比 |
 |---:|---|---:|---:|
-| 1 | Hua XIV Intersubjektivität II | 218 | 36.6% |
+| 1 | Hua XIV Intersubjektivität II | 218 | 36.5% |
 | 2 | Hua XIII Intersubjektivität I | 164 | 27.5% |
 | 3 | Hua XV Intersubjektivität III | 70 | 11.7% |
 | 4 | Hua IV Ideen II (1952, Biemel) | 39 | 6.5% |
@@ -76,7 +79,8 @@
 | 15 | Hua XLII Grenzprobleme der Phänomenologie | 2 | 0.3% |
 | 16 | Hua VI Krisis | 2 | 0.3% |
 | 17 | Hua XXXII Natur und Geist (Vorlesungen SS 1927) | 1 | 0.2% |
-| 18 | Hua V Ideen III (1952) | 1 | 0.2% |
+| 18 | Hua XXIX Krisis-Ergänzungsband (1934–1937) | 1 | 0.2% |
+| 19 | Hua V Ideen III (1952) | 1 | 0.2% |
 
 复合词为 0 的卷：Hua XXXIII、Hua XXVIII、Hua XXVII、Hua XXVI、Hua XXIV、Hua XXIII、Hua XXII、Hua XXI、Hua XVIII、Hua XVII、Hua XIX、Hua XII、Hua XI、Hua X*、Hua VII、Hua II。
 
@@ -84,7 +88,7 @@
 
 | 词族 | 原始词形（OCR 原样） | 次数 | 分布 |
 |---|---|---:|---|
-| 狭义 Leibkörper 词族 | `Leibkörper` | 282 | 136 Hua XIV，48 Hua XV，29 Hua IV，19 Hua IX，10 Hua VIII，8 Hua IV/V neu，6 Mat VIII，6 Hua XXXIV，5 Hua XXXIX，5 Hua I，4 Hua XVI，3 Hua XXXVI，2 Mat XI，1 Hua XLII |
+| 狭义 Leibkörper 词族 | `Leibkörper` | 283 | 136 Hua XIV，48 Hua XV，29 Hua IV，19 Hua IX，10 Hua VIII，8 Hua IV/V neu，6 Mat VIII，6 Hua XXXIV，5 Hua XXXIX，5 Hua I，4 Hua XVI，3 Hua XXXVI，2 Mat XI，1 Hua XLII，1 Fink VI. CM 1 |
 | 狭义 Leibkörper 词族 | `Leibkorper` | 92 | 92 Hua XIII |
 | 狭义 Leibkörper 词族 | `Leibkörpers` | 59 | 28 Hua XIV，12 Hua XV，9 Hua XVI，2 Hua IV，2 Hua I，1 Mat XI，1 Mat VIII，1 Hua XXXIV，1 Hua V，1 Hua IX，1 Hua IV/V neu |
 | 狭义 Leibkörper 词族 | `Leibkörperlichkeit` | 32 | 17 Hua XIV，3 Hua IX，3 Hua IV，2 Hua XXXIX，2 Hua XXV，2 Hua XV，2 Hua IV/V neu，1 Hua XXXII |
@@ -103,7 +107,9 @@
 | 狭义 Leibkörper 词族 | `Erscheinung-dieses-Leibkörpers` | 1 | 1 Hua IV/V neu |
 | 狭义 Leibkörper 词族 | `LEIBKORPERS` | 1 | 1 Hua XIII |
 | 狭义 Leibkörper 词族 | `LEIBKÖRPERLICHKEIT` | 1 | 1 Hua XIV |
+| 狭义 Leibkörper 词族 | `Leib-Korperlichkeit` | 1 | 1 Fink VI. CM 2 |
 | 狭义 Leibkörper 词族 | `Leib-Körperlichkeit` | 1 | 1 Hua IX |
+| 狭义 Leibkörper 词族 | `LeibkOrper` | 1 | 1 Fink VI. CM 2 |
 | 狭义 Leibkörper 词族 | `Leibkorperanalogons` | 1 | 1 Hua XIII |
 | 狭义 Leibkörper 词族 | `Leibkorperapperzeption` | 1 | 1 Hua XIII |
 | 狭义 Leibkörper 词族 | `Leibkorpererscheinung` | 1 | 1 Hua XIII |
@@ -120,7 +126,7 @@
 | Leibeskörper 词族 | `Leibeskörper` | 5 | 3 Hua IV/V neu，2 Hua IV |
 | Leibeskörper 词族 | `Leibeskörpers` | 2 | 1 Hua XIV，1 Hua IV/V neu |
 | Körperleib 词族 | `Körperleib` | 9 | 4 Hua XIV，2 Hua XXXIX，1 Hua XVI，1 Hua XV，1 Hua I |
-| Körperleib 词族 | `Korperleib` | 5 | 5 Hua XIII |
+| Körperleib 词族 | `Korperleib` | 6 | 5 Hua XIII，1 Hua XXIX |
 | Körperleib 词族 | `Korperleibes` | 2 | 2 Hua XIII |
 | Körperleib 词族 | `Körper-Leib` | 2 | 1 Hua XXXIV，1 Hua IX |
 | Körperleib 词族 | `KorperleibfHi` | 1 | 1 Hua XIII |
@@ -146,15 +152,15 @@
 
 ## 四、短语／句式（B 类）分卷
 
-| 结构 | Hua I | Hua IV | Hua IV/V neu | Hua VI | Hua VII | Hua VIII | Hua IX | Hua XI | Hua XIII | Hua XIV | Hua XV | Hua XVI | Hua XVII | Hua XXVII | Hua XXXIV | Hua XXXVI | Hua XXXIX | Hua XLII | Mat VIII | Mat XI |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Körper, der (…) Leib ist | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Körperding Leib | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Leib … als (…) Körper | 2 | 3 | 5 | 0 | 0 | 0 | 2 | 0 | 10 | 4 | 26 | 1 | 0 | 0 | 0 | 0 | 6 | 1 | 0 | 3 |
-| Leib … wie (ein anderer) Körper | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Leib, d.i. … Körper | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| körperlich + Leib | 9 | 5 | 3 | 16 | 1 | 7 | 12 | 2 | 1 | 11 | 53 | 0 | 2 | 1 | 5 | 1 | 16 | 7 | 13 | 2 |
-| körperlich + Leiblichkeit | 0 | 1 | 0 | 2 | 0 | 0 | 6 | 0 | 0 | 2 | 3 | 0 | 2 | 0 | 4 | 0 | 3 | 0 | 0 | 0 |
+| 结构 | Hua I | Hua IV | Hua IV/V neu | Hua VI | Hua VII | Hua VIII | Hua IX | Hua XI | Hua XIII | Hua XIV | Hua XV | Hua XVI | Hua XVII | Hua XXVII | Hua XXIX | Hua XXXIV | Hua XXXVI | Hua XXXIX | Hua XLII | Mat VIII | Mat XI | Fink VI. CM 1 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Körper, der (…) Leib ist | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Körperding Leib | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Leib … als (…) Körper | 2 | 3 | 5 | 0 | 0 | 0 | 2 | 0 | 10 | 4 | 26 | 1 | 0 | 0 | 2 | 0 | 0 | 6 | 1 | 0 | 3 | 1 |
+| Leib … wie (ein anderer) Körper | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Leib, d.i. … Körper | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| körperlich + Leib | 9 | 5 | 3 | 16 | 1 | 7 | 12 | 2 | 1 | 11 | 53 | 0 | 2 | 1 | 8 | 5 | 1 | 16 | 7 | 13 | 2 | 1 |
+| körperlich + Leiblichkeit | 0 | 1 | 0 | 2 | 0 | 0 | 6 | 0 | 0 | 2 | 3 | 0 | 2 | 0 | 1 | 4 | 0 | 3 | 0 | 0 | 0 | 0 |
 
 ## 五、参考：Leib und Körper / Körper und Leib（不计入合计）
 
@@ -165,7 +171,7 @@
 
 ## 六、说明与局限
 
-- 语料并非胡塞尔全集：缺 Hua III（德文）、XX、XXIX–XXXI、XXXV、XXXVII、XXXVIII、XL、XLI、XLIII 等卷以及 Materialien 其余各卷；`hua3_volltext.md` 实为《观念 II》英译本（Collected Works III），不是德文 Hua III。
+- 语料并非胡塞尔全集：缺 Hua III（德文）、XX、XXX、XXXI、XXXV、XXXVII、XXXVIII、XL、XLI、XLIII 等卷以及 Materialien 其余各卷；`hua3_volltext.md` 实为《观念 II》英译本（Collected Works III），不是德文 Hua III。
 - 已与此前人工核对过的 `hua345_Leibkoerper_词频统计.md` 交叉验证：Hua IV 复合词 39、Hua V 1、新版 IV/V 21，三项完全一致。短语类为自动规则匹配，Hua IV 为 13（旧表人工扩充为 15，差异来自“Körper … ist Leib”“leiblich … als körperlich”等松散句式），故 B 类是保守下限。
 - 部分卷有空白页（无文字层、OCR 未补）：Hua VII 25 页、VIII 34 页、I 14 页、II 12 页、IV/V 新版 9 页、X* 8 页等，这些页上的出现无法统计。
 - 英译本中 Leibkörper 通常被译为 “living body / Body-body / bodily-body” 等，不在德文检索范围内。

@@ -46,6 +46,7 @@ VOLUMES = {
     "hua26_volltext.md": ("Hua XXVI", "Vorlesungen über Bedeutungslehre", "de", True),
     "hua27_deutsch_volltext.md": ("Hua XXVII", "Aufsätze und Vorträge 1922–1937", "de", True),
     "hua28_volltext.md": ("Hua XXVIII", "Vorlesungen über Ethik und Wertlehre", "de", True),
+    "hua29_volltext.md": ("Hua XXIX", "Krisis-Ergänzungsband (1934–1937)", "de", True),
     "hua32_volltext.md": ("Hua XXXII", "Natur und Geist (Vorlesungen SS 1927)", "de", True),
     "hua33_volltext.md": ("Hua XXXIII", "Bernauer Manuskripte", "de", True),
     "hua34_volltext.md": ("Hua XXXIV", "Zur phänomenologischen Reduktion", "de", True),
@@ -54,6 +55,9 @@ VOLUMES = {
     "hua42_volltext.md": ("Hua XLII", "Grenzprobleme der Phänomenologie", "de", True),
     "mat8_volltext.md": ("Mat VIII", "Späte Texte über Zeitkonstitution (C-Mss.)", "de", True),
     "D_Manuskripte_volltext.md": ("Mat XI", "Manuskripte zur Konstitution von Raumdingen (D-Mss.)", "de", True),
+    # Eugen Fink (Hua Dokumente II/1–2), contains Husserl's annotations; listed separately.
+    "fink_vi_cm_1_volltext.md": ("Fink VI. CM 1", "Fink, VI. Cartesianische Meditation, Teil 1 (Hua Dok II/1)", "de", False),
+    "fink_vi_cm_2_volltext.md": ("Fink VI. CM 2", "Fink, VI. CM, Teil 2: Ergänzungsband (Hua Dok II/2)", "de", False),
     # English translations: German-term search does not apply; listed for completeness.
     "hua3_volltext.md": ("CW III (en)", "Ideas II, engl. Übers. (Rojcewicz/Schuwer)", "en", False),
     "hua6_englisch_volltext.md": ("Crisis (en)", "Krisis, engl. Übers. (Carr)", "en", False),
