@@ -29,7 +29,7 @@ def main(src: Path, out: Path):
 
     L = []
     L.append("# 胡塞尔著作中 Leibkörper 及相似表达的出现频次（全语料）\n")
-    L.append("统计对象：仓库分支 `claude/magical-johnson-pejc60` 中 `胡塞尔/` 目录下全部 `*_volltext.md`"
+    L.append("统计对象：仓库分支 `claude/magical-johnson-pejc60` 中 `胡塞尔/` 目录下全部 `*_volltext.md`，以及本分支 `胡塞尔_语料/` 中后补的 Hua XXXII、XXXVI"
              "（PDF 文字层 + OCR 转录）。脚本：`scripts/leibkoerper_count.py`、`scripts/leibkoerper_report.py`。\n")
     L.append("## 统计口径\n")
     L.append("- **A. 双词干复合词**（主结果）：同一词中同时含 Leib 与 Körper 词干，含屈折、派生、连字符形式；"
@@ -123,7 +123,7 @@ def main(src: Path, out: Path):
 
     # caveats
     L.append("## 六、说明与局限\n")
-    L.append("- 语料并非胡塞尔全集：缺 Hua III（德文）、XX、XXIX–XXXII、XXXV–XXXVIII、XL、XLI、XLIII 等卷以及 Materialien 其余各卷；"
+    L.append("- 语料并非胡塞尔全集：缺 Hua III（德文）、XX、XXIX–XXXI、XXXV、XXXVII、XXXVIII、XL、XLI、XLIII 等卷以及 Materialien 其余各卷；"
              "`hua3_volltext.md` 实为《观念 II》英译本（Collected Works III），不是德文 Hua III。")
     L.append("- 已与此前人工核对过的 `hua345_Leibkoerper_词频统计.md` 交叉验证：Hua IV 复合词 39、Hua V 1、新版 IV/V 21，三项完全一致。"
              "短语类为自动规则匹配，Hua IV 为 13（旧表人工扩充为 15，差异来自“Körper … ist Leib”“leiblich … als körperlich”等松散句式），故 B 类是保守下限。")
