@@ -1,0 +1,1556 @@
+{
+  "date": "2026-10-07",
+  "scope": "Leib/Körper 双词干复合词，以及 körperlicher Leib、Körperding Leib、Leib als Körper 等明确修饰、同位、身份、比较结构，含屈折、修饰语和述谓扩展",
+  "primary_sources": [
+    "III/1",
+    "III/2",
+    "IV",
+    "V"
+  ],
+  "verification_notes": [
+    "2026-10-07：IV 的 39 处、V 的 1 处及新版 IV/V 的 21 处命中均已查看原 PDF 图像。",
+    "IV 与独立旧版德文 OCR 全文的完整词形频次一致；V 与已有 Markdown 的频次一致。",
+    "传统分卷抽取为空的页面已经查看，均为空白页。",
+    "V 的 PDF 39 合并印刷 32、33 两页，两页图像均已检查，无所选复合词；未缺印刷第 33 页。",
+    "III 的零命中另经未裁剪全文、字间空格、断词和 OCR 拼写候选检索；未逐页人工重抄全部书页。",
+    "这些人工核查说明记录的是 2026-10-07 的源文件快照；更换源 PDF 后应重新核查。",
+    "新增短语结构均已对照原 PDF 图像核查；III/2 4、IV 15、V 0，旧版 III 2、新版 IV/V 10。"
+  ],
+  "source_reports": [
+    {
+      "source_id": "III/1",
+      "edition": "Hua III/1，Schuhmann 1976",
+      "pdf_path": "/Users/wangchengjie/Library/Mobile Documents/iCloud~md~obsidian/Documents/博论参考文献 /博论参考文献/胡塞尔原著/胡塞尔全集1-28/hua3 Schuhmann 1.pdf",
+      "sha256": "7baa7742aa7e5161bb14314d512d10aa48c04223a2d7f35411f7773d1ef667ba",
+      "extraction": "crop",
+      "pdf_pages": 538,
+      "empty_text_pages": [
+        13,
+        57,
+        59,
+        525,
+        527,
+        534
+      ],
+      "count": 0,
+      "words_estimate": 151770,
+      "per_10000_words_estimate": 0.0,
+      "forms": {},
+      "families": {},
+      "layers": [
+        {
+          "layer": "卷首／编者导论",
+          "pdf_range": [
+            1,
+            58
+          ],
+          "count": 0,
+          "words_estimate": 1801,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "正文",
+          "pdf_range": [
+            59,
+            416
+          ],
+          "count": 0,
+          "words_estimate": 111444,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "索引",
+          "pdf_range": [
+            417,
+            524
+          ],
+          "count": 0,
+          "words_estimate": 35989,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "校勘附录",
+          "pdf_range": [
+            525,
+            534
+          ],
+          "count": 0,
+          "words_estimate": 2010,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "封底",
+          "pdf_range": [
+            535,
+            538
+          ],
+          "count": 0,
+          "words_estimate": 526,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        }
+      ],
+      "hits": [],
+      "phrase_count": 0,
+      "combined_count": 0,
+      "phrase_forms": {},
+      "phrase_families": {},
+      "phrase_hits": [],
+      "phrase_per_10000_words_estimate": 0.0,
+      "combined_per_10000_words_estimate": 0.0
+    },
+    {
+      "source_id": "III/2",
+      "edition": "Hua III/2，Schuhmann 1976",
+      "pdf_path": "/Users/wangchengjie/Library/Mobile Documents/iCloud~md~obsidian/Documents/博论参考文献 /博论参考文献/胡塞尔原著/胡塞尔全集1-28/hua3 Schuhmann 2.pdf",
+      "sha256": "19f931e69116d1e24bbfca588d8d957793f47584b00028a46594c1e18c03a384",
+      "extraction": "pypdf",
+      "pdf_pages": 239,
+      "empty_text_pages": [
+        183,
+        185
+      ],
+      "count": 0,
+      "words_estimate": 79759,
+      "per_10000_words_estimate": 0.0,
+      "forms": {},
+      "families": {},
+      "layers": [
+        {
+          "layer": "卷首／目录",
+          "pdf_range": [
+            1,
+            7
+          ],
+          "count": 0,
+          "words_estimate": 774,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "补充文本／手写边注",
+          "pdf_range": [
+            8,
+            182
+          ],
+          "count": 0,
+          "words_estimate": 59880,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 3,
+          "combined_count": 3
+        },
+        {
+          "layer": "校勘附录",
+          "pdf_range": [
+            183,
+            237
+          ],
+          "count": 0,
+          "words_estimate": 19001,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 1,
+          "combined_count": 1
+        },
+        {
+          "layer": "对照表／索引",
+          "pdf_range": [
+            238,
+            239
+          ],
+          "count": 0,
+          "words_estimate": 104,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        }
+      ],
+      "hits": [],
+      "phrase_count": 4,
+      "combined_count": 4,
+      "phrase_forms": {
+        "körperlichem Leib": 1,
+        "materiell-körperliche Leiber": 1,
+        "körperlichen Leib": 1,
+        "körperliche Leiber": 1
+      },
+      "phrase_families": {
+        "körperlich + Leib": 4
+      },
+      "phrase_hits": [
+        {
+          "id": "III/2-P001",
+          "form": "körperlichem Leib",
+          "family": "körperlich + Leib",
+          "pdf_page": 32,
+          "printed_page": "501",
+          "layer": "补充文本／手写边注",
+          "context": "erbessert in Beilage 48 3$f. die Verknüpfung von Bewußtsein und Leib zu einer naturalen] die Erfahrung einer Verknüpfung von Bewußtsein und körperlichem Leib zu einer im weiteren Sinne naturalen, einer weltlich-realen Zu S. ny d. Neuausg. C 23 als etwas, F. als Zustand, D 1 daß nur] daß ich nur 1"
+        },
+        {
+          "id": "III/2-P002",
+          "form": "materiell-körperliche Leiber",
+          "family": "körperlich + Leib",
+          "pdf_page": 132,
+          "printed_page": "601",
+          "layer": "补充文本／手写边注",
+          "context": "ist zwar in jedem einzelnen ihr zugehörigen Realen auch materiell, aber im allgemeinen nicht bloß das, nicht <bei> Mensch und Tier, die ja materiell-körperliche Leiber, aber nicht bloße Leiber <sind; bei> Sprache, Kunst, Staat usw., obzwar sie körperlich 25 als reale Weltvorkommnisse der realen Welt in jed"
+        },
+        {
+          "id": "III/2-P003",
+          "form": "körperlichen Leib",
+          "family": "körperlich + Leib",
+          "pdf_page": 177,
+          "printed_page": "646",
+          "layer": "补充文本／手写边注",
+          "context": "ch zur Person Ich macht mit meinen Vermögen etc. Thema, ja für mich überhaupt als Psychologen Ich in jedem Sinn, auch in dem, wo ich meinen körperlichen Leib mir selbst, wie gewöhnlich, zurechne. Aber dieses Zurechnen ist selbst ein Titel für Erlebnisse, und so jedes Bewußtsein, in dem ich meiner"
+        },
+        {
+          "id": "III/2-P004",
+          "form": "körperliche Leiber",
+          "family": "körperlich + Leib",
+          "pdf_page": 222,
+          "printed_page": "691",
+          "layer": "校勘附录",
+          "context": "601,19 nach Welt gestr. an der ;| 601,20 Diese V. für Die Welterfahrung ist die || 601,21 nach Umwelt ist gestr. umspannt ist ja |] 601,23 körperliche Leiber V. für Leiber || 601,24 nach Leiber gestr. nicht Kultur || 601,24-25 körperlich als reale Weltvorkommnisse Einf. [| 601,25 nach Welt gestr."
+        }
+      ],
+      "phrase_per_10000_words_estimate": 0.502,
+      "combined_per_10000_words_estimate": 0.502
+    },
+    {
+      "source_id": "IV",
+      "edition": "Hua IV，Marly Biemel 1952（1984 重印扫描）",
+      "pdf_path": "/Users/wangchengjie/Library/Mobile Documents/iCloud~md~obsidian/Documents/博论参考文献 /博论参考文献/胡塞尔原著/胡塞尔全集1-28/hua4.pdf",
+      "sha256": "86fd9aa35982f2a3e199fe50f7f0f3c6f53bbf18f7e4a314c097f6b2880e1810",
+      "extraction": "pypdf",
+      "pdf_pages": 445,
+      "empty_text_pages": [
+        11,
+        323,
+        414
+      ],
+      "count": 39,
+      "words_estimate": 150632,
+      "per_10000_words_estimate": 2.589,
+      "forms": {
+        "Leibkörper": 29,
+        "Leibkörpers": 2,
+        "Leibeskörper": 2,
+        "leibkörperliche": 1,
+        "Leibkörperlichkeit": 3,
+        "leibkörperlich": 1,
+        "leiblich-körperliche": 1
+      },
+      "families": {
+        "Leibkörper 词族": 36,
+        "Leibeskörper 词族": 2,
+        "leiblich-körperlich 协调形式": 1
+      },
+      "layers": [
+        {
+          "layer": "卷首",
+          "pdf_range": [
+            1,
+            3
+          ],
+          "count": 0,
+          "words_estimate": 138,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "目录",
+          "pdf_range": [
+            4,
+            10
+          ],
+          "count": 1,
+          "words_estimate": 1153,
+          "per_10000_words_estimate": 8.673,
+          "phrase_count": 0,
+          "combined_count": 1
+        },
+        {
+          "layer": "编者导论",
+          "pdf_range": [
+            11,
+            19
+          ],
+          "count": 0,
+          "words_estimate": 2241,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "正文",
+          "pdf_range": [
+            20,
+            321
+          ],
+          "count": 15,
+          "words_estimate": 97712,
+          "per_10000_words_estimate": 1.535,
+          "phrase_count": 7,
+          "combined_count": 22
+        },
+        {
+          "layer": "附录 Beilagen",
+          "pdf_range": [
+            322,
+            412
+          ],
+          "count": 15,
+          "words_estimate": 35585,
+          "per_10000_words_estimate": 4.215,
+          "phrase_count": 6,
+          "combined_count": 21
+        },
+        {
+          "layer": "校勘附录",
+          "pdf_range": [
+            413,
+            445
+          ],
+          "count": 8,
+          "words_estimate": 13803,
+          "per_10000_words_estimate": 5.796,
+          "phrase_count": 2,
+          "combined_count": 10
+        }
+      ],
+      "hits": [
+        {
+          "id": "IV-001",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 7,
+          "printed_page": "VIII",
+          "layer": "目录",
+          "context": "..............162§ 44. Urpräsenz und A p p räsen z..................................................... 162§ 45. Animalien als urpräsente Leibkörper mit appräsenterInnerlichkeit............................................................................. 163§ 46. Bedeutung der Einfühlun"
+        },
+        {
+          "id": "IV-002",
+          "form": "Leibkörpers",
+          "family": "Leibkörper 词族",
+          "pdf_page": 82,
+          "printed_page": "63",
+          "layer": "正文",
+          "context": "also das Erlebnis des „ich stoße” ausgeschlossen) genau so wirkt wie der Stoß eines sonstigen materiellen Dinges, ebenso der Fall meines Leibkörpers wie jeder andere Fall usw. > ). Was nun das Santoninessen anbelangt, so ist das ebenfalls, unter Absehen von allen „psychischen Begleittat"
+        },
+        {
+          "id": "IV-003",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 140,
+          "printed_page": "121",
+          "layer": "正文",
+          "context": "it dem Leib sind, 25 sagt man, seine seelischen Erlebnisse „verbunden”. Es ist aber klar, daß das seelische Subjekt nicht primär auf den Leibkörper als das materielle Ding bezogen ist und mittelbar auf die ihm angeknüpften Erlebnisse, sondern umgekehrt: das seelische Subjekt hat e"
+        },
+        {
+          "id": "IV-004",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 157,
+          "printed_page": "138",
+          "layer": "正文",
+          "context": "sein) bezeichnen und jede Eigenschaft, die hier als konditional bestimmte sich konstituiert, als kausale. Die erwähnte „Anknüpfung” an den Leibkörper aber verschafft dieser „Quasi-Natur” Eingliederung in den Zusammenhang der Natur im engeren Sinne. Ich erfasse den „Menschen” 20 als kon"
+        },
+        {
+          "id": "IV-005",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 163,
+          "printed_page": "144",
+          "layer": "正文",
+          "context": ". Wir können dabei gleich den besonderen Fall wählen, daß der räumlich erfahrene Körper, der mittels des Leibes wahrgenommen wird, der Leibkörper selbst ist. Denn äußerlich wahrgenommen wird ja 20 auch er, wenn auch innerhalb gewisser Grenzen, die es nicht gestatten, ihn ohne weitere"
+        },
+        {
+          "id": "IV-006",
+          "form": "Leibeskörper",
+          "family": "Leibeskörper 词族",
+          "pdf_page": 173,
+          "printed_page": "154",
+          "layer": "正文",
+          "context": "wieder dasselbe. Das ist alles „selbstverständlich”, es liegt in der Auffassung; so benimmt sich eben unter solchen Umständen 20 dieser Leibeskörper, daß er nicht überhaupt reizbar, sondern in bestimmter Weise unter bestimmten Umständen reizbar ist, daß alle Reizwirkungen ihr System"
+        },
+        {
+          "id": "IV-007",
+          "form": "Leibeskörper",
+          "family": "Leibeskörper 词族",
+          "pdf_page": 173,
+          "printed_page": "154",
+          "layer": "正文",
+          "context": "herein in der Auffassung impliziert, so daß die Reizwirkungen nicht als etwas Fremdes und nur Bewirktes, sondern als zu dem erscheinenden Leibeskörper und der extensiven Ordnung Zugeh ö r i g e s, in sich deckender Ordnung Geordnetes erscheinen. In jeder Leibesempfindung wird nicht die"
+        },
+        {
+          "id": "IV-008",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 174,
+          "printed_page": "155",
+          "layer": "正文",
+          "context": "dern die M i t auffassung der Empfindungsfelder, und zwar sind sie gegeben als in der Weise der Lokalisierung zugehörig zum erscheinenden Leibkörper. „Zugehörig” : phänomenologisch drücken sich damit Verhältnisse des phänomenalen „wenn — so” aus: ich empfinde, wenn die Hand berührt,"
+        },
+        {
+          "id": "IV-009",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 181,
+          "printed_page": "162",
+          "layer": "正文",
+          "context": "ieren). Legen wir auseinander, was in der geschilderten einheitlichen „Mensch-Apperzeption” liegt, so haben wir zu unterst den materiellen Leibkörper, der als ein materielles Ding wie alle anderen seine Stellung im Raume hat, mir in mannigfaltigen, beliebig 20 variierbaren Erscheinungen"
+        },
+        {
+          "id": "IV-010",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 182,
+          "printed_page": "163",
+          "layer": "正文",
+          "context": "Leiblichkeit und den Eigenschaften, bzw. Vermögen, die sich 25 ihm in Inneneinstellung konstituieren. § 4 5 . Animalien als urpräsente Leibkörper mit appräsenter Innerlichkeit. Nun ist aber zu beachten, daß das im ursprünglichen Sinne Erfahrbare, das urpräsentierbare Sein nicht all"
+        },
+        {
+          "id": "IV-011",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 222,
+          "printed_page": "203",
+          "layer": "正文",
+          "context": "ch zu ihm gehörigen Erscheinungsweise gegeben. „Ich bin hier”, das heißt nicht, ich bin Naturobjekt. Ich, der Mensch als Naturobjekt, bin Leibkörper, und der Leibkörper ist — egoistisch-subjektiv betrachtet — mein 30 Umgebungsobjekt im „Hier” und ist, objektiv betrachtet, an dem in"
+        },
+        {
+          "id": "IV-012",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 222,
+          "printed_page": "203",
+          "layer": "正文",
+          "context": "rscheinungsweise gegeben. „Ich bin hier”, das heißt nicht, ich bin Naturobjekt. Ich, der Mensch als Naturobjekt, bin Leibkörper, und der Leibkörper ist — egoistisch-subjektiv betrachtet — mein 30 Umgebungsobjekt im „Hier” und ist, objektiv betrachtet, an dem in dem subjektiven Hier"
+        },
+        {
+          "id": "IV-013",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 222,
+          "printed_page": "203",
+          "layer": "正文",
+          "context": "d andererseits nach allem, was er in „objektiver Wahrheit” ist, Ding in der objektiven 35 Natur (der Naturwissenschaft). Dieser objektive Leibkörper ist noch nicht der Mensch, sondern erst noch Träger einer aesthesiologischen und leib-seelischen Seinsschicht, und dieses Ganze ist nun"
+        },
+        {
+          "id": "IV-014",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 223,
+          "printed_page": "204",
+          "layer": "正文",
+          "context": "ib thematisch gesetzt ist (nicht als fundierende Realität der Gesamtrealität naturhistorischer Mensch, zoologisches Wesen), so ist dieser Leibkörper, wie alles, was nicht Geist ist, umgebende 1 5 Sachenwelt; er ist eine Sache, die geistige Bedeutung hat, die einem geistigen Sein, einer"
+        },
+        {
+          "id": "IV-015",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 300,
+          "printed_page": "281",
+          "layer": "正文",
+          "context": "s Erlebnisstromes steht unter dem Gesetz, das seinen Index hat in der Realität Seele, in ihrer Abhängigkeit vom Naturleibe. Die Realität Leibkörper drückt eine intersubjektive Regelung aus, eine über alles Bewußtsein des Verbandes Leib-Seele hinausgreifende Regelung. Die Realität Seel"
+        },
+        {
+          "id": "IV-016",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 304,
+          "printed_page": "285",
+          "layer": "正文",
+          "context": "i Leib und Seele; aber es ist zu beachten, wie das richtig zu verstehen ist. Leib als Sache in der Umwelt ist der erfahrene, anschauliche Leibkörper, und der ist Erscheinung des physikalischen Leibes. Dieser letztere und die ganze physikalische Natur 30 geht die Umwelt nichts an, zum mi"
+        },
+        {
+          "id": "IV-017",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 336,
+          "printed_page": "317",
+          "layer": "附录 Beilagen",
+          "context": "nz anderem Sinn subjektiv als mein Leib. Mein Leib ist einmal ichfremdes Objekt, mir gegenüber so gut wie 15 andere Dinge, wenn er eben als Leibkörper, als das Ding da, das in der Tat Ding ist wie ein anderes, genommen wird. Der Leib ist aber auch Träger von Emplindungsfeldem etc. Wenn ich"
+        },
+        {
+          "id": "IV-018",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 336,
+          "printed_page": "317",
+          "layer": "附录 Beilagen",
+          "context": "Also Empfindungen sind subjektiv, aber in ganz anderem Sinn als Akte. Ich habe Empfindungen — in ganz anderer Art vollziehe ich Akte. Der Leibkörper als Träger von Empfindungsdaten, die in ihm „lokalisiert” sind, als Substrat von Empfindungsfeldern ist in übertragenem Sinn subjektiv; abe"
+        },
+        {
+          "id": "IV-019",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 341,
+          "printed_page": "322",
+          "layer": "附录 Beilagen",
+          "context": "vollzogen, erfassend. Jeder erfaßt aber in der Komprehension ev. andere Personen, in eins mit der sinnlichen Wahrnehmung fremder Leiber als Leibkörper 45 seiner physischen Umwelt, im ursprünglichen Verständnis ihrer „Bedeutung” nimmt er sie wahr, und zwar als Analoga des eigenen Ich der In"
+        },
+        {
+          "id": "IV-020",
+          "form": "leibkörperliche",
+          "family": "Leibkörper 词族",
+          "pdf_page": 360,
+          "printed_page": "341",
+          "layer": "附录 Beilagen",
+          "context": "körperliche Leib ist real, reales physisches Ding, 30 sondern die Seele ist in Mitänderung, nämlich als Daseinsfolge knüpfen sich an reale leibkörperliche Vorkommnisse (die als solche in der Kausalität der physischen Natur stehen) seelische Vorkommnisse. Das sagt: der Leibkörper ist nicht konk"
+        },
+        {
+          "id": "IV-021",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 360,
+          "printed_page": "341",
+          "layer": "附录 Beilagen",
+          "context": "an reale leibkörperliche Vorkommnisse (die als solche in der Kausalität der physischen Natur stehen) seelische Vorkommnisse. Das sagt: der Leibkörper ist nicht konkrete Realität für sich, er ist nur realer Menschenkörper dadurch, daß Mitänderung in der Seele 35 statthat; und ebenso ist d"
+        },
+        {
+          "id": "IV-022",
+          "form": "Leibkörperlichkeit",
+          "family": "Leibkörper 词族",
+          "pdf_page": 360,
+          "printed_page": "341",
+          "layer": "附录 Beilagen",
+          "context": "ß Mitänderung in der Seele 35 statthat; und ebenso ist die Seele nicht Realität für sich, sondern sie hat mit zugehörige Änderungen in der Leibkörperlichkeit, das heißt, seelische Vorkommnisse führen Folgen in der Realität mit sich.Die Frage ist nun nachzuholen: ist die Seele real im selben Sinn"
+        },
+        {
+          "id": "IV-023",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 360,
+          "printed_page": "341",
+          "layer": "附录 Beilagen",
+          "context": "ißt, seelische Vorkommnisse führen Folgen in der Realität mit sich.Die Frage ist nun nachzuholen: ist die Seele real im selben Sinn wie der Leibkörper, und ist der Mensch eine aus zwei Realitäten 40 verknüpfte Realität und somit auch selbst als eine Realität gegeben ? Es fallen sofort Unte"
+        },
+        {
+          "id": "IV-024",
+          "form": "leibkörperlich",
+          "family": "Leibkörper 词族",
+          "pdf_page": 361,
+          "printed_page": "342",
+          "layer": "附录 Beilagen",
+          "context": "r, und jeder andere in der Menschengemeinschaft finde oder kann finden diesen Menschen als 25 Einheit, die in der Kausalität der Natur sich leibkörperlich durchhält und soweit diese physische Einheit als organische Einheit gewisse physische Bedingungen erfüllt als Leib eines Subjektes, das in"
+        },
+        {
+          "id": "IV-025",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 361,
+          "printed_page": "342",
+          "layer": "附录 Beilagen",
+          "context": "gt, und zwar aus folgenden 35 Gründen: der Mensch ist Mensch in der räumlichen Natur, und er ist in der Natur nur dadurch, daß zunächst der Leibkörper in der Natur materielles Ding ist. Die seelische Realität ist hier als Realität im Raume konstituiert nur durch die psychophysischen Abhäng"
+        },
+        {
+          "id": "IV-026",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 367,
+          "printed_page": "348",
+          "layer": "附录 Beilagen",
+          "context": "n Natur; ebenso die Leiblichkeit unter dem Gesichtspunkt der Natur 30 und endlich die Seele.In der naturalen Einstellung auf die Seelen der Leibkörper ist das Subjekt als Seele in der Verknüpfung mit dem Leib (das Psychophysische) das Thema, in der geistigen Einstellung habe ich als aussc"
+        },
+        {
+          "id": "IV-027",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 382,
+          "printed_page": "363",
+          "layer": "附录 Beilagen",
+          "context": "tur (der objektiven der Naturwissenschaft), Angeknüpftes an einen Leib, zu seinem Seelischen gehörig, aufgestuft auf einen an sich seienden Leibkörper.5 Bei dieser Auffassung ergibt sich die in der naturwissenschaftlichen Einstellung naheliegende Frage der „naturwissenschaftlichen Erklärun"
+        },
+        {
+          "id": "IV-028",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 394,
+          "printed_page": "375",
+          "layer": "附录 Beilagen",
+          "context": "in Einfühlungserfahrung. Einfühlung ist nicht ein mittelbares Erfahren in dem Sinn, daß der Andere als psychophysisch Abhängiges von seinem Leibkörper erfahren würde, sondern eine unmittelbare Erfahrung vom Anderen.Ähnliches gilt von der Erfahrung der Kommunikation mit Anderen, 20 des Wech"
+        },
+        {
+          "id": "IV-029",
+          "form": "leiblich-körperliche",
+          "family": "leiblich-körperlich 协调形式",
+          "pdf_page": 395,
+          "printed_page": "376",
+          "layer": "附录 Beilagen",
+          "context": "ültigkeit und als Feld aller möglichen Weltwissenschaften. Und da kehrt auch wieder die mensch- 30 liehe Subjektivität als umweltliche, als leiblich-körperliche naturwissenschaftlich zu erforschen, als leib-seelische psychophysisch, als rein subjektiv doch auch diejenige, die als „lebendig” fungiere"
+        },
+        {
+          "id": "IV-030",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 409,
+          "printed_page": "390",
+          "layer": "附录 Beilagen",
+          "context": "ität\" konstitu- 40 iert. Aber diese „Realität” ist nicht ohne weiteres die volle Seele, sondern die Seele (der objektive Überschuß über den Leibkörper) hat eine Realitätsschicht gegen die Leibkörperlichkeit hin. Die volle Realität Seele ist die ganze objektiv-weltliche Subjektivität, die a"
+        },
+        {
+          "id": "IV-031",
+          "form": "Leibkörperlichkeit",
+          "family": "Leibkörper 词族",
+          "pdf_page": 409,
+          "printed_page": "390",
+          "layer": "附录 Beilagen",
+          "context": "st nicht ohne weiteres die volle Seele, sondern die Seele (der objektive Überschuß über den Leibkörper) hat eine Realitätsschicht gegen die Leibkörperlichkeit hin. Die volle Realität Seele ist die ganze objektiv-weltliche Subjektivität, die als Ergänzung der schlechthin theoretisch gesetzten Natur"
+        },
+        {
+          "id": "IV-032",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 429,
+          "printed_page": "411",
+          "layer": "校勘附录",
+          "context": "rch Reales. Nicht alle Wenn-So Beziehungen sind Beziehungen realer Anzeigen auf Reales. Zur Auffassung meines Leibes gehört, daß ich zu dem Leibkörper, dem ,,im vorauf” konstituierten Ding als Einheit möglicher Erscheinungen (d.h. diese Einheit ist grundlegend) als zugehörig auffasse die"
+        },
+        {
+          "id": "IV-033",
+          "form": "Leibkörpers",
+          "family": "Leibkörper 词族",
+          "pdf_page": 429,
+          "printed_page": "411",
+          "layer": "校勘附录",
+          "context": "it ist grundlegend) als zugehörig auffasse die taktuelle Empfindungsschicht, das Empfindungsfeld, sich ausbreitend über die Oberfläche des Leibkörpers, als lokalisiert. Aber das ist nicht von vornherein ein Kausalverhältnis, worunter wir verstehen ein Abhängigkeitsverhältnis von substantie"
+        },
+        {
+          "id": "IV-034",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 430,
+          "printed_page": "412",
+          "layer": "校勘附录",
+          "context": ". Dem eigenen Leib wird es nicht eingefühlt. „Ursprünglich” ist dieses Ich pures Subjekt, das die erscheinenden Objekte und darunter seinen Leibkörper sich gegenüber hat, und nicht nur den Leibkörper, sondern auch den Leib mit seinen spezifischen Leibesbeschaffenheiten. Es ist noch nicht d"
+        },
+        {
+          "id": "IV-035",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 430,
+          "printed_page": "412",
+          "layer": "校勘附录",
+          "context": "prünglich” ist dieses Ich pures Subjekt, das die erscheinenden Objekte und darunter seinen Leibkörper sich gegenüber hat, und nicht nur den Leibkörper, sondern auch den Leib mit seinen spezifischen Leibesbeschaffenheiten. Es ist noch nicht das Subjekt, das Person in der Welt ist, soziales"
+        },
+        {
+          "id": "IV-036",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 435,
+          "printed_page": "417",
+          "layer": "校勘附录",
+          "context": "nsion vollzogen als Einstellung auf den Anderen.) Übergang zur Komprehension. Das fremde Ich und seine subjektive Sphäre wird dem fremden Leibkörper genau so einverstanden als wie ich mir selbst gegeben bin, also das fremde Ich sich selbst gegeben ist. Die Subjektivitäten höherer Ordnu"
+        },
+        {
+          "id": "IV-037",
+          "form": "Leibkörperlichkeit",
+          "family": "Leibkörper 词族",
+          "pdf_page": 438,
+          "printed_page": "420",
+          "layer": "校勘附录",
+          "context": ". || 341,12ff. Anmerkung von H . in L .: Was die Einheit einer Seele ausmacht, muß aber erst erörtert werden || 341,33-36 Das sagt: .... Leibkörperlichkeit Einfügung von H. in L. H 341,42-342,1 in der universalen E rfahru ng ___Art, daß Einfügung von H . in L . || 342,3-5als All aller S e ele"
+        },
+        {
+          "id": "IV-038",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 438,
+          "printed_page": "420",
+          "layer": "校勘附录",
+          "context": "uf sie. Die Seele des Anderen hat das Empfindungsdatum, z.B. die Stoßempfindung infolge des Stoßes, nämlich des physischen Stoßes auf den Leibkörper und neben den physischen Erfolgen in ihm. Er hat Farbenempfindung, wenn ein beleuchteter Körper mit Beziehung auf diese Beleuchtung Farbe"
+        },
+        {
+          "id": "IV-039",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 440,
+          "printed_page": "422",
+          "layer": "校勘附录",
+          "context": "ich existiert, real gebunden an einen anderen an sich in der Natur seienden Leib (die beteiligten vollen Realitäten, bzw. die beteiligten Leibkörper der Menschen), alles Eingeklammerte ist Zusatz von H . in L. || 361,34f. W elt der Positivität und positive Wissenschaft Zusatz von H. in"
+        }
+      ],
+      "phrase_count": 15,
+      "combined_count": 54,
+      "phrase_forms": {
+        "körperlichen Leiber": 1,
+        "Leib als einen materiellen Körper": 1,
+        "körperlichen Leibern": 1,
+        "Leib wird bewegt wie ein anderer Körper": 1,
+        "Körpers, der da Leib ist": 1,
+        "leibliche Einheiten als materiell-körperliche Einheiten": 1,
+        "Leib, d.i. sinntragender, beseelter Körper": 1,
+        "Leib ist mir gegenüber als Körper": 1,
+        "körperlichen Leib": 2,
+        "körperliche Leib": 1,
+        "Leib als Körper": 1,
+        "Körperding Leib": 1,
+        "Leib kann aber nach außen nur wirken als Körper": 1,
+        "körperliche Leiblichkeit": 1
+      },
+      "phrase_families": {
+        "körperlich + Leib": 5,
+        "Leib … als Körper": 4,
+        "Leib … wie Körper": 1,
+        "Körper … ist Leib": 1,
+        "leiblich … als körperlich": 1,
+        "Leib，即 Körper": 1,
+        "Körperding Leib": 1,
+        "körperlich + Leiblichkeit": 1
+      },
+      "phrase_hits": [
+        {
+          "id": "IV-P001",
+          "form": "körperlichen Leiber",
+          "family": "körperlich + Leib",
+          "pdf_page": 51,
+          "printed_page": "32",
+          "layer": "正文",
+          "context": "haben ihre Stellung im Raum, bewegen sich in ihm wie bloße physische Dinge. Natürlich wird man sagen: das tun 1 5 sie „vermöge” ihrer körperlichen Leiber. Aber es wäre absonderlich zu sagen: nur die Menschenleiber bewegten sich, nicht die Menschen, die Menschenleiber gingen auf der Straße, f"
+        },
+        {
+          "id": "IV-P002",
+          "form": "Leib als einen materiellen Körper",
+          "family": "Leib … als Körper",
+          "pdf_page": 82,
+          "printed_page": "63",
+          "layer": "正文",
+          "context": "sen. Das Santoninessen ist in * ) *) Es wird allerdings noch zu erörtern sein, wie weit das vereinzelte Subjekt die Möglichkeit hat, seinen Leib als einen materiellen Körper wie andere aufzufassen. -Vgl. S. 158ff."
+        },
+        {
+          "id": "IV-P003",
+          "form": "körperlichen Leibern",
+          "family": "körperlich + Leib",
+          "pdf_page": 182,
+          "printed_page": "163",
+          "layer": "正文",
+          "context": "selbst in Urpräsenz nicht zu geben sind. Die Menschen als Glieder der Außenwelt sind originär gegeben, sofern sie als Einheiten 35 von körperlichen Leibern und Seelen aufgefaßt sind: die äußerlich mir gegenüberstehenden Leiber erfahre ich wie andere"
+        },
+        {
+          "id": "IV-P004",
+          "form": "Leib wird bewegt wie ein anderer Körper",
+          "family": "Leib … wie Körper",
+          "pdf_page": 187,
+          "printed_page": "168",
+          "layer": "正文",
+          "context": "ben wir den fremden Leib als „Dort” und identifiziert mit dem Hier-Leib-Phänomen. Nun habe ich objektive Bewegung im Raume, der fremde Leib wird bewegt wie ein anderer Körper, 25 und in eins damit bewegt „sich” der Mensch mit seinem Seelenleben. Nun habe ich eine objektive Realität als Verknüpfung zweier Seite"
+        },
+        {
+          "id": "IV-P005",
+          "form": "Körpers, der da Leib ist",
+          "family": "Körper … ist Leib",
+          "pdf_page": 259,
+          "printed_page": "240",
+          "layer": "正文",
+          "context": "n Menschen, und indem ich ihn sehe, sehe ich auch seinen 5 Leib. In gewisser Weise geht die Menschenauffassung durch die Erscheinung des Körpers, der da Leib ist, hindurch. Sie bleibt gewissermaßen nicht beim Körper stehen, sie richtet nicht auf ihn ihren Pfeil, sondern durch ihn hindurch — auch"
+        },
+        {
+          "id": "IV-P006",
+          "form": "leibliche Einheiten als materiell-körperliche Einheiten",
+          "family": "leiblich … als körperlich",
+          "pdf_page": 262,
+          "printed_page": "243",
+          "layer": "正文",
+          "context": "nun anerkennen: die leiblich-geistige Einheit, die wir Mensch, die wir Staat, Kirche nennen, birgt in sich zweierlei Einheiten, nämlich leibliche Einheiten als materiell-körperliche Einheiten (letzteres in allen Fällen, wo körperliches Dasein in das Ganze des „begeisteten” Objekts eingeht) und geistige Einheiten. Es ist dabei zu"
+        },
+        {
+          "id": "IV-P007",
+          "form": "Leib, d.i. sinntragender, beseelter Körper",
+          "family": "Leib，即 Körper",
+          "pdf_page": 262,
+          "printed_page": "243",
+          "layer": "正文",
+          "context": "e des „begeisteten” Objekts eingeht) und geistige Einheiten. Es ist dabei zu unterscheiden, daß der einzelne Mensch ist: 1. einheitlicher Leib, d.i. sinntragender, beseelter Körper, 2. einheitlicher Geist; beim Staate, Volke, bei einem Verein 25 u. dgl. haben wir eine Mehrheit von Leibern, in den physischen Beziehunge"
+        },
+        {
+          "id": "IV-P008",
+          "form": "Leib ist mir gegenüber als Körper",
+          "family": "Leib … als Körper",
+          "pdf_page": 336,
+          "printed_page": "317",
+          "layer": "附录 Beilagen",
+          "context": "BEILAGEN 317 Die Dinge sind mir gegenüber, Nichtich, ichfremd.Auch mein Leib ist mir gegenüber als Körper, aber nicht als Leib; der Stoß, der meine Hand, meinen Leib trifft, trifft „mich”. — Der Stich in meine Hand: ich werde gestochen, der Stic"
+        },
+        {
+          "id": "IV-P009",
+          "form": "körperlichen Leib",
+          "family": "körperlich + Leib",
+          "pdf_page": 359,
+          "printed_page": "340",
+          "layer": "附录 Beilagen",
+          "context": "die Anschauung eines M enschen, i) Das sagt: i ) i) Icher fahre den Menschen, und darin liegt als Komponente: ich erfahre ,,äußerlich” den körperlichen Leib und erfahre „innerlich” das Seelische. Das ist eine „ab- straktive” Scheidung. Ich brauche hier nicht auf die Weise der Erfahrung einzugehe"
+        },
+        {
+          "id": "IV-P010",
+          "form": "körperliche Leib",
+          "family": "körperlich + Leib",
+          "pdf_page": 360,
+          "printed_page": "341",
+          "layer": "附录 Beilagen",
+          "context": "enschaften. Es ist, was es ist, in der Einheit einer Natur.—Wie verhält es sich demgegenüber mit dem Menschen, dem Animal ? Nicht nur’ der körperliche Leib ist real, reales physisches Ding, 30 sondern die Seele ist in Mitänderung, nämlich als Daseinsfolge knüpfen sich an reale leibkörperliche"
+        },
+        {
+          "id": "IV-P011",
+          "form": "körperlichen Leib",
+          "family": "körperlich + Leib",
+          "pdf_page": 360,
+          "printed_page": "341",
+          "layer": "附录 Beilagen",
+          "context": "Es fallen sofort Unterschiede auf zwischen dem Ding und der Seele als Realität, vor allem: sie ist nicht in der universalen Erfahrung 1 2 körperlichen Leib — das ist Naturkausalität —, ebenso zur Seele — das ist Motivations-Zusammengehörigkeit, die noch zu besprechen ist. Und endlich: Natur und"
+        },
+        {
+          "id": "IV-P012",
+          "form": "Leib als Körper",
+          "family": "Leib … als Körper",
+          "pdf_page": 366,
+          "printed_page": "347",
+          "layer": "附录 Beilagen",
+          "context": "gen dem Subjekt des fremden Leibes zugeschrieben, und es ist dabei von vornherein zu beachten, daß die einfühlende Apperzeption den fremden Leib als Körper wie andere Körper und dann als Träger der Empfindungen 5 und möglicher Einwirkungen ,,von außen” faßt und dabei zugleich als Organ eines Su"
+        },
+        {
+          "id": "IV-P013",
+          "form": "Körperding Leib",
+          "family": "Körperding Leib",
+          "pdf_page": 400,
+          "printed_page": "381",
+          "layer": "附录 Beilagen",
+          "context": "des Leibes ihn in der Weise der Handlung vollzieht. Die verschiedenen „Weil” zu unterscheiden, ist eine wichtige i ) i) Konstitutiv ist das Körperding Leib eine Einheit körperlicher Apperzeptionen und hat seinen Horizont kausaler Eigenschaften mitkonstituiert in der jeweiligen aktuellen Apperze"
+        },
+        {
+          "id": "IV-P014",
+          "form": "Leib kann aber nach außen nur wirken als Körper",
+          "family": "Leib … als Körper",
+          "pdf_page": 430,
+          "printed_page": "412",
+          "layer": "校勘附录",
+          "context": "ie letztere die erstere voraussetzt. Ist der äußere Stoß etc. sehr schwach, unterhalb einer gewissen „Größe”, so wird nichts empfunden. Der Leib kann aber nach außen nur wirken als Körper. Die Beziehung ist einseitig. Nehmen wir das Subjekt dazu; es ist fundiert in der Leiblichkeit. Es „kann\" willkürlich den Leib bewegen. Der"
+        },
+        {
+          "id": "IV-P015",
+          "form": "körperliche Leiblichkeit",
+          "family": "körperlich + Leiblichkeit",
+          "pdf_page": 432,
+          "printed_page": "414",
+          "layer": "校勘附录",
+          "context": "a von Trieben und Tendenzen. || 280,4f. R a n d b e m e rk u n g vo n H . i n L. : Seele im vollen Sinn ist doch der Überschuß über die körperliche Leiblichkeit in der natürlichen objektiven, naturalen Einstellung || 280,9 untrennbar Z u s a tz vo n H . i n L . || 280,10 fundierender Z u s a tz"
+        }
+      ],
+      "phrase_per_10000_words_estimate": 0.996,
+      "combined_per_10000_words_estimate": 3.585
+    },
+    {
+      "source_id": "V",
+      "edition": "Hua V，Marly Biemel 1952",
+      "pdf_path": "/Users/wangchengjie/Library/Mobile Documents/iCloud~md~obsidian/Documents/博论参考文献 /博论参考文献/胡塞尔原著/胡塞尔全集1-28/hua5.pdf",
+      "sha256": "882cc2082c891e429aa8eaad9ae4c2882d799175cb8042123267952cf433210f",
+      "extraction": "pypdf",
+      "pdf_pages": 172,
+      "empty_text_pages": [
+        6,
+        7,
+        113,
+        171
+      ],
+      "count": 1,
+      "words_estimate": 54286,
+      "per_10000_words_estimate": 0.184,
+      "forms": {
+        "Leibkörpers": 1
+      },
+      "families": {
+        "Leibkörper 词族": 1
+      },
+      "layers": [
+        {
+          "layer": "卷首",
+          "pdf_range": [
+            1,
+            3
+          ],
+          "count": 0,
+          "words_estimate": 139,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "目录／空白页",
+          "pdf_range": [
+            4,
+            7
+          ],
+          "count": 0,
+          "words_estimate": 332,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "正文",
+          "pdf_range": [
+            8,
+            111
+          ],
+          "count": 1,
+          "words_estimate": 33524,
+          "per_10000_words_estimate": 0.298,
+          "phrase_count": 0,
+          "combined_count": 1
+        },
+        {
+          "layer": "附录 Beilagen",
+          "pdf_range": [
+            112,
+            142
+          ],
+          "count": 0,
+          "words_estimate": 11827,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "后记 Nachwort",
+          "pdf_range": [
+            143,
+            167
+          ],
+          "count": 0,
+          "words_estimate": 7521,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "校勘注释",
+          "pdf_range": [
+            168,
+            171
+          ],
+          "count": 0,
+          "words_estimate": 880,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "原页对照表",
+          "pdf_range": [
+            172,
+            172
+          ],
+          "count": 0,
+          "words_estimate": 63,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        }
+      ],
+      "hits": [
+        {
+          "id": "V-001",
+          "form": "Leibkörpers",
+          "family": "Leibkörper 词族",
+          "pdf_page": 15,
+          "printed_page": "8",
+          "layer": "正文",
+          "context": "enwart die Wahrnehmung charakterisiert, und wir in der Wahrnehmung eines fremden Leibes mit dem Bewußtsein der Selbstgegenwart des fremden Leibkörpers auch ein gewisses sekundäres Leibhaftigkeitsbewußtsein hinsichtlich der eingedeuteten Momente haben, freilich ein solches, das sich,"
+        }
+      ],
+      "phrase_count": 0,
+      "combined_count": 1,
+      "phrase_forms": {},
+      "phrase_families": {},
+      "phrase_hits": [],
+      "phrase_per_10000_words_estimate": 0.0,
+      "combined_per_10000_words_estimate": 0.184
+    },
+    {
+      "source_id": "III旧版",
+      "edition": "Hua III，Walter Biemel 1950（双页扫描）",
+      "pdf_path": "/Users/wangchengjie/Library/Mobile Documents/iCloud~md~obsidian/Documents/博论参考文献 /博论参考文献/胡塞尔原著/胡塞尔全集1-28/hua3 Biemel.pdf",
+      "sha256": "63ca96e12d9d07650598e6c755c72f8929001b289d8558dc0118fb8ebb4f94b3",
+      "extraction": "pypdf",
+      "pdf_pages": 248,
+      "empty_text_pages": [],
+      "count": 0,
+      "words_estimate": 193434,
+      "per_10000_words_estimate": 0.0,
+      "forms": {},
+      "families": {},
+      "layers": [
+        {
+          "layer": "卷首／目录／编者说明",
+          "pdf_range": [
+            1,
+            7
+          ],
+          "count": 0,
+          "words_estimate": 2084,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "正文",
+          "pdf_range": [
+            8,
+            197
+          ],
+          "count": 0,
+          "words_estimate": 146502,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "附录 Beilagen",
+          "pdf_range": [
+            198,
+            216
+          ],
+          "count": 0,
+          "words_estimate": 15364,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "索引",
+          "pdf_range": [
+            217,
+            236
+          ],
+          "count": 0,
+          "words_estimate": 17210,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "校勘附录",
+          "pdf_range": [
+            237,
+            248
+          ],
+          "count": 0,
+          "words_estimate": 12274,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 2,
+          "combined_count": 2
+        }
+      ],
+      "hits": [],
+      "phrase_count": 2,
+      "combined_count": 2,
+      "phrase_forms": {
+        "körperliche Leiber": 1,
+        "Leiber, körperlich": 1
+      },
+      "phrase_families": {
+        "körperlich + Leib": 1,
+        "Leib, körperlich": 1
+      },
+      "phrase_hits": [
+        {
+          "id": "III旧版-P001",
+          "form": "körperliche Leiber",
+          "family": "körperlich + Leib",
+          "pdf_page": 244,
+          "printed_page": "475",
+          "layer": "校勘附录",
+          "context": "em einzelnen ihr zugehörigen Realen auch materiell, aber im all gem einen nicht bloß das , nicht <bei) Mens ch und Tier, die ja materiell körperliche Leiber, aber nicht bloße Leiber, körperlich als reale Weltvorkommnisse , <auch) Sprache , Kunst, Staat usw., obzwar sie der realen Welt in jedem"
+        },
+        {
+          "id": "III旧版-P002",
+          "form": "Leiber, körperlich",
+          "family": "Leib, körperlich",
+          "pdf_page": 244,
+          "printed_page": "475",
+          "layer": "校勘附录",
+          "context": "uch materiell, aber im all gem einen nicht bloß das , nicht <bei) Mens ch und Tier, die ja materiell körperliche Leiber, aber nicht bloße Leiber, körperlich als reale Weltvorkommnisse , <auch) Sprache , Kunst, Staat usw., obzwar sie der realen Welt in jedem einzelnen realen Bestand <angeh ören"
+        }
+      ],
+      "phrase_per_10000_words_estimate": 0.103,
+      "combined_per_10000_words_estimate": 0.103
+    },
+    {
+      "source_id": "IV/V新版",
+      "edition": "Hua IV/V，Fonfara 2025（合编）",
+      "pdf_path": "/Users/wangchengjie/Library/Mobile Documents/iCloud~md~obsidian/Documents/博论参考文献 /博论参考文献/胡塞尔原著/hua4 neu.pdf",
+      "sha256": "4423b29e7114f83e76719602a82148c4ac76804dab430ec38d44fcfc95333256",
+      "extraction": "pypdf",
+      "pdf_pages": 921,
+      "empty_text_pages": [
+        33,
+        35,
+        93,
+        205,
+        207,
+        291,
+        293,
+        369,
+        667
+      ],
+      "count": 21,
+      "words_estimate": 316587,
+      "per_10000_words_estimate": 0.663,
+      "forms": {
+        "Leibeskörper": 3,
+        "Leibeskörpers": 1,
+        "Leibkörper": 8,
+        "Leibkörpers": 1,
+        "Leibkörperlichkeit": 2,
+        "Erscheinung-dieses-Leibkörpers": 1,
+        "leiblich-körperliche": 1,
+        "Leib-Körper": 4
+      },
+      "families": {
+        "Leibeskörper 词族": 4,
+        "Leibkörper 词族": 16,
+        "leiblich-körperlich 协调形式": 1
+      },
+      "layers": [
+        {
+          "layer": "卷首／目录",
+          "pdf_range": [
+            1,
+            23
+          ],
+          "count": 0,
+          "words_estimate": 3670,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 1,
+          "combined_count": 1
+        },
+        {
+          "layer": "编者导论",
+          "pdf_range": [
+            24,
+            31
+          ],
+          "count": 0,
+          "words_estimate": 2842,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "三个草稿及其附录",
+          "pdf_range": [
+            32,
+            367
+          ],
+          "count": 4,
+          "words_estimate": 119008,
+          "per_10000_words_estimate": 0.336,
+          "phrase_count": 0,
+          "combined_count": 4
+        },
+        {
+          "layer": "专题论述及其附录",
+          "pdf_range": [
+            368,
+            640
+          ],
+          "count": 11,
+          "words_estimate": 100614,
+          "per_10000_words_estimate": 1.093,
+          "phrase_count": 5,
+          "combined_count": 16
+        },
+        {
+          "layer": "后记 Nachwort",
+          "pdf_range": [
+            641,
+            665
+          ],
+          "count": 0,
+          "words_estimate": 7950,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        },
+        {
+          "layer": "校勘附录",
+          "pdf_range": [
+            666,
+            905
+          ],
+          "count": 6,
+          "words_estimate": 80766,
+          "per_10000_words_estimate": 0.743,
+          "phrase_count": 4,
+          "combined_count": 10
+        },
+        {
+          "layer": "对照表／索引",
+          "pdf_range": [
+            906,
+            921
+          ],
+          "count": 0,
+          "words_estimate": 1737,
+          "per_10000_words_estimate": 0.0,
+          "phrase_count": 0,
+          "combined_count": 0
+        }
+      ],
+      "hits": [
+        {
+          "id": "IV/V新版-001",
+          "form": "Leibeskörper",
+          "family": "Leibeskörper 词族",
+          "pdf_page": 77,
+          "printed_page": "46",
+          "layer": "三个草稿及其附录",
+          "context": "46 die drei teilentwürfe der „ideen ii“ es liegt in der Auffassung. So benimmt sich eben unter solchen Umständen dieser Leibeskörper, dass er nicht überhaupt reizbar, sondern in bestimmter Weise unter bestimmten Umständen reizbar ist, dass alle Reizwirkungen i h r S y s t"
+        },
+        {
+          "id": "IV/V新版-002",
+          "form": "Leibeskörper",
+          "family": "Leibeskörper 词族",
+          "pdf_page": 77,
+          "printed_page": "46",
+          "layer": "三个草稿及其附录",
+          "context": "rein in der Auffassung impliziert, so dass die Reizwirkungen nicht als etwas Fremdes und nur Bewirktes, 15 sondern als zu dem erscheinenden Leibeskörper und der extensiven Ordnung Z u g e h ö r i g e s,halsi in sich deckender Ordnung Geordnetes erscheinen. In jeder Leibesempﬁndung wird nicht"
+        },
+        {
+          "id": "IV/V新版-003",
+          "form": "Leibeskörpers",
+          "family": "Leibeskörper 词族",
+          "pdf_page": 102,
+          "printed_page": "71",
+          "layer": "三个草稿及其附录",
+          "context": "genwart die Wahrnehmung charakterisiert und wir in der Wahrnehmung eines fremden Leibes mit dem Bewusstsein der Selbstgegenwart des fremden Leibeskörpers auch ein gewisses sekundäres Leibhaftigkeitsbewusstsein hinsichtlich der eingedeuteten Momente 25 haben, freilich ein solches, das sich näh"
+        },
+        {
+          "id": "IV/V新版-004",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 278,
+          "printed_page": "247",
+          "layer": "三个草稿及其附录",
+          "context": "kte sind in ganz anderem Sinn subjektiv als mein Leib. Mein Leib ist einmal Objekt, mir gegenüber so gut wie andere Dinge: wenn er eben als Leibkörper, als das Ding da, das in der T at Ding ist, hwenn er i 20 wie ein anderes genommen wird. Der Leib ist aber auch T räger von Emp- ﬁndungsfel"
+        },
+        {
+          "id": "IV/V新版-005",
+          "form": "Leibkörpers",
+          "family": "Leibkörper 词族",
+          "pdf_page": 406,
+          "printed_page": "375",
+          "layer": "专题论述及其附录",
+          "context": "also das Psychische des „Ich stoße“ ausgeschlossen) genau so wirkt wie der Stoß eines sonstigen materiellen Dinges, ebenso der Fall meines Leibkörpers wie jeder andere Fall usw. Was nun das S a n t o n i n e s s e n anlangt, so ist das ebenfalls, unter 30 Absehen von allen „psychischen Beg"
+        },
+        {
+          "id": "IV/V新版-006",
+          "form": "Leibkörperlichkeit",
+          "family": "Leibkörper 词族",
+          "pdf_page": 444,
+          "printed_page": "413",
+          "layer": "专题论述及其附录",
+          "context": "ti dem System normaler Ästh hesieni zusammen, als Motivationshintergrund. Der Leib ist dabei, wie die Dinge, schon Realität. Wandlungen der Leibkörperlichkeit ergeben kausale Wirkungen, und umgekehrt laufen Wirkungen von den Dingen aus. Aber an gewisse Wirkungen knüpfen sich anomale Heteroästh hes"
+        },
+        {
+          "id": "IV/V新版-007",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 516,
+          "printed_page": "485",
+          "layer": "专题论述及其附录",
+          "context": "Realität“ konstituiert. Aber diese „Realität“ ist nicht ohne Weiteres die volle Seele, sondern die Seele (der objektive Überschuss über den Leibkörper) hat eine Realitätsschicht gegen die Leibkörperlichkeit hin. Die volle Realität Seele ist die ganze objektiv-weltliche Subjektivität, die a"
+        },
+        {
+          "id": "IV/V新版-008",
+          "form": "Leibkörperlichkeit",
+          "family": "Leibkörper 词族",
+          "pdf_page": 516,
+          "printed_page": "485",
+          "layer": "专题论述及其附录",
+          "context": "t nicht ohne Weiteres die volle Seele, sondern die Seele (der objektive Überschuss über den Leibkörper) hat eine Realitätsschicht gegen die Leibkörperlichkeit hin. Die volle Realität Seele ist die ganze objektiv-weltliche Subjektivität, die als E r g ä n z u n g der schlechthin theoretisch gesetzt"
+        },
+        {
+          "id": "IV/V新版-009",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 536,
+          "printed_page": "505",
+          "layer": "专题论述及其附录",
+          "context": "d „Es existiert ein personales Leben“ ist gleichwertig. Leben ist Leben der Person, und Person ist in ihrem Leben. Verbunden haben wir also Leibkörper und dieses Leben, und dabei so, dass in diesem Leben der Komplex Erscheinung-dieses-Leibkörpers auftreten muss, mit der erscheinungsmäßigen"
+        },
+        {
+          "id": "IV/V新版-010",
+          "form": "Erscheinung-dieses-Leibkörpers",
+          "family": "Leibkörper 词族",
+          "pdf_page": 536,
+          "printed_page": "505",
+          "layer": "专题论述及其附录",
+          "context": "Person, und Person ist in ihrem Leben. Verbunden haben wir also Leibkörper und dieses Leben, und dabei so, dass in diesem Leben der Komplex Erscheinung-dieses-Leibkörpers auftreten muss, mit der erscheinungsmäßigen Lokalisation der entsprechenden Empﬁndung dieses Lebens usw. 1 Beilage XXXII ( zu Nr . 13, § 4)"
+        },
+        {
+          "id": "IV/V新版-011",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 544,
+          "printed_page": "513",
+          "layer": "专题论述及其附录",
+          "context": "ungserfahrung. E i n f ü h l u n g ist nicht ein mittelbares Erfahren in dem Sinn, dass der Andere als psychophysisch Abhängiges von seinem Leibkörper erfahren würde, sondern eine u n m i t t e l b a r e E r f a h r u n g v o m A n d e r e n. Ähnliches gilt von der Erfahrung der K o m m u"
+        },
+        {
+          "id": "IV/V新版-012",
+          "form": "leiblich-körperliche",
+          "family": "leiblich-körperlich 协调形式",
+          "pdf_page": 546,
+          "printed_page": "515",
+          "layer": "专题论述及其附录",
+          "context": "thematische ausarbeitung nr. 15 515 liche Subjektivität als umweltliche, als leiblich-körperliche naturwissenschaftlich zu erforschen, als leib-seelische, psychophysische, als rein subjektive, doch auch diejenige, die als „lebendig“ fung"
+        },
+        {
+          "id": "IV/V新版-013",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 568,
+          "printed_page": "537",
+          "layer": "专题论述及其附录",
+          "context": "g auf sie. Die Seele des Anderen hat das Empﬁndungsdatum, z. B. die Stoßempﬁndung infolge des Stoßes, nämlich des physischen Stoßes auf den Leibkörper, und hzwari neben den physischen Erfolgen 5 in ihm. Es hat Farbenempﬁndung, wenn ein beleuchteter Körper mit Beziehung auf diese Beleuchtun"
+        },
+        {
+          "id": "IV/V新版-014",
+          "form": "Leib-Körper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 590,
+          "printed_page": "559",
+          "layer": "专题论述及其附录",
+          "context": "irischen Regelmäßigkeiten, das Reich des Unverständlichen, der Ass hoziationi. Macht nur die psychophysische „Kausalität“ die Einheit von 5 Leib-Körper der Natur und „Seele“ aus? 1 Und hat die Seele nicht empirische Eigenschaften, die außerhalb der subjektiven Motivationssphäre liegen, wie"
+        },
+        {
+          "id": "IV/V新版-015",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 596,
+          "printed_page": "565",
+          "layer": "专题论述及其附录",
+          "context": "lischen gehörige, sich in dispositionellen Eigenschaften und zugehörigen Akten explizierende Einheit, aufgestuft auf einen an sich seienden Leibkörper. § 11. Die geisteswissenschaftliche Betrachtung setzt die Subjektivität absolut. „Innere“ und „äußere“ Erfahrung 10 Es ist demgegenüber die"
+        },
+        {
+          "id": "IV/V新版-016",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 745,
+          "printed_page": "714",
+          "layer": "校勘附录",
+          "context": "nf. m. Bleist. am Rand Denken wir uns Komprehension aktiv vollzogen, erfassend. || 215, 20 nach Leiber spätere Einf. m. Bleist. am Rand als Leibkörper seiner physischen Umwelt || 215, 31–32 endlich die spätere V . m. Bleist. am Rand zu diese Umwelt hat ihren allgemeinen Sinn und || 215, 33"
+        },
+        {
+          "id": "IV/V新版-017",
+          "form": "Leib-Körper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 747,
+          "printed_page": "716",
+          "layer": "校勘附录",
+          "context": "4, 21 „Ich bin Naturobjekt“ Anführungszeichen v. Hrsg . || 224, 22 bei Leib spätere Erg. m. Bleist . Körper; Leib spätere V . m. Bleist. zu Leib-Körper || 224, 22–23 subjektiv spätere V . m. Bleist. zu egoistisch-subjektiv || 224, 26 einmal spätere V . m. Bleist. zu fürs Erste || 224, 28–30"
+        },
+        {
+          "id": "IV/V新版-018",
+          "form": "Leib-Körper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 747,
+          "printed_page": "716",
+          "layer": "校勘附录",
+          "context": "m. Bleist . Aber die höhere Seelenschicht, die nicht in der egoistischen Sphäre lokalisiert ist? || 224, 28 Leib spätere V . m. Bleist. zu Leib-Körper || 224, 30 seelischen spätere V . m. Bleist. zu leib-seelischen || 224, 32–38 von Direkter bis hat. spätere Erg. m. Bleist. am Rand wobei i"
+        },
+        {
+          "id": "IV/V新版-019",
+          "form": "Leib-Körper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 747,
+          "printed_page": "716",
+          "layer": "校勘附录",
+          "context": "t mit 386i || 225, 3 bei gesetzt ist spätere Erg. m. Bleist . thematisch ||225, 4 vor ist spätere Einf . so; Leib spätere V . m. Bleist. zu Leib-Körper || 225, 7–9 vor dient spätere Einf. am Rand zum Organ etc.; von Der bis Raumteil spätere Anstreichung m. Bleist. am Rand || 225, 13 nach Mö"
+        },
+        {
+          "id": "IV/V新版-020",
+          "form": "Leibeskörper",
+          "family": "Leibeskörper 词族",
+          "pdf_page": 850,
+          "printed_page": "819",
+          "layer": "校勘附录",
+          "context": "anz so zu verstehen wäre, wie die parallelen Reden für die physikalischen Dinge. hnach Dinge. Rb. Aber das wäre eine falsche Redeweise. Der Leibeskörper ist „verknüpft“ mit einem Seelenleben, speziell mit einer menschlichen oder tierischen Subjektivität und Personalität. Diese selbst ist nic"
+        },
+        {
+          "id": "IV/V新版-021",
+          "form": "Leibkörper",
+          "family": "Leibkörper 词族",
+          "pdf_page": 856,
+          "printed_page": "825",
+          "layer": "校勘附录",
+          "context": "n möchte man fragen: Ist es nicht ebenso beim Subjekt der Vermögen, dem empirischen Subjekt, das den Leib hat und zugleich mit dem Leib als Leibkörper eins dasteht als der Mensch? Aber bin ich, ich, das Subjekt des „Ich denke“, ich, der ich frei will, ich, der ich mich gegen meine sinnlich"
+        }
+      ],
+      "phrase_count": 10,
+      "combined_count": 31,
+      "phrase_forms": {
+        "Leib als Nullkörper": 2,
+        "Leib konstituiert sich dabei als Nullkörper": 1,
+        "Körperding Leib": 1,
+        "Leib als Körper": 1,
+        "körperlichen Leiber": 1,
+        "Leib als einen materiellen Körper": 1,
+        "körperlichen Leib": 2,
+        "Körper, der mein Leib ist": 1
+      },
+      "phrase_families": {
+        "Leib … als Körper": 5,
+        "Körperding Leib": 1,
+        "körperlich + Leib": 3,
+        "Körper … ist Leib": 1
+      },
+      "phrase_hits": [
+        {
+          "id": "IV/V新版-P001",
+          "form": "Leib als Nullkörper",
+          "family": "Leib … als Körper",
+          "pdf_page": 18,
+          "printed_page": "XVII",
+          "layer": "卷首／目录",
+          "context": "deckung. Durchsichtige und ﬂüssige Körper . . . . . . 410 § 3. II. Konstitution des kausalen Sinnendinges . . . . . . . . 412 § 4. III. Der Leib als Nullkörper . . . . . . . . . . . . . . 413 Nr. 7. (zu Teilentwurf 1, § 21) Deskription und Klassiﬁkation der „psychischen Phänomene“. Psychologische u"
+        },
+        {
+          "id": "IV/V新版-P002",
+          "form": "Leib als Nullkörper",
+          "family": "Leib … als Körper",
+          "pdf_page": 444,
+          "printed_page": "413",
+          "layer": "专题论述及其附录",
+          "context": "bt, von jedem Ding Kräftestrahlen ausgehen, hsoi dass der ganze Raum von Kraftlinien und Kraftfeldern durchsetzt ist usw.1 h§ 4.i III. hDer Leib als Nullkörper i 5 Der eigene Leib kommt für diese Konstitutionen insofern mit ins Spiel, als er immerfort da histi, im Nullpunkt der Orientierungen seine"
+        },
+        {
+          "id": "IV/V新版-P003",
+          "form": "Leib konstituiert sich dabei als Nullkörper",
+          "family": "Leib … als Körper",
+          "pdf_page": 444,
+          "printed_page": "413",
+          "layer": "专题论述及其附录",
+          "context": "suchen. Also hhaben wir i eine phänomenale T ypik, die immerfort innegehalten 15 bleibt, also in die motivierenden Umstände miteingeht. Der Leib konstituiert sich dabei als Nullkörper, mit einer gewissen Raumgestalt etc. Die T ypik betrifft vor allem Sinnesorgane und speziﬁsche Leiblichkeit etc. Das hängt also mit dem Sys"
+        },
+        {
+          "id": "IV/V新版-P004",
+          "form": "Körperding Leib",
+          "family": "Körperding Leib",
+          "pdf_page": 506,
+          "printed_page": "475",
+          "layer": "专题论述及其附录",
+          "context": "g auf den Leib, von einer p e r s o - n a l e n oder f r e i e n K a u s a l i t ä t. Umgekehrt bestimmt der Leib als 1 Konstitutiv ist das Körperding Leib eine Einheit körperlicher Apperzeptionen und hat seinen Horizont kausaler Eigenschaften mitkonstituiert in der jeweiligen aktuellen Apperze"
+        },
+        {
+          "id": "IV/V新版-P005",
+          "form": "Leib als Körper",
+          "family": "Leib … als Körper",
+          "pdf_page": 580,
+          "printed_page": "549",
+          "layer": "专题论述及其附录",
+          "context": "en dem Subjekt des fremden Leibes zugeschrieben. Und es ist dabei von vornherein zu beachten, dass die einfühlende Apperzeption den fremden Leib als Körper wie andere Körper und dann als T räger der Empfundenheiten und möglicher Einwirkungen „von außen“ fasst und dabei zugleich als Organ eines"
+        },
+        {
+          "id": "IV/V新版-P006",
+          "form": "körperlichen Leiber",
+          "family": "körperlich + Leib",
+          "pdf_page": 630,
+          "printed_page": "599",
+          "layer": "专题论述及其附录",
+          "context": "d Tiere haben ihre Stellung im Raum, bewegen sich 5 in ihm wie bloße physische Dinge. Natürlich wird man sagen: Das tun sie „vermöge“ ihrer körperlichen Leiber. Aber es wäre absonderlich zu sagen, nur die Menschenleiber bewegten sich, nicht die Menschen, die Menschenleiber gingen auf der Straße, fü"
+        },
+        {
+          "id": "IV/V新版-P007",
+          "form": "Leib als einen materiellen Körper",
+          "family": "Leib … als Körper",
+          "pdf_page": 804,
+          "printed_page": "773",
+          "layer": "校勘附录",
+          "context": "e-Typoskript hM III 1 II 1/88ai Anm. Es wird allerdings noch zu erörtern sein, wie weit das vereinzelte Subjekt die Möglichkeit hat, seinen Leib als einen materiellen Körper wie andere aufzufassen. Vgl. S. 194 ff. || 375, 34 vor sehr gestr. dass ich diesen körperlichen materiellen Vorgang als || 375, 36–38 eine"
+        },
+        {
+          "id": "IV/V新版-P008",
+          "form": "körperlichen Leib",
+          "family": "körperlich + Leib",
+          "pdf_page": 878,
+          "printed_page": "847",
+          "layer": "校勘附录",
+          "context": "andgrebe-Typoskript hM III 1 II 6/38ai Rb. m. Bleist. Ich erfahre den Menschen, und darin liegt als Komponente: Ich erfahre „äußerlich“ den körperlichen Leib und erfahre „innerlich“ das Seelische. Das ist eine „abstraktive“ Scheidung. Ich brauche hier nicht auf die Weise der Erfahrung einzugehen,"
+        },
+        {
+          "id": "IV/V新版-P009",
+          "form": "körperlichen Leib",
+          "family": "körperlich + Leib",
+          "pdf_page": 878,
+          "printed_page": "847",
+          "layer": "校勘附录",
+          "context": "der ein Gegenstand erfahren wird, also Einheit zusammengehöriger Bestimmungen. Zusammengehörigkeit gehört für sich zum hstatt zum Ms. zuri körperlichen Leib – das ist Naturkausalität –, ebenso zur Seele – das ist Motivationszusammengehörigkeit, die noch zu besprechen ist. Und endlich: Natur und"
+        },
+        {
+          "id": "IV/V新版-P010",
+          "form": "Körper, der mein Leib ist",
+          "family": "Körper … ist Leib",
+          "pdf_page": 880,
+          "printed_page": "849",
+          "layer": "校勘附录",
+          "context": "it V . für Dinge als || 543, 32 statt ihn Ms. es || 544, 3 I) Einf. m. Rotst. am Rand; vor I) gestr. die Verbindung der Sinnesdaten mit dem Körper, der mein Leib ist, und als Körper Natur; nach Natur m. Blaust. I; nach I gestr. ((Die hvon Die bis bekundet.) in eckigen Kl. m. Bleist.; von (Die bis anderer"
+        }
+      ],
+      "phrase_per_10000_words_estimate": 0.316,
+      "combined_per_10000_words_estimate": 0.979
+    }
+  ],
+  "phrase_rules": [
+    [
+      "körperlich + Leib",
+      "(?:[A-Za-zÄÖÜäöüß]+-)?körperlich(?:e|er|es|en|em)?(?:\\s+(?:\\d{1,2}\\s+)?)Leib(?:e|es|er|ern)?"
+    ],
+    [
+      "körperlich + Leiblichkeit",
+      "(?:[A-Za-zÄÖÜäöüß]+-)?körperlich(?:e|er|es|en|em)?(?:\\s+(?:\\d{1,2}\\s+)?)Leiblichkeit(?:en)?"
+    ],
+    [
+      "Körperding Leib",
+      "Körperding(?:\\s+(?:\\d{1,2}\\s+)?)Leib(?:e|es|er|ern)?"
+    ],
+    [
+      "Leib, körperlich",
+      "Leib(?:e|es|er|ern)?,\\s*(?:[A-Za-zÄÖÜäöüß]+-)?körperlich(?:e|er|es|en|em)?"
+    ],
+    [
+      "Leib … als Körper",
+      "Leib(?:e|es|er|ern)?(?:\\s+(?:\\d{1,2}\\s+)?)(?:(?:ist|kann|aber|nach|außen|nur|wirken|mir|gegenüber|konstituiert|sich|dabei)(?:\\s+(?:\\d{1,2}\\s+)?)){0,8}als(?:\\s+(?:\\d{1,2}\\s+)?)(?:(?:ein|eine|einen|einem|eines|der|die|das|bloß\\w*|materiell\\w*|physisch\\w*|rein\\w*|räumlich\\w*|ander\\w*)(?:\\s+(?:\\d{1,2}\\s+)?)){0,5}(?:[A-Za-zÄÖÜäöüß]*[Kk](?:ö|oe|o)rper(?:s|n)?)"
+    ],
+    [
+      "Körper … ist Leib",
+      "(?:[A-Za-zÄÖÜäöüß]*[Kk](?:ö|oe|o)rper(?:s|n)?),?(?:\\s+(?:\\d{1,2}\\s+)?)der(?:\\s+(?:\\d{1,2}\\s+)?)(?:(?:da|mein|meine|unser|dieser)(?:\\s+(?:\\d{1,2}\\s+)?)){0,3}Leib(?:e|es|er|ern)?(?:\\s+(?:\\d{1,2}\\s+)?)ist"
+    ],
+    [
+      "Leib … wie Körper",
+      "Leib(?:e|es|er|ern)?(?:\\s+(?:\\d{1,2}\\s+)?)(?:wird(?:\\s+(?:\\d{1,2}\\s+)?)bewegt(?:\\s+(?:\\d{1,2}\\s+)?))?wie(?:\\s+(?:\\d{1,2}\\s+)?)(?:(?:ein|eine|einen|einem|eines|der|die|das|bloß\\w*|materiell\\w*|physisch\\w*|rein\\w*|räumlich\\w*|ander\\w*)(?:\\s+(?:\\d{1,2}\\s+)?)){0,4}(?:[A-Za-zÄÖÜäöüß]*[Kk](?:ö|oe|o)rper(?:s|n)?)"
+    ],
+    [
+      "leiblich … als körperlich",
+      "leiblich(?:e|er|es|en|em)(?:\\s+(?:\\d{1,2}\\s+)?)Einheit(?:en)?(?:\\s+(?:\\d{1,2}\\s+)?)als(?:\\s+(?:\\d{1,2}\\s+)?)(?:[A-Za-zÄÖÜäöüß]+-)?körperlich(?:e|er|es|en|em)?(?:\\s+(?:\\d{1,2}\\s+)?)Einheit(?:en)?"
+    ],
+    [
+      "Leib，即 Körper",
+      "Leib(?:e|es|er|ern)?,\\s*d\\.\\s*(?:i|h)\\.(?:\\s+(?:\\d{1,2}\\s+)?)(?:(?:sinntragend\\w*|beseelt\\w*|materiell\\w*|physisch\\w*|ein\\w*|der|die|das),?(?:\\s+(?:\\d{1,2}\\s+)?)){0,5}(?:[A-Za-zÄÖÜäöüß]*[Kk](?:ö|oe|o)rper(?:s|n)?)"
+    ]
+  ],
+  "count_semantics": "count 保留复合词次数；phrase_count 为新增且不与复合词重叠的结构次数；combined_count 为两者之和。目录和校勘中的重复引用按实际位置各计一次。"
+}
