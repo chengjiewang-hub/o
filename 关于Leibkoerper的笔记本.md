@@ -71,7 +71,100 @@ Hua XXXIV, Text Nr. 27: „Kritik des cartesianischen Dualismus. Die Undenkbarke
 
 ### 待查问题
 
-- [ ] Hua IV, S. 340 注的完整上下文与断代
-- [ ] 《笛卡尔式的沉思》§57 与《危机》§72 关于"平行论"的表述（尚未在语料中核对）
+- [x] Hua IV, S. 340 注的完整上下文与断代：据新版 Hua IV/V 校勘附录（S. 847），此注原是手稿上的**铅笔页边注**，1952 年版作为脚注排印。引用时应注明"页边注"。见 `胡塞尔_统计/Leibkoerper_改稿与编辑记录.md` E2
+- [ ] 《笛卡尔式的沉思》§57 关于"平行论"的表述（尚未核对）；《危机》§72 已部分核对，见第 2 条
 - [ ] 《危机》§53–54"人类主体性的悖论"（既是世界的主体，又是世界中的客体）：身体躯体是否正是这个悖论的所在？
 - [ ] Nr. 26 全文：心理学与先验现象学"平行"的具体含义，以及身体躯体在其中的位置
+
+---
+
+## 2. 两种"先验"：条件论意义上的先验与构造论意义上的先验
+
+`#等级/A` `#文本/定稿` `#状态/已核对` · 关联：Part IV（Leiblichkeit 的先验地位），以及计划中的康德比较。引文与页码已核对，区分本身是解读草稿。
+
+### 区分
+
+"身体是不是先验的"，要拆成两个问题。"先验"在这里有两种相互独立的含义：
+
+| | **先验₁：条件论意义** | **先验₂：构造论意义** |
+|---|---|---|
+| 主张的形式 | X 是 Y 类经验的可能性条件（例如没有零点、没有动觉，就没有空间知觉） | X 属于使世界本身获得意义的那个构造生活 |
+| 是否需要悬搁 | 不需要，可以在世界信念之下陈述（心理学、本质心理学） | 需要 |
+| 对 X 的存在地位有无规定 | 没有，X 完全可以是世界中的东西 | 有，X 不是世界的一部分 |
+| 胡塞尔的用语 | "经验性的可能性条件"（1925）；本质心理学的先天 | "先验的"、"运作着的"、原自我 |
+| 康德 | 康德的"先验"基本属于这一类 | 胡塞尔认为康德缺少这一层 |
+
+**两种含义相互独立。** 一个东西可以是先验₁，同时又在世界之中，身体就是这样。这正是《危机》§53 悖论的来源：世界的一部分，是世界显现的条件。
+
+**用语上的提醒：** 不要称先验₁为"世间的先验"，在胡塞尔的读者听来这像自相矛盾。文中可用"条件论意义上的 / 构造论意义上的"，或直接用胡塞尔自己的说法"经验性的可能性条件"。
+
+### 与三个层面的对应，以及一处修正
+
+- **先验₁ 的典型位置是层面 ①**（世间-心理学）：在世界信念之下，陈述身体是知觉的可能性条件。
+- **《观念 II》的引线方法不属于先验₁。** 引线方法中止了世界信念，只把被构造的意义当作分析的引线，属于层面 ②，即还原之后的分析。真正"预设世界信念"的是心理学态度下的分析，例如 Hua IX 和下面那段 1925 年的引文。
+- **先验₂ 的边界正是争议所在。** 《危机》§54 所说的严格先验者，不只是纯粹自我（自我极），而是"在其全部成就和所获之中"的原自我，包括习性和能力。而"能力"的范例是身体性的（见《观念 II》§59）。所以纯粹自我只是先验₂的最小情形。
+
+### 胡塞尔的证据
+
+**1. 身体作为"经验性的可能性条件"**：Hua XIV, Beilage XLVI（1925 年夏季讲座），S. 375，约 Z. 35–41。
+
+> "Und in dieser physischen Umwelt als meiner Welt wirklicher und möglicher Wahrnehmung, als welche ich damit selbst erfasse und erfassen kann, **ist mein Leib gegeben als Nullpunkt der Orientierungsgegebenheiten und als empirische Bedingung der Möglichkeit für alle Erscheinungen**, als das physische Ding, worin ich walten kann, aber so, dass dieses Walten (Betätigung meiner Organe) für alle dingliche Erscheinung Abläufe der Form der freien Wahrnehmungsabläufe zur Folge hat."
+
+> 而在这个作为我的现实的和可能的知觉世界的物理周围世界中，**我的身体被给予为定向被给予性的零点，以及一切显现的经验性的可能性条件**，即我能在其中支配的那个物理物；而这种支配（我的器官的活动），对一切物的显现都带来自由知觉进程这种形式的进程。
+
+同页稍前（约 Z. 19–21）：
+
+> "…um sie als Data für das Tasterscheinende gewinnen zu können, **muss mein Leibkörper in gewissen physischen Beziehungen zum ‚betasteten' äusseren Körper stehen**."
+
+> ……为了能把它们获得为被触摸显现者的材料，**我的身体躯体必须与"被触摸的"外部躯体处于某种物理关系之中**。
+
+要点：这正是先验₁，即在世界被设定为有效的前提下，身体是知觉的可能性条件。但胡塞尔明确称之为**经验性的**条件。用来表述这一条件的，是 **Leibkörper** 与"物理关系"。
+
+**2. "先验心理学"与平行论**：《危机》§72，S. 268 f.（页码待对照原书确认）。
+
+> "Es gibt nur eine transzendentale Psychologie, die identisch ist mit der transzendentalen Philosophie."
+
+> 只有一种先验心理学，它与先验哲学是同一的。
+
+> "…alles Weltliche hat seine transzendentalen Korrelate, es sind mit jeder neuen Enthüllung für den Menschenforscher, den Psychologen, neue Bestimmungen des Menschen in der Welt."
+
+> ……一切世间之物都有其先验的相关项，随着每一次新的揭示，对于人的研究者、心理学家来说，它们都是关于世界中的人的新规定。
+
+要点：在心理学（世间）态度中，可以得到与先验结果内容相同的东西，只是它们被统觉为"世界中的人的规定"。先验₁ 由此在胡塞尔那里有一个正式的位置：内容上与先验结果平行，意义上属于世间。胡塞尔紧接着说，这一说法"在何种意义上需要修正"有待考虑，所以这句话不能孤立引用。
+
+**3. 先验₂ 的标准与范围**：《危机》§54。
+
+> "Konkret ist jedes Ich nicht bloß Ichpol sondern Ich in allen seinen Leistungen und Leistungserwerben, mitgerechnet die als seiend und soseiend geltende Welt. Aber in der Epoché … zeigt sich eo ipso nichts Menschliches, nicht Seele und Seelenleben, nicht reale psychophysische Menschen – all das gehört ins ‚Phänomen', in die Welt als konstituierten Pol."（S. 187）
+
+> 具体地说，每个自我不仅是自我极，而是在其全部成就和所获之中的自我，包括作为存在着和如此存在着而有效的世界。但在悬搁中……显现出来的根本没有任何属人的东西，没有心灵和心灵生活，没有实在的心理物理的人——这一切都属于"现象"，属于作为被构造之极的世界。
+
+原自我"立于一切自然此在之上"（S. 188）。
+
+要点：先验₂ 的标准是"不是世界的一部分"。但"属于现象（被构造之极）"不等于"属于世间层面"：被构造的现象本身就是先验研究的课题。要区分三组概念：世间 / 先验（态度之别）；被构造的 / 运作着的（先验态度内部之别）；事实的 / 本质必然的。
+
+### 各立场的定位
+
+| 立场 | 先验₁ | 先验₂ |
+|---|---|---|
+| 胡塞尔 1925（Hua XIV, S. 375） | 是，但称为"经验性的" | 未涉及 |
+| 胡塞尔 1914/15–1921（Hua XXXVI Nr. 7、Nr. 9） | 是：实在世界的相关者必须是有身体的主体 | 部分涉及：无身体的主体是"绝对唯我论的"（S. 164） |
+| 胡塞尔 1927（Hua XIV, Beilage LXXIV，S. 547） | 动觉是；身体躯体只是"事实上"如此 | 倾向于否：身体可以被想掉 |
+| 胡塞尔 1931（Hua XV, S. 287）、1933/34（Hua Dok II/2, S. 151 页边注） | 是 | 提出疑问："但是能这样划分吗？""但也包括身体躯体！"（页边注的注号位置待对照原书） |
+| 《危机》§54a（1936） | 未否认 | 否："根本没有任何属人的东西" |
+| Zahavi 1994（研究计划注 6） | 是：身体是对象经验的可能性条件 | 待查 |
+| Carman 1999 | 是 | 否：胡塞尔的先验自我"本质上没有身体"（批评） |
+| 梅洛-庞蒂 | 是 | 这两种含义无法分开："完全的还原不可能" |
+
+### 与研究计划的关联
+
+- **研究问题更精确：** 身体是先验₁，这一点几乎没有争议；争议在于身体是否是先验₂。Part IV 应当围绕后者展开。
+- **康德比较：** 《遗著》中的身体性，可以读作康德在先验₁的层面上引入身体。问题于是变成：胡塞尔有先验₂的维度，身体性能否从先验₁进入先验₂？
+- **与连接形式的可能对应（假设，待编码检验）：** 1925 年用"我的身体躯体……物理关系"表述先验₁条件；《危机》用 körperlicher Leib 表述世间的定位；先验₂的讨论则多用 Leib、"运作着的身体"。
+
+### 待查问题
+
+- [ ] Heinämaa / Hartimo / Miettinen（编）《Phenomenology and the Transcendental》（2014）的导论：其中如何区分"先验"的多种含义、用什么术语，以便本笔记的用语与现有讨论接轨
+- [ ] Zahavi 1994 所说的"可能性条件"，究竟在先验₁还是先验₂的意义上
+- [ ] 《危机》§72 前后文：胡塞尔所说"需要修正"的具体内容；S. 268 f. 页码对照原书
+- [ ] Hua XIV, Beilage XLVI 全文：1925 年讲座中"经验性的可能性条件"是否有与之对照的"先验的"说法
+- [ ] 康德"先验"概念的界定（KrV B 25、B 80 f.）：确认它是否完全落在先验₁之内
