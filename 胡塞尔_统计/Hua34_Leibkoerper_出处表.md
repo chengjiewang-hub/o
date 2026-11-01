@@ -5,7 +5,7 @@
 共 **17 处**：正文与附录（Beilagen）12 处；校勘附录（Textkritischer Anhang）3 处，其中 1 处与正文重复。
 
 - 页码为 Hua 印刷页码（已对照每页页眉核对）。行号按页边 5、10、15… 行标推算，可能差 ±1 行。
-- 统计口径与 `Leibkoerper_全集词频统计.md` 相同；数据来源为 `hua34_volltext.md`（分支 `claude/magical-johnson-pejc60`），对应 PDF 页码见各表末列。
+- 统计口径与 `Leibkoerper_全集词频统计.md` 相同；数据来源为 `胡塞尔_语料/hua34_volltext.md`，对应 PDF 页码见各表末列。
 - 术语译法：**Leib** 身体，**Körper** 躯体，**Leibkörper** 身体躯体，**körperlicher Leib** 躯体性的身体，**körperliche Leiblichkeit** 躯体性的身体性。中文为理解用参考译文，非已出版译本；括号内为据上下文补出的句意。
 
 ## 一、Leibkörper 及同类复合词（正文 5 处）

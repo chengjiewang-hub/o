@@ -29,7 +29,7 @@ def main(src: Path, out: Path):
 
     L = []
     L.append("# 胡塞尔著作中 Leibkörper 及相似表达的出现频次（全语料）\n")
-    L.append("统计对象：仓库分支 `claude/magical-johnson-pejc60` 中 `胡塞尔/` 目录下全部 `*_volltext.md`，以及本分支 `胡塞尔_语料/` 中后补的 Hua XXIX、XXXII、XXXVI 与 Fink《第六笛卡尔式沉思》（单列）"
+    L.append("统计对象：`胡塞尔_语料/` 目录下全部 `*_volltext.md`（其中 Fink《第六笛卡尔式沉思》单列）"
              "（PDF 文字层 + OCR 转录）。脚本：`scripts/leibkoerper_count.py`、`scripts/leibkoerper_report.py`。\n")
     L.append("## 统计口径\n")
     L.append("- **A. 双词干复合词**（主结果）：同一词中同时含 Leib 与 Körper 词干，含屈折、派生、连字符形式；"

@@ -1,6 +1,6 @@
 # 胡塞尔著作中 Leibkörper 及相似表达的出现频次（全语料）
 
-统计对象：仓库分支 `claude/magical-johnson-pejc60` 中 `胡塞尔/` 目录下全部 `*_volltext.md`，以及本分支 `胡塞尔_语料/` 中后补的 Hua XXIX、XXXII、XXXVI 与 Fink《第六笛卡尔式沉思》（单列）（PDF 文字层 + OCR 转录）。脚本：`scripts/leibkoerper_count.py`、`scripts/leibkoerper_report.py`。
+统计对象：`胡塞尔_语料/` 目录下全部 `*_volltext.md`（其中 Fink《第六笛卡尔式沉思》单列）（PDF 文字层 + OCR 转录）。脚本：`scripts/leibkoerper_count.py`、`scripts/leibkoerper_report.py`。
 
 ## 统计口径
 

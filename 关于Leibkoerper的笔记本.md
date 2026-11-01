@@ -255,7 +255,7 @@ Paul Gabriel Sandu, „Konstitution oder Deduktion des Eigenleibes? Paradoxien d
 | Hua XIII, Text Nr. 2（1909 年前），S. 25–27 | "Wahrgenommen wird der Leib als ‚mein' Körper …"；"Gehen wir nun zurück zur Selbstwahrnehmung, so ist der Leibkörper wahrgenommen …" | 早期 Leibkörper 用法；"Selbstwahrnehmung"的语境 |
 | Hua XIII, Text Nr. 7（1914–15），S. 240 | "Mein Leib ist das Hier, aber er ist nie im objektiven Raum als Objekt erfahren …" | 运作着的身体；与"零点"对照 |
 | Hua XIV, Text Nr. 3（1921/22），S. 61, Z. 18–33 | 对身体的"somatologische Wahrnehmung""是我作为运作着的自我的自在第一者"；作为身体的被给予"细看之下并不奠基于它作为物理物的被给予"。胡塞尔加注限定："Doch nur in dem allgemeinen Sinn: Die Praxis steht überall und immer voran der ‚Theorie'." | **奠基方向问题的中间点**：介于 1913 年（Hua XIII S. 70）与 1931 年（Hua XV S. 300）之间。经核对，此段不在删除范围内：被删的是 60,22–31 和 61,34–63,11 |
-| Hua XIV, Text Nr. 3（1921/22），S. 76 | "dass er selbst an und für sich selbst **doppelt** konstituiert ist" | Leib/Körper 双重构造的直接证据 |
+| Hua XIV, Beilage VI（"1921 oder etwas später"），S. 76 | "dass er selbst an und für sich selbst **doppelt** konstituiert ist" | Leib/Körper 双重构造的直接证据。**注意：** Beilage VI 是胡塞尔对 S. 61 ff. 的"Korrektur"（编者标题：Das Problem der Konstitution des Leibes als eines physischen Dinges in der solipsistischen Erfahrung），开头即说："Der Anschlag, den ich da mache, ist unvollkommen und wohl inkorrekt. Vor aller Funktion als Aussenleib ist der Leib für sich selbst konstituiert in besonderer Weise. 1) Voran geht ein Fungieren des Ich in der Kinästhese …"（S. 75）。S. 61, Z. 34 – S. 63, Z. 11 被删时，胡塞尔注明参看这一修正。这是奠基方向问题和 D 格中身体的重要文本，待细读 |
 | Hua XV, Text Nr. 17（1931），S. 283 | "ich bin nicht Ergänzungsstück dieses Körpers, als ob dieser wie andere Körper sein könnte, sondern bin kontinuierlich darin Waltender" | 反对把自我理解为躯体的"补充部分"，即反对部分-整体式的身心结合（Sandu 注 5 标为 S. 285 ff.，引文实在 S. 283） |
 | Hua XV, Beilage XL（约 1932），S. 567 | 标题："Mein Leib – seine Originalität. Alle Dinge in originaler Gegebenheit oder Habe sind vermittels meines Leibes in seiner Originalität gegeben" | 身体作为原本性的中介 |
 | Hua XV, S. 584（1932–35） | "Nicht einmal Strömen und Leben darf hier im ernstlichen Sinn verstanden werden." | "最终先验者"的边界 |
@@ -335,7 +335,7 @@ Paul Gabriel Sandu, „Konstitution oder Deduktion des Eigenleibes? Paradoxien d
 
 ### 四、胡塞尔自己在重新界定先验：事实性进入先验内部
 
-Hua XV, S. 385 f.（1931，"Cartesianische Meditationen" 1931–1932 一组）：
+Hua XV, Text Nr. 22，S. 385 f.（编者标题："Teleologie. Die Implikation des Eidos transzendentale Intersubjektivität im Eidos transzendentales Ich"，"aufgrund von Noten vom 5. November 1931"；页眉属"Cartesianische Meditationen" 1931–1932 一组）：
 
 > "Eben im Verwiesenwerden auf die **Urfakta der Hyle** (im weitesten Sinn); **ohne die wäre keine Welt möglich und keine transzendentale Allsubjektivität**. … Wir kommen auf letzte ‚Tatsachen' – Urtatsachen, auf letzte Notwendigkeiten, die Urnotwendigkeiten. Aber ich denke sie, ich frage zurück und komme auf sie schliesslich von der Welt her, die ich schon ‚habe'. Ich denke, ich übe Reduktion, ich, der ich bin und für mich in dieser Horizonthaftigkeit bin. **Ich bin das Urfaktum** in diesem Gang, ich erkenne, dass zu meinem faktischen Vermögen der Wesensvariation etc. in meinem faktischen Rückfragen sich die und die mir eigenen Urbestände ergeben, als Urstrukturen meiner Faktizität. Und dass ich in mir einen Kern von ‚Urzufälligem' trage in Wesensformen, in Formen vermöglichen Funktionierens, in denen dann die weltlichen Wesensnotwendigkeiten fundiert sind. … Seine Notwendigkeit ist nicht Wesensnotwendigkeit, die ein Zufälliges offen liesse. **Alle Wesensnotwendigkeiten sind Momente seines Faktums** …"
 
@@ -361,6 +361,7 @@ Hua XV, S. 385 f.（1931，"Cartesianische Meditationen" 1931–1932 一组）�
 
 - [ ] 梅洛-庞蒂《知觉现象学》序言中"完全的还原不可能"一句的原文与页码
 - [ ] Heidegger《存在与时间》§7 中"先验的认识"（veritas transcendentalis）的原文
-- [ ] Hua XV, S. 385 f. 所在文本的编号、标题与准确日期；同组文本中"Urfaktum"的其他出处
+- [x] Hua XV, S. 385 f. 所在文本：Text Nr. 22，"Teleologie"，据 1931 年 11 月 5 日的笔记
+- [ ] 同组文本（Hua XV Nr. 20–23 前后）中"Urfaktum"的其他出处
 - [ ] 胡塞尔论运作着的自我的"匿名性"与"事后"反思的文本（如《危机》§54b、Hua XXXIV），用于对等论证
 - [ ] Tengelyi 2014 原章：事实必然性与胡塞尔"原事实"的关系
