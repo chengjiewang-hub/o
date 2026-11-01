@@ -105,6 +105,10 @@ Hua XXXIV, Text Nr. 27: „Kritik des cartesianischen Dualismus. Die Undenkbarke
 | **世间的** | **A：经验性条件。** 世界中的 X 作为某类经验的条件，例如胡塞尔 1925 年说的"经验性的可能性条件" | **C：被构造的条件。** 作为被构造者的 X 在构造分析中充当条件或引线，例如《观念 II》的引线方法 |
 | **非世间的** | **B：回溯推出的先验主体。** 非经验的条件，靠论证推出，不能直观展示，例如康德的先验统觉 | **D：运作着的构造者。** 在反思中展示的构造生活本身，例如《危机》§54 的原自我（"在其全部成就和所获之中"） |
 
+![先验的两轴四格](笔记本_图/先验四格图.svg)
+
+（图中各家的位置见下文"各立场的定位"表；图由 `scripts/notebook_grid_svg.py` 生成，修改位置时改脚本后重新生成。）
+
 **条件角色与格子是两回事。** "X 是 Y 的可能性条件"这一条件角色，在四格中都可以成立。初版的"先验₁"其实就是这一条件角色，"先验₂"只对应 D 格。所以，"身体是可能性条件"只说明身体在某一格里，不说明在哪一格。以下仍用"先验₁"简称条件角色，用"先验₂"简称 D 格。
 
 **§53 悖论在格子中的位置：** 同一个主体性既是"Subjektivität in der Welt als Objekt"，同时又是"für die Welt Bewußtseinssubjekt"（S. 184）。前者在 A 格（悬搁后为 C 格），后者在 D 格。§54 的解决，是用自我客体化来说明 D 与 C 的关系，而不是把两者当作部分与整体。
@@ -276,3 +280,87 @@ Paul Gabriel Sandu, „Konstitution oder Deduktion des Eigenleibes? Paradoxien d
 - [ ] Figal 2015《Unscheinbarkeit. Der Raum der Phänomenologie》，S. 4、155–160：Sandu 依赖的"不显眼"概念
 - [ ] Hua XIII, Text Nr. 14 全文（1915–17）："身体的先验演绎"在这篇文本的整体论证中处于什么位置；同卷 S. 376 注 1 的上下文
 - [ ] Hua XIII, Text Nr. 9（1914–15）中 Leibkörper 的全部出处，纳入词汇编码
+
+---
+
+## 4. 交织与合法性：如果先验与经验交织，先验如何还能合法地存在？
+
+`#等级/A` `#文本/定稿` `#状态/已分析` · 关联：第 2 条（两轴四格）；Part IV；康德比较；研究计划中"先验与经验的交织"命题。胡塞尔引文已核对；本条的两难论证与对等论证是自己的重构，不是现有文献中的定论，需进一步检验。
+
+![先验的两轴四格](笔记本_图/先验四格图.svg)
+
+### 问题
+
+如果可以直接宣称先验与经验是交织的（例如 Heinämaa / Hartimo / Miettinen 2014 导论所说的"同一枚硬币的两面"），先验还如何能合法地存在？
+
+### 简答
+
+交织不能只是"宣称"出来的。只是宣称，先验确实会失去合法性；如果交织能在反思中被**展示**为先验生活自身的结构，先验就仍然合法，只是意义要重新界定。合法性的关键在**方法轴**，不在**地位轴**。
+
+### 一、"交织"的四种含义
+
+| 含义 | 例子 | 威胁先验吗 |
+|---|---|---|
+| ① 承担者同一：同一个我既是先验的又是经验的 | Heinämaa 等 2014；《危机》§53 | 不威胁，只要说明两者的关系（§54 的自我客体化） |
+| ② 内容平行：每个先验结果都有世间的对应项 | 《危机》§72，"先验心理学" | 不威胁，平行预设了区分 |
+| ③ 依赖：先验功能依赖于世间结构（身体、语言、代际） | Heinämaa 等 2014 导论 p. 11 | **可能威胁**，看依赖的方向（见第三节） |
+| ④ 方法上做不完：还原不能完全完成 | 梅洛-庞蒂 | 看如何理解（见第二节） |
+
+### 二、两难论证：说"交织"的人站在哪里？
+
+"先验与经验是交织的"本身是一个论断，它只能从两种位置说出：
+
+- **从 A 格说出**（世界信念之下）：它是经验性论断（如"认知依赖身体"），谈不到 D 格。它不能废除先验，只能对先验避而不谈，这就是自然主义。
+- **从 D 格说出**（悬搁之后）：交织成为一个先验的发现，说的是构造生活如何自我客体化、如何嵌入世界。这已预设先验视角是合法的。
+
+梅洛-庞蒂属于后者："还原给我们的最大教益，是完全的还原是不可能的"（《知觉现象学》序言；**凭记忆转述，待对照原文**）。还原的不完整是执行还原得出的结果，不是从外部对它的否定。
+
+跳出这一两难的只有 Heidegger：构造者就是实际生存的此在（Hua IX, S. 601 f.）。但他在《存在与时间》里仍称此在分析为"先验的认识"（据 Heinämaa 等 2014 导论 p. 10 转引）。连最激烈的批评者也保留了先验的名称与功能。
+
+**限度：** 这个两难只保住了先验的**立足点**，没有保证先验是"纯粹的"。它说明交织可以合法地成为先验研究的课题，没有说明交织是什么样的。
+
+### 三、合法性靠什么
+
+- **如果靠地位轴**（先验者在存在上与世界分离），承认交织就等于取消先验。这是康德的处境：合法性来自先天性和非经验性（B 格），身体一旦进入先验，就破坏了这一点；《遗著》的困难可能由此而来（待查）。
+- **胡塞尔的合法性靠另外两样东西：**
+  1. **可展示性（方法轴）**："einer aufweisbaren, und nicht argumentativ konstruierten oder in einem mythischen Denken erdachten"（可展示的，而非论证地构造出来的，或在神话式思维中想出来的）（《危机》§53，S. 184）。
+  2. **有效性的方向**：世界的存在意义从构造生活中获得有效性，反过来不成立。
+
+由此得到判断交织的标准：
+
+- **合法的交织**：D 依赖 C，但这种依赖本身是被构造的，是 D 自我客体化为 C 的结果，并且可以在反思中展示。
+- **非法的交织**：D 的有效性由 C 中作为世间事实的东西奠基（例如身体的物理性质决定什么算作有效）。有效性方向倒转，结果是自然主义。
+
+问题因此不在"能不能承认交织"，而在"交织是被宣称的还是被展示的"。Heinämaa 等人从"不可设想无身体的知觉"直接推出"身体是先验条件"，是不经悬搁的本质变更论证，属于宣称；Sandu 方向相反，犯的是同一个错（第 3 条）。
+
+### 四、胡塞尔自己在重新界定先验：事实性进入先验内部
+
+Hua XV, S. 385 f.（1931，"Cartesianische Meditationen" 1931–1932 一组）：
+
+> "Eben im Verwiesenwerden auf die **Urfakta der Hyle** (im weitesten Sinn); **ohne die wäre keine Welt möglich und keine transzendentale Allsubjektivität**. … Wir kommen auf letzte ‚Tatsachen' – Urtatsachen, auf letzte Notwendigkeiten, die Urnotwendigkeiten. Aber ich denke sie, ich frage zurück und komme auf sie schliesslich von der Welt her, die ich schon ‚habe'. Ich denke, ich übe Reduktion, ich, der ich bin und für mich in dieser Horizonthaftigkeit bin. **Ich bin das Urfaktum** in diesem Gang, ich erkenne, dass zu meinem faktischen Vermögen der Wesensvariation etc. in meinem faktischen Rückfragen sich die und die mir eigenen Urbestände ergeben, als Urstrukturen meiner Faktizität. Und dass ich in mir einen Kern von ‚Urzufälligem' trage in Wesensformen, in Formen vermöglichen Funktionierens, in denen dann die weltlichen Wesensnotwendigkeiten fundiert sind. … Seine Notwendigkeit ist nicht Wesensnotwendigkeit, die ein Zufälliges offen liesse. **Alle Wesensnotwendigkeiten sind Momente seines Faktums** …"
+
+> 正是在被指向**质素的原事实**（最广义的）这一点上：**没有它们，就没有世界可能，也没有先验的大全主体性可能**。……我们达到最后的"事实"，即原事实，达到最后的必然性，即原必然性。但我思考它们，我回问，并最终从我已经"拥有"的世界出发达到它们。我思考，我进行还原，我，就是这个在这种视域性中为我存在的我。**在这一进程中，我就是原事实**；我认识到，在我事实性的回问中，相应于我事实性的本质变更能力等等，得出这样那样我所特有的原持存，它们是我的事实性的原结构。并且我认识到，我在自身中承载着一个"原偶然"的核心，它在本质形式之中，在能力性运作的形式之中，世间的本质必然性就奠基在这些形式中。……它的必然性不是那种为偶然留有余地的本质必然性。**一切本质必然性都是它的事实的环节**……
+
+另见 Hua XV 编者导论 S. XXXIX 所引胡塞尔的系统著作提纲："Die transzendentale Notwendigkeit des ‚Faktums' des ego"（自我之"事实"的先验必然性）。
+
+要点：
+
+- "先验"在晚期胡塞尔那里不再等于先天地纯粹：先验主体性有一个事实性的核心（第三根轴，参见 Tengelyi 2014 的"事实必然性"）。
+- 这个核心包括**质素（Hyle）**，即感性。身体正是从这里进入的。对照 1933/34 年的页边注："但也包括身体躯体！除非我排除了全部感性……"（Hua Dok II/2, S. 151）。
+- 先验对感性事实的依赖，这一交织的关键部分，胡塞尔是在先验**内部**承认的。
+- 对"是胡塞尔造成了错误，还是先验本身需要重新界定"这一问题：文本表明，胡塞尔自己已经沿第三根轴重新界定了先验。尚未完成的是地位轴上身体的位置。
+
+### 五、与研究计划的关联
+
+1. **举证责任：** 身体既不能靠宣称进入先验（Heinämaa 等），也不能靠宣称被排除（Sandu）。Part IV 要做的是**展示**：D 格中运作着的身体，以及它如何自我客体化为 C 格中的 Leibkörper。
+2. **对等论证（自己的重构）：** 反驳者会说运作着的身体是匿名的，无法在反思中把握。但运作着的自我同样是匿名的，只能在反思中事后（nachträglich）被把握。若匿名性不取消先验自我的合法性，也不应取消先验身体的合法性。动觉的"我能"作为能力，与自我的习性一样可以在反思中展示。
+3. **剩下的难点：** 身体的质素层与物理层，能否像 Hua XV S. 385 f. 那样被理解为先验内部的"原事实"，而不是从外部为有效性奠基的世间事实？这决定了研究计划中"交织"命题的强弱，也就是 Leibkörper 中 Körper 那一半的先验身份问题。
+4. **与康德比较：** 康德的交织问题在 A 与 B 之间，没有反思通道；在胡塞尔这里问题复现于 C 与 D 之间，但有自我客体化这一模型，以及事实性进入先验内部这一重新界定。
+
+### 待查问题
+
+- [ ] 梅洛-庞蒂《知觉现象学》序言中"完全的还原不可能"一句的原文与页码
+- [ ] Heidegger《存在与时间》§7 中"先验的认识"（veritas transcendentalis）的原文
+- [ ] Hua XV, S. 385 f. 所在文本的编号、标题与准确日期；同组文本中"Urfaktum"的其他出处
+- [ ] 胡塞尔论运作着的自我的"匿名性"与"事后"反思的文本（如《危机》§54b、Hua XXXIV），用于对等论证
+- [ ] Tengelyi 2014 原章：事实必然性与胡塞尔"原事实"的关系
