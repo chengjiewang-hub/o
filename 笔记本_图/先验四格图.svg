@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1090" width="1240" height="1090" font-family="'PingFang SC','Noto Sans CJK SC','Source Han Sans SC','Microsoft YaHei','WenQuanYi Zen Hei',sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs>
+<rect x="0" y="0" width="1240" height="1090" fill="#ffffff"/>
+<text x="620.0" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#222">“先验”的两轴四格：身体与构造者的定位</text>
+<text x="620.0" y="68" text-anchor="middle" font-size="13" fill="#666">笔记本第 2、4 条 · 条件角色（“X 是 Y 的可能性条件”）在四格中都能成立，格子说明的是方法与地位</text>
+<text x="410.0" y="120" text-anchor="middle" font-size="18" font-weight="700" fill="#333">不经悬搁</text>
+<text x="410.0" y="139" text-anchor="middle" font-size="12" fill="#666">世界有效性保持：回溯论证，或在世界信念下描述</text>
+<text x="930.0" y="120" text-anchor="middle" font-size="18" font-weight="700" fill="#333">经悬搁</text>
+<text x="930.0" y="139" text-anchor="middle" font-size="12" fill="#666">世界有效性中止：在反思中展示（aufweisbar）</text>
+<text x="1190" y="92" text-anchor="end" font-size="12" fill="#999">方法轴 →</text>
+<text transform="translate(92,345.0) rotate(-90)" text-anchor="middle" font-size="18" font-weight="700" fill="#333">世间的</text>
+<text transform="translate(112,345.0) rotate(-90)" text-anchor="middle" font-size="12" fill="#666">（悬搁后：被构造的，属于“现象”）</text>
+<text transform="translate(92,735.0) rotate(-90)" text-anchor="middle" font-size="18" font-weight="700" fill="#333">非世间的</text>
+<text transform="translate(112,735.0) rotate(-90)" text-anchor="middle" font-size="12" fill="#666">（构造者 / 运作者一侧）</text>
+<text transform="translate(50,540) rotate(-90)" text-anchor="middle" font-size="12" fill="#999">地位轴 →</text>
+<rect x="150" y="150" width="520" height="390" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="198" y="178" font-size="17" font-weight="700" fill="#222">A  经验性条件</text>
+<text x="656" y="178" text-anchor="end" font-size="12" fill="#888">层面 ①</text>
+<rect x="670" y="150" width="520" height="390" fill="#f6f6f6" stroke="#bbb" stroke-width="1.5"/>
+<text x="684" y="178" font-size="17" font-weight="700" fill="#222">C  被构造的条件</text>
+<text x="1100" y="178" text-anchor="end" font-size="12" fill="#888">层面 ②</text>
+<rect x="150" y="540" width="520" height="390" fill="#f6f6f6" stroke="#bbb" stroke-width="1.5"/>
+<text x="198" y="598" font-size="17" font-weight="700" fill="#222">B  回溯推出的先验主体</text>
+<text x="656" y="598" text-anchor="end" font-size="12" fill="#888">胡塞尔三层中无此格</text>
+<rect x="670" y="540" width="520" height="390" fill="#fafafa" stroke="#bbb" stroke-width="1.5"/>
+<text x="684" y="598" font-size="17" font-weight="700" fill="#222">D  运作着的构造者</text>
+<text x="1100" y="598" text-anchor="end" font-size="12" fill="#888">层面 ③</text>
+<rect x="150" y="150" width="1040" height="780" fill="none" stroke="#888" stroke-width="2"/>
+<rect x="202" y="194" width="212" height="63" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="210" y="216" font-size="13" font-weight="700" fill="#1d3f6e">胡塞尔 1925</text>
+<text x="210" y="232" font-size="11.5" fill="#444">Hua XIV 375：身体是“经验性的可能</text>
+<text x="210" y="247" font-size="11.5" fill="#444">性条件”；“我的身体躯体……物理关系”</text>
+<rect x="202" y="266" width="212" height="63" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="210" y="288" font-size="13" font-weight="700" fill="#1d3f6e">胡塞尔：心理学现象学</text>
+<text x="210" y="304" font-size="11.5" fill="#444">Hua IX；《危机》§72 与 D 平行的“</text>
+<text x="210" y="319" font-size="11.5" fill="#444">先验心理学”</text>
+<rect x="424" y="194" width="212" height="48" rx="7" fill="#fcefe6" stroke="#c0672b" stroke-width="1.4"/>
+<text x="432" y="216" font-size="13" font-weight="700" fill="#6e3510">康德（身体）</text>
+<text x="432" y="232" font-size="11.5" fill="#444">身体只是经验对象</text>
+<rect x="424" y="251" width="212" height="63" rx="7" fill="#fcefe6" stroke="#c0672b" stroke-width="1.4" stroke-dasharray="5,3"/>
+<text x="432" y="273" font-size="13" font-weight="700" fill="#6e3510">Strawson · Stroud</text>
+<text x="432" y="289" font-size="11.5" fill="#444">分析哲学的“先验论证”：有身体的个</text>
+<text x="432" y="304" font-size="11.5" fill="#444">人是指称的条件</text>
+<rect x="424" y="323" width="212" height="63" rx="7" fill="#e9f5ec" stroke="#3d8b55" stroke-width="1.4"/>
+<text x="432" y="345" font-size="13" font-weight="700" fill="#1f5130">Sandu 2018</text>
+<text x="432" y="361" font-size="11.5" fill="#444">身体是条件，但进不了 C、也进不了</text>
+<text x="432" y="376" font-size="11.5" fill="#444">D</text>
+<rect x="202" y="632" width="212" height="63" rx="7" fill="#fcefe6" stroke="#c0672b" stroke-width="1.4"/>
+<text x="210" y="654" font-size="13" font-weight="700" fill="#6e3510">康德：先验统觉</text>
+<text x="210" y="670" font-size="11.5" fill="#444">KrV B 135：“不包含任何杂多”；靠</text>
+<text x="210" y="685" font-size="11.5" fill="#444">演绎回溯推出</text>
+<rect x="424" y="632" width="212" height="48" rx="7" fill="#fcefe6" stroke="#c0672b" stroke-width="1.4" stroke-dasharray="5,3"/>
+<text x="432" y="654" font-size="13" font-weight="700" fill="#6e3510">Natorp（新康德主义）</text>
+<text x="432" y="670" font-size="11.5" fill="#444">纯粹自我不可对象化，只能“重构”</text>
+<text x="202" y="890" font-size="12" fill="#777">胡塞尔的批评：康德的“bloß regressive Methode”</text>
+<text x="202" y="908" font-size="12" fill="#777">导致“mythische Begriffsbildung”（《危机》§28、§30）</text>
+<rect x="682" y="194" width="200" height="48" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="690" y="216" font-size="13" font-weight="700" fill="#1d3f6e">胡塞尔：《观念 II》引线方法</text>
+<text x="690" y="232" font-size="11.5" fill="#444">被构造的身体作为分析的引线</text>
+<rect x="682" y="251" width="200" height="63" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="690" y="273" font-size="13" font-weight="700" fill="#1d3f6e">胡塞尔 1915–17</text>
+<text x="690" y="289" font-size="11.5" fill="#444">Hua XIII 375 “身体的先验演绎”</text>
+<text x="690" y="304" font-size="11.5" fill="#444">：位置在 C，论证是 B 式的</text>
+<rect x="682" y="323" width="200" height="63" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="690" y="345" font-size="13" font-weight="700" fill="#1d3f6e">胡塞尔 1927</text>
+<text x="690" y="361" font-size="11.5" fill="#444">Hua XIV 547：身体躯体只是“事实</text>
+<text x="690" y="376" font-size="11.5" fill="#444">上”必然</text>
+<rect x="892" y="194" width="200" height="48" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="900" y="216" font-size="13" font-weight="700" fill="#1d3f6e">《危机》§54（1936）</text>
+<text x="900" y="232" font-size="11.5" fill="#444">身体与人“属于'现象'”</text>
+<rect x="892" y="251" width="200" height="63" rx="7" fill="#e9f5ec" stroke="#3d8b55" stroke-width="1.4"/>
+<text x="900" y="273" font-size="13" font-weight="700" fill="#1f5130">Carman 1999</text>
+<text x="900" y="289" font-size="11.5" fill="#444">对胡塞尔的解读：身体只在 C，D</text>
+<text x="900" y="304" font-size="11.5" fill="#444">中无身体（批评）</text>
+<rect x="682" y="632" width="200" height="48" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="690" y="654" font-size="13" font-weight="700" fill="#1d3f6e">《危机》§54（1936）</text>
+<text x="690" y="670" font-size="11.5" fill="#444">原自我：自我极、习性、能力</text>
+<rect x="682" y="689" width="200" height="78" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="690" y="711" font-size="13" font-weight="700" fill="#1d3f6e">胡塞尔 1921/22</text>
+<text x="690" y="727" font-size="11.5" fill="#444">Hua XIV 61：对身体的</text>
+<text x="690" y="742" font-size="11.5" fill="#444">somatologische Wahrnehmung</text>
+<text x="690" y="757" font-size="11.5" fill="#444">是“自在的第一者”</text>
+<rect x="682" y="776" width="200" height="48" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="690" y="798" font-size="13" font-weight="700" fill="#1d3f6e">胡塞尔 1927</text>
+<text x="690" y="814" font-size="11.5" fill="#444">Hua XIV 547：动觉</text>
+<rect x="682" y="833" width="200" height="63" rx="7" fill="#fcefe6" stroke="#c0672b" stroke-width="1.4"/>
+<text x="690" y="855" font-size="13" font-weight="700" fill="#6e3510">Fink</text>
+<text x="690" y="871" font-size="11.5" fill="#444">现象学旁观者；在 A/C 中只是“非</text>
+<text x="690" y="886" font-size="11.5" fill="#444">本真的世间化”</text>
+<rect x="892" y="632" width="200" height="63" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="900" y="654" font-size="13" font-weight="700" fill="#1d3f6e">胡塞尔 1931</text>
+<text x="900" y="670" font-size="11.5" fill="#444">Hua XV 385 f.：“我是原事实”；</text>
+<text x="900" y="685" font-size="11.5" fill="#444">质素的原事实</text>
+<rect x="892" y="704" width="200" height="63" rx="7" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="900" y="726" font-size="13" font-weight="700" fill="#1d3f6e">胡塞尔 1933/34</text>
+<text x="900" y="742" font-size="11.5" fill="#444">Hua Dok II/2 151 页边注：“但</text>
+<text x="900" y="757" font-size="11.5" fill="#444">也包括身体躯体！”</text>
+<rect x="892" y="776" width="200" height="48" rx="7" fill="#e9f5ec" stroke="#3d8b55" stroke-width="1.4" stroke-dasharray="5,3"/>
+<text x="900" y="798" font-size="13" font-weight="700" fill="#1f5130">Zahavi 1994</text>
+<text x="900" y="814" font-size="11.5" fill="#444">有身体的先验主体性？</text>
+<rect x="892" y="833" width="200" height="63" rx="7" fill="#e9f5ec" stroke="#3d8b55" stroke-width="1.4"/>
+<text x="900" y="855" font-size="13" font-weight="700" fill="#1f5130">Heinämaa 等 2014</text>
+<text x="900" y="871" font-size="11.5" fill="#444">身体同时在 A/C 与 D（“一枚硬币</text>
+<text x="900" y="886" font-size="11.5" fill="#444">的两面”）</text>
+<line x1="1126" y1="890" x2="1126" y2="220" stroke="#555" stroke-width="2.4" marker-end="url(#ah)"/>
+<text transform="translate(1117,540) rotate(-90)" text-anchor="middle" font-size="12" fill="#333">自我客体化 D→C：Hua XV 300（1931）·《危机》§54 · Jacobs 2014</text>
+<line x1="1164" y1="220" x2="1164" y2="890" stroke="#555" stroke-width="1.8" stroke-dasharray="6,4" marker-end="url(#ah)"/>
+<text transform="translate(1155,540) rotate(-90)" text-anchor="middle" font-size="12" fill="#333">C→D：Hua XXXVI（1914–21）有身体的主体</text>
+<line x1="176" y1="220" x2="176" y2="890" stroke="#c0672b" stroke-width="1.8" stroke-dasharray="6,4" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text transform="translate(166,710) rotate(-90)" text-anchor="middle" font-size="12" fill="#6e3510">康德《遗著》：在 A 与 B 之间搭桥？（待查）</text>
+<rect x="200" y="512" width="320" height="56" rx="8" fill="#fcefe6" stroke="#c0672b" stroke-width="1.6"/>
+<text x="360.0" y="533" text-anchor="middle" font-size="13" font-weight="700" fill="#6e3510">Heidegger 1927（Hua IX 601 f.）</text>
+<text x="360.0" y="553" text-anchor="middle" font-size="11.5" fill="#444">构造者 = 生存着的具体的人：拒绝纵轴的二分</text>
+<rect x="560.0" y="512" width="220" height="56" rx="8" fill="#fcefe6" stroke="#c0672b" stroke-width="2"/>
+<text x="670" y="533" text-anchor="middle" font-size="13" font-weight="700" fill="#6e3510">梅洛-庞蒂</text>
+<text x="670" y="553" text-anchor="middle" font-size="11.5" fill="#444">还原不可完成：落在两条格线的交点上</text>
+<rect x="150" y="950" width="26" height="18" rx="4" fill="#e8f0fb" stroke="#3b6fb6" stroke-width="1.4"/>
+<text x="184" y="964" font-size="13" fill="#333">胡塞尔文本（年份 · 出处）</text>
+<rect x="378.84000000000003" y="950" width="26" height="18" rx="4" fill="#fcefe6" stroke="#c0672b" stroke-width="1.4"/>
+<text x="412.84000000000003" y="964" font-size="13" fill="#333">其他哲学家</text>
+<rect x="507.84000000000003" y="950" width="26" height="18" rx="4" fill="#e9f5ec" stroke="#3d8b55" stroke-width="1.4"/>
+<text x="541.84" y="964" font-size="13" fill="#333">研究文献</text>
+<rect x="623.84" y="950" width="26" height="18" rx="4" fill="#fff" stroke="#888" stroke-width="1.4" stroke-dasharray="5,3"/>
+<text x="657.84" y="964" font-size="13" fill="#333">虚线框：未对照原文 / 待查</text>
+<text x="150" y="994" font-size="13" fill="#333">第三根轴（不画入）：本质必然 / 事实必然——Tengelyi 2014；胡塞尔 1931，Hua XV 385 f.：“一切本质必然性都是它的事实的环节”。</text>
+<text x="150" y="1018" font-size="13" fill="#333">核心问题：D 中有没有身体？若有，它的自我客体化是否就是 C 中的 Leibkörper？（假设，待编码检验）</text>
+</svg>
