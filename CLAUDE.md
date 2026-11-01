@@ -16,6 +16,7 @@
 | `关于Leibkoerper的笔记本.md` | 研究笔记本（核心文件）。条目编号连续，新条目追加在末尾 |
 | `笔记本_图/` | 笔记本用图。`先验四格图.svg` 由 `scripts/notebook_grid_svg.py` 生成 |
 | `胡塞尔_语料/` | 全部全文语料（`*_volltext.md`，共 43 份）：Hua I–XXXIX、XLII 中的大部分卷、Hua Mat VIII、D 手稿、Fink《第六笛卡尔式沉思》两卷，部分卷附英译 |
+| `胡塞尔_语料/new_plan_from_Chengjie.docx` | 研究计划原件；同名 `.md` 是 pandoc 自动转换的文本版（含脚注），供阅读与检索，以 docx 为准 |
 | `胡塞尔_统计/` | 统计与表格：全集词频统计、Hua XXXIV 出处表、改稿与编辑记录表、CSV |
 | `胡塞尔_统计/早期分析/` | 更早的会话产出：Hua IV/V 词频、Hua III D 本身体改注追踪 |
 | `scripts/` | 检索与统计脚本（见下） |
