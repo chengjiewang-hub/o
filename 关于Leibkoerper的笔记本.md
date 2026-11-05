@@ -190,7 +190,7 @@ Hua XXXIV, Text Nr. 27: „Kritik des cartesianischen Dualismus. Die Undenkbarke
 | 胡塞尔 1921/22（Hua XIV, S. 61） | 指向 D：对身体的"somatologische Wahrnehmung""对作为运作着的自我的我而言是自在的第一者" | D | 见第 3 条 | 已核对 |
 | 胡塞尔 1927（Hua XIV, Beilage LXXIV，S. 547） | 动觉在 D；身体躯体在 C，而且只是"事实上"必然 | D | 第三根轴：事实必然性 | 已核对 |
 | 胡塞尔 1931（Hua XV, S. 287、S. 300） | D→C："身体……将自身构造为躯体"；并质疑"但是能这样划分吗？" | D | 进入层面 ③ 的路径 (b)，发生现象学 | 已核对 |
-| 胡塞尔 1933/34（Hua Dok II/2, S. 151 页边注） | 质疑把身体排除出 D："但也包括身体躯体！除非我排除了全部感性……" | D | 页边注的注号位置待对照原书 | 部分核对 |
+| 胡塞尔 1932 年夏（Hua Dok II/2, S. 151，对 Fink 改写稿的页边注） | 质疑把身体排除出 D："Aber auch den Leibkörper! Wenn ich nicht die universale Sinnlichkeit ausschalte und so meine Welterfahrung überhaupt."（但也包括身体躯体！除非我排除了全部感性，从而排除我的世界经验本身。） | D | 所在文本为"Umarbeitung der I.–V. Meditation (Sommer 1932)"；注号挂在哪一句，OCR 未保留，待对照原书 | 已核对（日期已更正，原记 1933/34 有误） |
 | 《危机》§54（1936） | C："这一切都属于'现象'" | D：原自我，只有自我极、习性与能力 | 进入层面 ③ 的路径 (c)；D 中是否有身体性的"能力"，悬而未决 | 已核对 |
 | Fink《第六笛卡尔式沉思》 | — | 现象学旁观者在 D；它在 A/C 中的出现只是"非本真的世间化" | §10–11 | 已核对 |
 | Heidegger 1927（Hua IX, S. 601 f.，致胡塞尔信的附件） | 拒绝纵轴的二分 | 构造者是"具体的人"，但人"作为存在者从不是'世间实在的事实'，因为人从不只是现成的，而是生存着的" | 纵轴被重新定义：世间的≠现成的；方法上不接受悬搁 | 已核对 |
@@ -202,13 +202,14 @@ Hua XXXIV, Text Nr. 27: „Kritik des cartesianischen Dualismus. Die Undenkbarke
 | Tengelyi 2014 | 不对应某一格：引入第三根轴，即事实必然性 | — | 据导论 p. 12 的概述 | 待读原章 |
 | Jacobs 2014 | D→C："先验主体性及其作为人的自我构造" | D | 据导论 pp. 12–13 的概述 | 待读原章 |
 
-### 与研究计划的关联
+### 与研究计划的关联（2026-11-04 修订）
 
-- **研究问题更精确：** "身体是可能性条件"几乎没有争议，但它只说明身体有条件角色，不说明身体在哪一格。真正的问题是：**D 格中有没有身体？** Part IV 应当围绕这一点展开。
-- **康德比较，以及"交织问题是否在胡塞尔这里复现"：** 在康德那里，身体只能在 A 格，先验主体只能在 B 格，两格之间没有反思的通道，这就是康德的先验与经验的交织问题（《遗著》中的身体性可以读作对这一缺口的补救尝试，待查）。在胡塞尔这里问题确实复现了，但位置移动了：不再是 A 与 B 之间，而是 **C 与 D 之间**。而且胡塞尔为这一关系提供了一个模型，即《危机》§54 的**自我客体化**：D 中的运作者把自己客体化为 C 中的被构造者，二者不是部分与整体的关系。
-- **"移植"问题因此可以表述为：** 是否存在一个 D 格中的运作着的身体，它的自我客体化就是 C 格中的被构造的身体？1931 年 Hua XV S. 300"身体……将自身构造为躯体"正是一个 D→C 的表述。
-- **与 Leibkörper 词汇线索的可能对应（假设，待编码检验）：** Leibkörper 及相关复合表达，也许正是标记 C 格结果（或 D→C 过程）的词汇；单独的 Leib、"运作着的身体"多用于指向 D；1925 年"我的身体躯体……物理关系"属于 A；《危机》中的 körperlicher Leib 属于世间的定位（A 或 C）。
-- **第三根轴（不画进表格）：** 必然性的模态，即本质必然还是事实必然（Tengelyi 2014）。它与两轴交叉。例如 1927 年胡塞尔认为身体躯体只是"事实上"必然，那是 C 格中的事实必然性。
+- **本研究的论点（研究者 2026-11-04 明确）：** 不是证明胡塞尔那里存在一个"先验的身体"，而是证明**胡塞尔对身体的使用始终在先验与经验之间摇摆、混淆，而这种摇摆会影响自康德以来对"先验"的界定**。本条初稿把"D 格中有没有身体"写成核心问题，又提出"移植"问题，都是对研究目标的误读，已删去。
+- **四格的用途是诊断：** 摇摆，就是同一个身体功能（零点、动觉、感觉的定位、"条件"角色）在 A、C、D 之间移动，而胡塞尔既没有标明这种移动，也没有为它论证。证据汇总见第 6 条。
+- **"可能性条件"正是摇摆的载体：** 条件角色在四格中都成立，所以胡塞尔可以在同一角色之下，一时把身体称为"经验性的"条件（1925，证据 1），一时把它当作"先验演绎"的对象（1915–17，证据 4）。
+- **康德比较：** 康德的先验与经验问题在 A 与 B 之间。胡塞尔这里，问题复现于 A/C 与 D 之间。待论证的主论点（中等强度）：这种摇摆不是胡塞尔个人的疏失，而是结构性的。凡承认条件具有身体性的先验哲学，都守不住康德式的界线（先验 = 非经验的先天条件）。康德《遗著》中的"自我刺激"（研究计划注 7）可能显示同样的摇摆，待查。
+- **与 Leibkörper 词汇线索的可能对应（假设，待编码检验）：** Leibkörper 及相关复合表达，是否集中出现在功能发生移动、而胡塞尔未加标明的地方？例如 1925 年"我的身体躯体……物理关系"（A）、1927 年"Faktisch sind die Kinästhesen in meinem Leibkörper lokalisiert"、1931 年"verichlichter Leibkörper"（第 6 条）。《危机》中的 körperlicher Leib 则用于先验维度在世界中的定位（§59，S. 214）。
+- **第三根轴（不画进表格）：** 必然性的模态，即本质必然还是事实必然（Tengelyi 2014）。它与两轴交叉。例如 1927 年胡塞尔认为身体躯体只是"事实上"如此（第 6 条证据 2）。
 
 ### 待查问题
 
@@ -271,7 +272,7 @@ Paul Gabriel Sandu, „Konstitution oder Deduktion des Eigenleibes? Paradoxien d
 
 ### 与研究计划的关联
 
-- **可作为靶子：** Sandu 的指控是"胡塞尔沿用了笛卡尔式的身心二分，从未把身体与物性、身体与主体性的关系当作问题"。Leibkörper 及相关表达的梳理正好可以回应：胡塞尔有一套超出 Leib/Körper 二分的词汇，而且至少在 Hua XIV 76（"双重构造"）、Hua XV 283（"不是补充部分"）处明确拒绝了部分-整体式的结合模型。
+- **与本研究论点的关系（2026-11-04 修订）：** Sandu 与本研究都认为胡塞尔在身体问题上不稳定，但**诊断不同**。Sandu 认为根源是沿用了笛卡尔式的身心二分；本研究认为根源是先验与经验之间的摇摆。胡塞尔确有超出 Leib/Körper 二分的词汇，并在 Hua XIV 76（"双重构造"）、Hua XV 283（"不是补充部分"）处明确拒绝了部分-整体式的结合模型。这些文本反驳的是 Sandu 的"笛卡尔主义"诊断，不反驳摇摆论点。
 - **可作为第 2 条区分的实例：** 说明为什么必须区分先验₁ 与先验₂。不区分，就会从"身体是条件"直接推出"还原失败"。
 
 ### 待查问题
@@ -346,16 +347,18 @@ Hua XV, Text Nr. 22，S. 385 f.（编者标题："Teleologie. Die Implikation de
 要点：
 
 - "先验"在晚期胡塞尔那里不再等于先天地纯粹：先验主体性有一个事实性的核心（第三根轴，参见 Tengelyi 2014 的"事实必然性"）。
-- 这个核心包括**质素（Hyle）**，即感性。身体正是从这里进入的。对照 1933/34 年的页边注："但也包括身体躯体！除非我排除了全部感性……"（Hua Dok II/2, S. 151）。
+- 这个核心包括**质素（Hyle）**，即感性。身体正是从这里进入的。对照 1932 年夏的页边注："但也包括身体躯体！除非我排除了全部感性……"（Hua Dok II/2, S. 151）。
 - 先验对感性事实的依赖，这一交织的关键部分，胡塞尔是在先验**内部**承认的。
 - 对"是胡塞尔造成了错误，还是先验本身需要重新界定"这一问题：文本表明，胡塞尔自己已经沿第三根轴重新界定了先验。尚未完成的是地位轴上身体的位置。
 
-### 五、与研究计划的关联
+### 五、与研究计划的关联（2026-11-04 修订）
 
-1. **举证责任：** 身体既不能靠宣称进入先验（Heinämaa 等），也不能靠宣称被排除（Sandu）。Part IV 要做的是**展示**：D 格中运作着的身体，以及它如何自我客体化为 C 格中的 Leibkörper。
-2. **对等论证（自己的重构）：** 反驳者会说运作着的身体是匿名的，无法在反思中把握。但运作着的自我同样是匿名的，只能在反思中事后（nachträglich）被把握。若匿名性不取消先验自我的合法性，也不应取消先验身体的合法性。动觉的"我能"作为能力，与自我的习性一样可以在反思中展示。
-3. **剩下的难点：** 身体的质素层与物理层，能否像 Hua XV S. 385 f. 那样被理解为先验内部的"原事实"，而不是从外部为有效性奠基的世间事实？这决定了研究计划中"交织"命题的强弱，也就是 Leibkörper 中 Körper 那一半的先验身份问题。
-4. **与康德比较：** 康德的交织问题在 A 与 B 之间，没有反思通道；在胡塞尔这里问题复现于 C 与 D 之间，但有自我客体化这一模型，以及事实性进入先验内部这一重新界定。
+本条初稿把"合法的交织"当作为先验身体辩护的途径，与本研究的论点不符（见第 2 条的修订说明）。本条现在的用途是：
+
+1. **提供衡量胡塞尔的尺子：** 胡塞尔自己的合法性标准是"可直观展示"和"有效性的方向"。论文要检验的是：在身体问题上，他是否达到了自己的标准。第 6 条显示，他多处依靠演绎、类比，或未加说明的词汇转换来下结论。
+2. **原先的"对等论证"改作预期的反驳：** 为胡塞尔辩护的人会说：运作着的自我同样匿名，匿名性不取消先验自我的合法性，所以也不取消先验身体的合法性。本研究的回应（自己的重构）：自我可以退回一个没有内容的"极"，匿名性几乎没有代价；运作着的身体却有内容（动觉场、定位的感觉、零点、质素），对这些内容的任何描述都必须对象化，从而落入 C 格或 A 格（见第 5 条第五节）。对等因此不成立，这正是身体使摇摆难以避免的原因。
+3. **Hua XV 的"原事实"：** 可作为胡塞尔承认先验内部有事实性的证据。它是对先验概念的重新界定，还是摇摆的又一种形式，需要在论文中论证。
+4. **与康德比较：** 康德的交织问题在 A 与 B 之间，没有反思通道；在胡塞尔这里问题复现于 A/C 与 D 之间。胡塞尔有自我客体化这一模型，也有事实性进入先验内部的重新界定，但这些能否消除摇摆，正是本研究要检验的。
 
 ### 待查问题
 
@@ -365,3 +368,248 @@ Hua XV, Text Nr. 22，S. 385 f.（编者标题："Teleologie. Die Implikation de
 - [ ] 同组文本（Hua XV Nr. 20–23 前后）中"Urfaktum"的其他出处
 - [ ] 胡塞尔论运作着的自我的"匿名性"与"事后"反思的文本（如《危机》§54b、Hua XXXIV），用于对等论证
 - [ ] Tengelyi 2014 原章：事实必然性与胡塞尔"原事实"的关系
+
+---
+
+## 5. 旁观者与运作者：Fink 的二分、旁观者对世间意义的依赖、运作者的通达问题
+
+`#等级/A` `#文本/定稿` `#文本/改稿` `#状态/已核对` · 关联：第 2、4、6 条；Part IV；"先验定义"论点。胡塞尔与 Fink 的引文均已对照语料。第四节"五种通达方式"的归纳和第五节的"机制"是**自己的重构**。
+
+### 出处
+
+- Fink《第六笛卡尔式沉思》：Hua Dok II/1, S. 12、13、22、82 f.（含胡塞尔页边注 240–242）、108 f.（§10）
+- 胡塞尔：《笛卡尔式沉思》§15（Hua I, S. 72 f.）；《危机》S. 110 f.、§59（S. 214）；Hua Mat VIII, Ms. C 2, S. 2；Hua X 附录 IX（语料为 Meiner 版，Hua 页码 S. 119）；Hua XIV, S. 61 与 Beilage VI（S. 75）
+
+### 一、Fink 的二分：先验主体性内部的裂缝
+
+> "Der Vollzug der phänomenologischen Reduktion lässt **im Felde der transzendentalen Subjektivität eine Kluft aufbrechen**, stiftet eine Scheidung des transzendentalen Seins in zwei heterogene Bezirke. Die transzendentale Elementarlehre hat es mit dem einen dieser Bezirke zu tun: mit dem transzendentalen Konstituieren (mit der Welt- und Seinsbildung). Das an der Weltkonstitution **‚unbeteiligte'**, sich von ihr durch die Epoche distanzierende Leben des **phänomenologisierenden Zuschauers** ist der Gegenstand der Methodenlehre."（Hua Dok II/1, S. 22）
+
+> 现象学还原的执行**在先验主体性的领域中撕开了一道裂缝**，把先验存在分成两个异质的区域。先验要素论处理其中一个区域：先验的构造（世界与存在的形成）。那个**"不参与"**世界构造、通过悬搁与之保持距离的**进行现象学研究的旁观者**的生活，则是方法论的对象。
+
+Fink 进一步问："‚Konstituiert' überhaupt noch der transzendentale, an der Weltkonstitution unbeteiligte Zuschauer?"（那个不参与世界构造的先验旁观者，还在"构造"吗？）（S. 13）
+
+**一处修正：** 研究者最初把二者理解为"两种态度"。更准确地说，旁观者是一种态度（不参与的反思）；运作者不是态度，而是在**一切**态度中进行构造的生活，包括在自然态度中，也包括在旁观者的反思活动之中。
+
+### 二、旁观者是自我的一部分
+
+> "…daß sich eine **Ichspaltung** vollzieht, in dem sich über dem naiv interessierten Ich das phänomenologische als **uninteressierter Zuschauer** etabliert. Daß dies statt hat, ist dann selbst durch eine neue Reflexion zugänglich, die als transzendentale abermals den Vollzug eben dieser Haltung des uninteressierten Zuschauens fordert…"（《笛卡尔式沉思》§15，Hua I, S. 73）
+
+> ……发生了一种**自我分裂**：在素朴的、有兴趣的自我之上，现象学的自我作为**无兴趣的旁观者**确立起来。这一点本身又只有通过一种新的反思才能通达，而这种反思作为先验的反思，又要求执行同样的无兴趣的旁观态度……
+
+旁观者自己的反思活动又是运作着的，因而是匿名的。所以对运作者的课题化总是"mit einem Rest, der unthematisch, der sozusagen **in Anonymität bleibt**, nämlich als die für diese Thematik fungierenden Reflexionen"（带着一个未成为课题的、可以说停留在**匿名之中**的剩余，即为这一课题而运作着的那些反思）（《危机》，Hua VI, S. 110 f.）。
+
+晚期手稿把这一点写成无穷的分裂与同一化：
+
+> "Dabei bin ich, das ‚Subjekt' dieses neuen Gegenüber, ‚anonym'. … So reflektierend und immer wieder reflektierend finde ich immer wieder Gegenüber-Seiendes und Ich … Ich finde in diesem **beständigen Sich-Spalten des Ich und Sich-dann-wieder-Identifizieren** ein Ich, das ich als **Urpol, als ursprünglich fungierendes Ich** bezeichne…"（Hua Mat VIII, Ms. C 2, S. 2）
+
+> 在这里，我，这个新的对面的"主体"，是"匿名的"。……这样反思又反思，我总是一再发现对面的存在者和自我……在自我这种**持续的自我分裂、随后又重新自我认同**之中，我发现一个自我，我称之为**原极，即原初运作着的自我**……
+
+**要点：** 旁观者不是一个独立的第二主体，而是自我在分裂中形成的一个样态；而且裂缝不只出现一次，每一次反思都会重新产生它。
+
+### 三、旁观者不能独立于世间意义
+
+**Fink 的立场：** 先验主体性只能"仿佛它是一个存在者"那样被谈论，因为通达它的唯一道路是从自然态度出发。
+
+> "Und trotzdem müssen wir die transzendentale Subjektivität ansetzen, **gleichsam als ob sie ein Seiendes wäre**. Wir haben gar keine andere Möglichkeit, sie zu erschliessen und auszulegen, wenn wir sie nicht **am analogischen Leitfaden der Seinsidee** zum Thema machen. Das gründet letzten Endes darin, dass wir zur transzendentalen Subjektivität **nur im Ausgang von der natürlichen Einstellung** und im Ausbruch aus ihr gelangen können. Die natürliche Einstellung ist selbst eine transzendentale Situation…"（Hua Dok II/1, S. 82 f.）
+
+> 尽管如此，我们还是必须**仿佛它是一个存在者那样**来设定先验主体性。如果不**以存在观念为类比的引线**把它作为课题，我们就根本没有别的可能去揭示和阐释它。这最终是因为，我们**只能从自然态度出发**、并从中突破出来，才能到达先验主体性。自然态度本身就是一种先验的处境……
+
+旁观者在世界中"出现"（被言说、被传达），依靠的是"非本真的世间化"：
+
+> "Dies nennen wir die eigentliche oder primäre Verweltlichung. Davon müssen wir aber streng unterscheiden eine **uneigentliche oder sekundäre Verweltlichung**. … Die uneigentliche Verweltlichung ist der Inbegriff des konstitutiven Geschehens, das **das Phänomenologisieren selbst in die Welt**, d. i. in die natürliche Einstellung **einstellt**, es dort ‚lokalisiert' und ‚temporalisiert', m. a. W. es in der Welt ‚erscheinen' lässt. Das Phänomenologisieren wird erst prädikativ explikabel … wenn es durch die sekundäre Verweltlichung — scheinbar — in eine weltliche Situation versetzt ist…"（Hua Dok II/1, §10, S. 108 f.）
+
+> 我们称之为本真的或原初的世间化。必须与之严格区分的，是一种**非本真的或次级的世间化**。……非本真的世间化，是那个把**现象学活动本身置入世界**、即置入自然态度的构造性事件的总和，它在那里被"定位"、被"时间化"，换言之，它在世界中"显现"出来。现象学活动只有……通过次级世间化——表面上——被置入一个世间处境之后，才能被谓述地阐释……
+
+**胡塞尔不同意 Fink 的说法**，在 S. 82 f. 上批了页边注：
+
+- 注 240（对"Wir haben gar keine…"一句）："gefährlich als scheinbare Schlussweise"（作为一种表面上的推论方式，是危险的）。
+- 注 241："So ist das irreführend. Durch Übergang in die Reduktion erwächst ein neuartiges ‚Identifizieren', ‚Erfahren', Anschauen, Antizipieren, Verallgemeinern, Ideieren, Prädizieren etc. Die gesamte Sprache mit allen sprachlichen Bedeutungen erhält **neuen Sinn — ganz von selbst** und nicht etwa, als ob darin eine Übernahme der natürlichen Bedeutungen all dieser Worte … vollzogen wäre. … Aber in der Reflexion über die Beziehung der natürlichen und der neuen Bedeutungen und im Hervortreten der blossen Analogie bedarf es der Feststellung der bloss ‚formalen' Parallele (der blossen analogia entis etc.), einer Wandlung zur transzendentalen Logik als einer absoluten, der ausdrücklichen Bewusstmachung der Konstitution eines neuen Seinsbegriffs etc. Gebannt sind wir nicht durch den alten Seinsbegriff, wir sind aber in einer Unklarheit, **in der Gefahr der Paradoxie**, solange wir nicht ausdrücklich die Reflexion durchgeführt haben."
+  - 译文：这样说是误导性的。通过进入还原，产生了一种新式的"认同""经验"、直观、预期、普遍化、观念化、谓述等等。全部语言及其一切语言含义都**自然而然地获得了新的意义**，而并不是仿佛在其中接管了所有这些词的自然含义……但在反思自然含义与新含义的关系、在单纯的类比显露出来时，就需要确认那只是"形式的"平行（单纯的存在类比等等），需要转向作为绝对逻辑的先验逻辑，需要明确意识到一个新的存在概念的构造等等。我们并没有被旧的存在概念束缚住，但只要还没有明确地进行这种反思，我们就处在一种不清楚之中，**处在悖论的危险之中**。
+- 注 242（标记为 K，即胡塞尔对"sind wir auch gebannt in den Seinsbegriff"一句的改写建议）："sind wir zunächst gebannt durch die Unmerklichkeit der Verwandlung der Seinsidee"（我们起初是被存在观念那种不易察觉的转变所束缚）。
+
+《危机》中的对应说法：现象学者使用"die Volkssprache, wie es unvermeidlich ist, aber auch **unter unvermeidlicher Sinnverwandlung**"（日常语言，这是不可避免的，但也带着**不可避免的意义转变**）（§59，S. 214）。
+
+**要点：**
+- 旁观者的言说依赖世间语言。在这一点上，胡塞尔和 Fink 没有分歧。
+- 分歧在于：Fink 认为只能**类比**地说，后来甚至认为严格说来连"类比"都不准确（S. 98）；胡塞尔认为词语的意义**已经**自然地转变了，只是需要反思把这种转变明确下来，否则有"悖论的危险"。
+- 对本研究重要的是胡塞尔注 242 的说法：**存在观念的转变"不易察觉"**。这为"摇摆"提供了一个胡塞尔自己承认的机制：词汇的意义从世间转到先验，或者反向，可以在不被察觉的情况下发生。
+
+### 四、运作者如何被意识到：五种方式（归纳是自己的重构）
+
+| 方式 | 能得到什么 | 代价 |
+|---|---|---|
+| ① 滞留 + 事后反思 | "Der Retention verdanken wir es also, daß das Bewußtsein zum Objekt gemacht werden kann."（正是靠滞留，意识才能被变成对象。）（Hua X, S. 119） | 抓到的是**已经运作过的**，不是正在运作的 |
+| ② 原意识 | "Bewußtsein ist notwendig Bewußtsein in jeder seiner Phasen. … so ist auch schon das Urdatum bewußt … **ohne gegenständlich zu sein**."（意识在它的每一个阶段都必然是意识……原初材料也已经被意识到……**而不是作为对象**。）（同上） | 运作者被体验到、被一同意识到，但**没有被意向**。按胡塞尔的术语，这不是直观（直观是意向的充实） |
+| ③ 反复反思中的同一化 | 上引 Mat VIII：在无穷的分裂中认出同一的"原极" | 抓到的只是**形式的同一性**，不是运作的具体内容 |
+| ④ 从被构造者回问（引线） | 运作者作为被构造者所回指的东西，被间接地意向 | 形式上接近康德的"回溯方法"，而这正是胡塞尔批评康德之处（《危机》§28，S. 106 f.；§30） |
+| ⑤ Fink 的"构造性现象学" | "die Gesamtheit aller die reduktive Gegebenheit des transzendentalen Lebens in motivierten Konstruktionen übersteigenden phänomenologischen Theorien"（以有动机的构造超出先验生活的还原被给予性的一切现象学理论的总和），Fink 称之为"transzendentale Dialektik"（先验辩证论）（Hua Dok II/1, S. 12） | 公开超出直观，并借用了康德的术语 |
+
+**结论：** 运作着的主体被**体验**（②）、在形式上被**认同**（③），或者被**回溯推出、被构造**（④⑤），但从没有**作为运作者被直观**。胡塞尔用"直观"把自己和康德区分开，这个主张对被构造者和事后反思大致成立，到运作者本身就变薄了。
+
+### 五、身体为何使问题尖锐（自己的重构）
+
+- **对自我，匿名性几乎没有代价：** 胡塞尔可以退到方式 ③，纯粹自我只是"极"，没有可以说明的内容（参见研究计划第 1 节："Pol"，"no explicable content"）。
+- **对身体，代价很大：** 运作着的身体有内容（动觉场、定位的感觉、零点、质素）。
+  - 方式 ③ 用不上，除非把身体削减为零点，即研究计划中的"formal Leib"。这样看，**"形式的身体"正是方式 ③ 在身体上的翻版**。
+  - 方式 ② 只给出"一同被意识到"，无法描述。
+  - 一旦要描述运作着的身体的内容，就必须对象化；一经对象化，它就落入 C 格或 A 格，靠近 Leibkörper，靠近"作为自然客体的人"。
+- **文本痕迹：**
+  - 1921/22 年，胡塞尔把身体对"运作着的自我"的自身给予称为"somatologische **Wahrnehmung**"，说它"für mich als fungierendes Ich das an sich Erste"（对作为运作着的自我的我而言是自在的第一者）（Hua XIV, S. 61）。"知觉"是对象化行为的名称。
+  - 稍后的修正稿："Der Anschlag, den ich da mache, ist unvollkommen und wohl inkorrekt. Vor aller Funktion als Aussenleib ist der Leib für sich selbst **konstituiert** in besonderer Weise. 1) Voran geht ein Fungieren des Ich in der Kinästhese…"（我在那里所作的尝试是不完善的，大概也不正确。在一切作为外部身体的功能之前，身体以特殊的方式为自身**被构造**。1）在此之前，有自我在动觉中的运作……）（Hua XIV, Beilage VI，"Korrektur von S. 61 ff."，1921 年或稍后，S. 75）。先于一切对象化的东西，用的却是"被构造"这个词。
+- **由此得到的论点表述（待检验）：** 康德的先验主体之所以能保持干净，是因为它没有内容、不可直观（B 格）。胡塞尔要求先验的东西既有内容又可直观。身体正是这两个要求相撞的地方：运作着的身体有内容，但这些内容只有经过对象化才能被直观，而一经对象化就成了世间的、被构造的东西。所以胡塞尔对身体的使用必然在先验与经验之间摇摆。这暴露出，自康德以来的先验定义（非经验、作为条件）与胡塞尔自己的直观原则，在身体上无法同时成立。
+
+### 与研究计划的关联
+
+- 为"摇摆"论点提供**机制**：摇摆不是粗心，而是通达运作者的方式所致（第四、五节），再加上胡塞尔自己承认的"存在观念不易察觉的转变"（注 242）。
+- 为"先验定义"论点提供与康德的具体对照点：方式 ④⑤ 恰好是胡塞尔批评康德、而自己又不得不使用的方法。
+- 可直接并入编码：对胡塞尔描述运作着的身体的每一处，标注所用的通达方式（①–⑤），以及是否使用了对象化词汇（Wahrnehmung、konstituiert、Leibkörper、Körper）。
+
+### 待查问题
+
+- [ ] Fink《第六沉思》S. 81 注 236（胡塞尔注 241 引用的"Seitenbemerkung"）
+- [ ] Fink S. 98 关于"类比的意义功能""严格说来是错的"那一段的完整上下文
+- [ ] Hua X 附录 IX：语料是 Meiner 版（Bernet 编），引用前对照 Hua X 原书页码
+- [ ] Held《Lebendige Gegenwart》（1966）对"原自我"匿名性的经典分析
+- [ ] Zahavi 关于前反思的自身意识的论述：与方式 ② 的关系
+- [ ] Hua XIV, Beilage VI 全文细读（已在 `CLAUDE.md` 待办中）
+
+---
+
+## 6. 摇摆的证据：胡塞尔在身体问题上先验与经验之间的不一致
+
+`#等级/A` `#文本/定稿` `#文本/改稿` `#状态/已核对` · 关联：本研究的主论点（见第 2 条修订说明）；Part II、Part IV；第 5 条（机制）。所有引文已对照语料，日期取自编者标注（"wohl"= 编者推定）。分类与"强度"判断是自己的。
+
+### 使用前的方法提醒
+
+- **区分"发展"与"摇摆"：** 不同时期的不一致（**历时**），反对者可以解释为思想的发展；同一时期、同一文本内的不一致（**共时**），才是"摇摆"的强证据。下表逐条标出。
+- **区分摇摆的几种形式：** 同一角色换名称；可排除性的立场不一；奠基方向反复；对运作者使用对象化词汇；在先验分析中使用世间范畴；方法原则与实际做法不符。
+- 这里只是目前已核对的证据，还不是系统编码的结果。
+
+### 证据
+
+**1. 同一个条件角色，前后换了名称（历时）**
+
+- 1915–17：Hua XIII, Text Nr. 14, S. 375："Transzendentale Deduktion des Leibes" …"kann nur ein transzendent konstituierter Gegenstand sein: Wir nennen ihn ‚mein Leib'"（全文见第 2 条证据 4）。
+- 1925：Hua XIV, Beilage XLVI, S. 375：身体是"**empirische** Bedingung der Möglichkeit für alle Erscheinungen"（一切显现的**经验性的**可能性条件）（全文见第 2 条证据 1）。
+- 要点：同样是"身体作为条件"，十年间从"先验演绎"变成了"经验性条件"，胡塞尔没有说明为什么。
+
+**2. 同一篇短文内：身体可以被想掉，同感却预设身体性（共时，强）**
+
+Hua XIV, Beilage LXXIV "Leiblose Welt"（wohl Februar 1927），S. 547：
+
+> "**Faktisch** sind die Kinästhesen in meinem **Leibkörper** lokalisiert und ist mein Leib notwendig an ‹das› Null gebunden, wie auch Träger eines Tastfeldes etc. Aber **denkbar ist es, dass ich gar keinen Leib habe**, dass eine Natur ohne einen Leib sich durch Kinästhesen, Nah- und Fernkinästhesen, konstituiert. Ich kann nicht einsehen, warum das nicht möglich sein soll. … Es könnte sich doch rein kinästhetisch das Null konstituieren. Freilich fragt es sich dann, ob ich nicht zum solus verurteilt wäre. **Die Einfühlung setzt Leiblichkeit voraus.**"
+
+> **事实上**，动觉定位在我的**身体躯体**之中，我的身体必然地系于零点，也是触觉场的承载者等等。但**可以设想我根本没有身体**，设想一个没有身体的自然通过动觉（近动觉和远动觉）构造起来。我看不出为什么这不可能。……零点也完全可以纯粹动觉地构造起来。当然，这样就要问，我是否会被判为唯我（solus）。**同感预设了身体性。**
+
+- 要点：同一页上，身体先被降为"事实上"的、可以想掉的东西（动觉与零点被剥离出来），随即又被当作同感的前提（先验交互主体性的条件）。词汇也随之分化：被"事实上"定位的是 **Leibkörper**，被系于零点的是 **Leib**。
+
+**3. 同一文本内：身体化的自我是"先验构造的统一体"，随即又问"能这样划分吗"（共时，强）**
+
+Hua XV, Text Nr. 17（Anfang September 1931），S. 287, Z. 15–24：
+
+> "Aber dieses primordiale Menschen-Ich, **konkret verleiblichtes Ich oder verichlichter Leibkörper**, ist selbst Einheit transzendentaler Konstitution, und somit kommen wir letztlich doch im Zurückfragen nach der konstitutiven Bildung des Seinssinnes Ich-Mensch auf die tiefste Scheidung: auf das transzendental-primordiale Ich seines strömenden transzendentalen Lebens – darin die Welt konstituierenden – und das Nicht-Ich, die Welt, einschliesslich des verleiblichten Ich. **Aber kann man so scheiden?**"
+
+> 但这个原初的人-自我，即**具体地身体化了的自我，或自我化了的身体躯体**，本身是先验构造的统一体。于是，在回问"自我-人"这一存在意义的构造形成时，我们最终还是达到最深的划分：一边是先验-原初的自我及其流动着的先验生活（世界在其中被构造），另一边是非我，即世界，包括身体化了的自我。**但是能这样划分吗？**
+
+- 要点：这是胡塞尔对 D 与 A/C 之分本身提出的疑问。"verichlichter Leibkörper"（自我化了的身体躯体）这个表达，正好处在被划分的界线上。
+
+**4. 同月另一文本：身体"将自身构造为躯体"（与证据 3 共时）**
+
+Hua XV, Beilage XVIII（wohl September 1931；编者标题："Die Weise, wie der Leib sich als Körper und Leib konstituiert…"），S. 300, Z. 2–10：
+
+> "Aber wodurch er als Organ des Ich und als von ihm untrennbar konstituiert ist, das ist nicht eine Auflage, die der **Leibkörper** zufällig hat und andere Körper zufällig nicht haben. Denn nur durch das Fungieren des Leibes als Organ kann sich Aussenkörper als räumlich seiend, mit körperlichen Eigenschaften konstituieren, und **der Leib sich selbst konstituieren als Körper**…"
+
+> 但使它被构造为自我的器官、与自我不可分离的东西，并不是身体躯体偶然具有、而其他躯体偶然没有的附加物。因为只有通过身体作为器官的运作，外部躯体才能被构造为在空间中存在的、具有躯体性质的东西，**身体也才能将自身构造为躯体**……
+
+- 要点：同一个月里，一处让身体在构造者一侧运作（自我构造为躯体），另一处怀疑构造者与"身体化的自我"能否划分开来。
+
+**5. 胡塞尔对 Fink 的页边注：身体躯体不能被排除（与证据 2 历时对立）**
+
+Hua Dok II/2, S. 151（Fink "Umarbeitung der I.–V. Meditation"，Sommer 1932），胡塞尔页边注：
+
+> "Aber auch den **Leibkörper**! Wenn ich nicht die universale Sinnlichkeit ausschalte und so meine Welterfahrung überhaupt."
+
+> 但也包括身体躯体！除非我排除了全部感性，从而排除我的世界经验本身。
+
+- 要点：1927 年"可以设想我根本没有身体"；1932 年身体躯体与感性、世界经验一起不可排除；1936 年《危机》§54 又说悬搁中"zeigt sich eo ipso nichts Menschliches"（根本没有任何属人的东西显现）（S. 187）。注号挂在哪一句，OCR 未保留，待对照原书。
+
+**6. 奠基方向的反复（历时，其中有一处共时的自我修正）**
+
+- 约 1913：Hua XIII, Beilage XVI（Lipps 学说的摘录与批评，wohl um 1913），S. 70："Die ästhesiologisch-kinetische Schicht macht den Leibkörper zum Leibe, und der Leib ist sozusagen das Feld und vor allem das Organ des Ich."（感觉学-动觉层使身体躯体成为身体，而身体可以说是自我的场所，尤其是自我的器官。）这一句出现在胡塞尔第一人称的评论部分，看来不是对 Lipps 的摘录，建议对照原书确认。
+- 1921/22：Hua XIV, Text Nr. 3, S. 61：作为身体的被给予"genau besehen **nicht fundiert** in seiner Gegebenheit als physisches Ding"（细看之下**并不奠基于**它作为物理物的被给予）。
+- 1921 或稍后：Hua XIV, Beilage VI（"Korrektur von S. 61 ff."），S. 75："Der Anschlag, den ich da mache, ist unvollkommen und **wohl inkorrekt**."（我在那里所作的尝试是不完善的，**大概也不正确**。）同时，S. 61, Z. 34 至 S. 63, Z. 11 被删去，并注明参看这一修正。
+- 1931：Hua XV, S. 300：身体"将自身构造为躯体"（证据 4）。
+- 要点：1913 年躯体在先、身体由它而成；1921/22 年身体的被给予不以躯体为基础，随即自认"大概不正确"；1931 年身体自身构造为躯体。
+
+**7. 对运作着的身体使用对象化词汇（共时）**
+
+- Hua XIV, S. 61：身体对"运作着的自我"的自身给予，被称为"somatologische **Wahrnehmung**"，"für mich als fungierendes Ich das an sich Erste"。
+- Hua XIV, Beilage VI, S. 75：先于一切外部身体功能的身体，"für sich selbst **konstituiert** in besonderer Weise"。
+- 要点：描述运作者，用的却是"知觉""被构造"这些对象化的词。机制见第 5 条第五节。
+
+**8. 在先验还原后的原初领域中使用心理物理范畴（共时，强）**
+
+《笛卡尔式沉思》§51，Hua I, S. 143, Z. 6–11：
+
+> "Ich als **primordinales, psychophysisches Ich** bin beständig abgehoben in meinem primordinalen Wahrnehmungsfeld … Im besonderen ist stets da und sinnlich abgehoben **mein Leibkörper**, aber zudem ebenfalls in primordinaler Ursprünglichkeit ausgestattet mit dem spezifischen Sinn der Leiblichkeit."
+
+> 我作为**原初的、心理物理的自我**，在我的原初知觉场中始终是凸显的……特别是，**我的身体躯体**始终在场并在感性上凸显，而且同样在原初的本原性中被赋予身体性的特有意义。
+
+- 要点：在已经经过先验还原（甚至本己还原）的领域里，胡塞尔用"心理物理的"（世间心理学的范畴）来称呼原初自我，并用 Leibkörper 称呼它的身体。
+
+**9. 同一句中，"我"既不是又是自然客体（共时）；后来又亲手改词**
+
+Hua IV（1952 年 Biemel 版），S. 203：
+
+> "‚Ich bin hier', das heißt **nicht**, ich bin Naturobjekt. **Ich, der Mensch als Naturobjekt, bin Leibkörper**, und der Leibkörper ist – egoistisch-subjektiv betrachtet – mein Umgebungsobjekt im ‚Hier' und ist, objektiv betrachtet, an dem in dem subjektiven Hier sich darstellenden Ort des objektiven [Raumes]…"
+
+> "我在这里"，并**不**意味着我是自然客体。**我，作为自然客体的人，是身体躯体**；而身体躯体，从自我-主观的角度看，是我在"这里"的周围对象，从客观的角度看，则位于在主观的"这里"中呈现出来的那个客观［空间］位置上……
+
+- 新版 Hua IV/V 对应处（S. 224, Z. 22、S. 224, Z. 28、S. 225, Z. 4）的校勘显示，三处 Leib 后来被铅笔改为 Leib-Körper（见 `胡塞尔_统计/Leibkoerper_改稿与编辑记录.md` A2–A4）。
+- 要点：Leibkörper 在这里明确站在"自然客体"一侧，而胡塞尔后来又把原稿中的 Leib 改成 Leib-Körper。词汇在改稿中移动了。
+
+**10. 先验维度通过世间的身体被定位（结构位置）**
+
+《危机》§59，S. 214：
+
+> "Wie vordem das Seelische, so ist nun auch dieses neu Eingeströmte konkret in der Welt **durch den körperlichen Leib**, den wesensmäßig immer mitkonstituierten, **lokalisiert**; Ich-Mensch mit der mir nun zugemessenen transzendentalen Dimension bin irgendwo im Raume und irgendwann in der Weltzeit."
+
+> 如同先前的心灵之物一样，这新涌入的东西现在也具体地在世界中，**通过躯体性的身体**（那始终本质上一同被构造的身体）**被定位**；作为带着现在被归给我的先验维度的自我-人，我在空间中的某处、在世界时间中的某时。
+
+- 要点：这本身不是不一致，而是摇摆发生的**位置**：先验维度要进入世界，必须经过 körperlicher Leib。对照 §54（S. 187）："all das gehört ins ‚Phänomen'"（这一切都属于"现象"）。
+
+**11. 方法原则与实际做法（历时）**
+
+- 原则：先验的成果必须是"einer aufweisbaren, und nicht argumentativ konstruierten oder in einem mythischen Denken erdachten"（可展示的，而非论证地构造出来的，或在神话式思维中想出来的）（《危机》§53，S. 184）；康德的"bloß regressive Methode"导致"mythische Begriffsbildung"（§28，S. 106 f.；§30，S. 116 f.）。
+- 做法：身体被"先验演绎"（证据 1），而且"Das alles ist offenbar transzendental deduzierbar"（这一切显然可以先验地演绎）（Hua XIII, S. 376 注 1）。
+- 要点：时间相隔二十年，可能被解释为方法的发展。但它说明，**在身体问题上，胡塞尔至少有一段时期采用了他后来批评康德的那种方法**。
+
+### 汇总
+
+| 证据 | 形式 | 历时 / 共时 | 强度（自己的判断） |
+|---|---|---|---|
+| 1 | 同一角色换名称 | 历时 | 中 |
+| 2 | 可排除性立场不一 | **共时（同一页）** | 强 |
+| 3 | 怀疑先验划分本身 | **共时（同一文本）** | 强 |
+| 4 | 与 3 对照 | **共时（同月）** | 中 |
+| 5 | 可排除性立场不一 | 历时 | 中 |
+| 6 | 奠基方向反复 | 历时 + 一处共时自我修正 | 中 |
+| 7 | 对运作者使用对象化词汇 | 共时 | 中 |
+| 8 | 先验领域中用世间范畴 | 共时 | 强 |
+| 9 | 同一句中立场相反；改稿中换词 | 共时 + 改稿 | 中 |
+| 10 | 先验维度经由世间身体定位 | — | 结构位置 |
+| 11 | 方法原则与做法不符 | 历时 | 中 |
+
+### 与研究计划的关联
+
+- 证据 2、3、8 是"摇摆"而不只是"发展"的最强证据，适合在 Part II 或 Part IV 的开头作为问题的展示。
+- 证据中反复出现 **Leibkörper**（2、3、4、5、8、9）和 **körperlicher Leib**（10），正好落在立场发生移动的地方。这支持一个待检验的假设：**这些中间表达正是摇摆在词汇上留下的痕迹。**
+- 编码时，除了连接形式与层面，还应标注：历时 / 共时；合法性方式（直观展示 / 演绎 / 类比 / 引线）；通达方式（第 5 条 ①–⑤）。
+
+### 待查问题
+
+- [ ] 系统检索更多**共时**的例子，尤其是同一文本内 Leib 与 Leibkörper 承担同一功能的段落
+- [ ] Hua Dok II/2, S. 151 页边注的注号位置（对照原书）
+- [ ] Hua XIII, S. 70：确认是胡塞尔自己的评论，而非对 Lipps 的摘录
+- [ ] Hua IV 1952 年版的文本层次（Stein、Landgrebe 的编订）对证据 9 的影响
+- [ ] 康德《遗著》AA XXII, 387、461（研究计划注 7）：是否有可对照的摇摆

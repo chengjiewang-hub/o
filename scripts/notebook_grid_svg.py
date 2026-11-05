@@ -156,7 +156,7 @@ column(rx, YM + 92, cw3, [
 ])
 column(rx + cw3 + 10, YM + 92, cw3, [
     ("胡塞尔 1931", "Hua XV 385 f.：“我是原事实”；质素的原事实", "h"),
-    ("胡塞尔 1933/34", "Hua Dok II/2 151 页边注：“但也包括身体躯体！”", "h"),
+    ("胡塞尔 1932 年夏", "Hua Dok II/2 151 页边注：“但也包括身体躯体！”", "h"),
     ("Zahavi 1994", "有身体的先验主体性？", "s", True),
     ("Heinämaa 等 2014", "身体同时在 A/C 与 D（“一枚硬币的两面”）", "s"),
 ])
@@ -196,7 +196,7 @@ for kind, label in [("h", "胡塞尔文本（年份 · 出处）"), ("p", "其�
 A(f'<rect x="{lx}" y="{ly-14}" width="26" height="18" rx="4" fill="#fff" stroke="#888" stroke-width="1.4" stroke-dasharray="5,3"/>')
 A(f'<text x="{lx+34}" y="{ly}" font-size="13" fill="#333">虚线框：未对照原文 / 待查</text>')
 A(f'<text x="{X0}" y="{ly+30}" font-size="13" fill="#333">第三根轴（不画入）：本质必然 / 事实必然——Tengelyi 2014；胡塞尔 1931，Hua XV 385 f.：“一切本质必然性都是它的事实的环节”。</text>')
-A(f'<text x="{X0}" y="{ly+54}" font-size="13" fill="#333">核心问题：D 中有没有身体？若有，它的自我客体化是否就是 C 中的 Leibkörper？（假设，待编码检验）</text>')
+A(f'<text x="{X0}" y="{ly+54}" font-size="13" fill="#333">本研究的论点：胡塞尔对身体的使用在先验与经验之间摇摆。四格用于诊断：同一身体功能在 A、C、D 之间未加标明的移动（见第 2、6 条）。</text>')
 
 A('</svg>')
 open(OUT, "w", encoding="utf-8").write("\n".join(out))
